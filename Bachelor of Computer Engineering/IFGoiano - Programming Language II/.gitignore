@@ -1,0 +1,4 @@
+# Project exclude paths
+/.vscode
+/bin
+lp-2.jar
