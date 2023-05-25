@@ -1,0 +1,22 @@
+// Criação do banco de dados
+CREATE DATABASE Aplicação_LP2;
+
+// Criação das tabelas
+CREATE TABLE Aluno (
+nome varchar(30) NOT NULL,
+sobrenome varchar(30) NOT NULL,
+matricula int NOT NULL,
+PRIMARY KEY (matricula)
+);
+
+CREATE TABLE Professor (
+nome varchar(30) NOT NULL,
+sobrenome varchar(30) NOT NULL,
+disciplina varchar(30) NOT NULL,
+PRIMARY KEY (nome, sobrenome)
+)
+
+// Credencias do banco utilizadas (encontrado na classe BancoDeDados.java)
+Nome do banco = Aplicação_LP2;
+Usuário = postgres;
+Senha = postgres;
