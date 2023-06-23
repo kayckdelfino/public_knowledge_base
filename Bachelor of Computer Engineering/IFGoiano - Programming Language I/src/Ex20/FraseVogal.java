@@ -8,6 +8,7 @@ public class FraseVogal {
 
         System.out.println("Insira uma frase:");
         String frase = sc.nextLine();
+        sc.close();
 
         System.out.println("\nVogais:");
         for (int i = 0; i < frase.length(); i++) {

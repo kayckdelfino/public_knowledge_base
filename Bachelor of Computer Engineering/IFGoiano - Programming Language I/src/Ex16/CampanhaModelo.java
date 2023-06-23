@@ -16,6 +16,7 @@ public class CampanhaModelo {
             System.out.println("Idade:");
             idades[i] = sc.nextInt();
         }
+        sc.close();
 
         System.out.println("\nCandidatas aptas a concorrer a vaga:");
         for (int i = 0; i < 10; i++) {

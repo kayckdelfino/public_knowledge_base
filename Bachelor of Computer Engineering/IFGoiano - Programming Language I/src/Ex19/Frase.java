@@ -13,6 +13,7 @@ public class Frase {
             System.out.println("A frase é muito longa!");
             frase = sc.nextLine();
         }
+        sc.close();
 
         int espacos = 0;
 

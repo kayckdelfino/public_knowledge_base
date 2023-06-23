@@ -12,6 +12,7 @@ public class CalcEstoqueMedio {
         System.out.println("Quantidade máxima da peça: ");
         int max = sc.nextInt();
 
+        sc.close();
         System.out.println("Estoque médio: " + ((float) min + (float) max) / 2);
     }
 }

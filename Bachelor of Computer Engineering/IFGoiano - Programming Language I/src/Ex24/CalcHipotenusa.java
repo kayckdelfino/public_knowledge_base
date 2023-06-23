@@ -18,6 +18,7 @@ public class CalcHipotenusa {
 
         System.out.println("Insira o valor do cateto adjascente:");
         double cat_adjascente = sc.nextDouble();
+        sc.close();
 
         System.out.println("\nO valor da hipotenusa é: " + hipotenusa(cat_oposto, cat_adjascente));
     }

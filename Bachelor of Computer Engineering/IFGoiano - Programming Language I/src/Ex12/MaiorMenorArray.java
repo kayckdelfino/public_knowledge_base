@@ -18,6 +18,7 @@ public class MaiorMenorArray {
                 numeros.add(n);
             } else encerrar = true;
         } while (encerrar == false);
+        sc.close();
 
         double menor = Double.MAX_VALUE;
         double maior = - Double.MAX_VALUE;

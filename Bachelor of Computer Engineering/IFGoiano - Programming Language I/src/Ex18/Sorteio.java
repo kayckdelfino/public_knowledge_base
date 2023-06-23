@@ -20,6 +20,7 @@ public class Sorteio {
             else System.out.println("O número sorteado é menor que " + palpite);
             tentativas++;
         } while (palpite != sorteado);
+        sc.close();
 
         System.out.println("\nVocê acertou! O número sorteado era " + sorteado);
         System.out.println("Foram feitas " + tentativas + " tentativas");

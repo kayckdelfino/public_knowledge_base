@@ -27,5 +27,6 @@ public class LeInteiro {
             }
             if (condicao.equalsIgnoreCase("S") == true) encerrar = true;
         } while (encerrar == false);
+        sc.close();
     }
 }

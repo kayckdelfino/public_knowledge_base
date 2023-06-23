@@ -12,7 +12,8 @@ public class TrocaN1N2 {
         int a = sc.nextInt();
         System.out.println("B:");
         int b = sc.nextInt();
-
+        sc.close();
+        
         int aux = a;
         a = b;
         b = aux;

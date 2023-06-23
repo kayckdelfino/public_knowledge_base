@@ -35,5 +35,6 @@ public class IndicePoluicao {
             }
             if (condicao.equalsIgnoreCase("S") == true) encerrar = true;
         } while (encerrar == false);
+        sc.close();
     }
 }

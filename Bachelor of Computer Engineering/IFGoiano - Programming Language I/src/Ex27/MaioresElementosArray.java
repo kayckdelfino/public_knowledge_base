@@ -24,6 +24,7 @@ public class MaioresElementosArray {
             System.out.println("Este valor não deve ser maior que o tamanho do array! Insira novamente:");
             x = sc.nextInt();
         }
+        sc.close();
 
         System.out.println("\nArray original: " + array);
 

@@ -29,6 +29,7 @@ public class VetoresIguais {
                 v2.add(n);
             } else encerrar = true;
         } while (encerrar == false);
+        sc.close();
 
         int iguais = 0;
         if (v1.size() < v2.size()) {

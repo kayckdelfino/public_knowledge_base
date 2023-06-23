@@ -19,6 +19,7 @@ public class MatrizNumeros {
                 numeros.add(n);
             } else encerrar = true;
         } while (encerrar == false);
+        sc.close();
 
         double proporcao = Math.sqrt(numeros.size());
         proporcao = Math.ceil(proporcao);

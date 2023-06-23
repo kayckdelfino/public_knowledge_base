@@ -17,6 +17,7 @@ public class VetorMedia {
             int n = sc.nextInt();
             vetor[i] = n;
         }
+        sc.close();
 
         double media = 0;
         int maior = Integer.MIN_VALUE;

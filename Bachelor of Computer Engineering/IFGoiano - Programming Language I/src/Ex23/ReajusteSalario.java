@@ -16,6 +16,7 @@ public class ReajusteSalario {
 
         System.out.println("Qual a porcentagem de acréscimo ou decréscimo?");
         double aumento = sc.nextDouble();
+        sc.close();
 
         aumento = (1 + (aumento / 100));
 

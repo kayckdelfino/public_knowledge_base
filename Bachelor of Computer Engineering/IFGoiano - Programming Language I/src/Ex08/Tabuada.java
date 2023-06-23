@@ -8,6 +8,7 @@ public class Tabuada {
 
         System.out.println("Número:");
         int n = sc.nextInt();
+        sc.close();
 
         System.out.println("\nTabuada:");
         for (int i = 1; i <= 10; i++) System.out.println(n + " x " + i + " = " + (n * i));

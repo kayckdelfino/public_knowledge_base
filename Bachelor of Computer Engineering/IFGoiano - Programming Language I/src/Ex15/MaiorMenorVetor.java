@@ -25,6 +25,7 @@ public class MaiorMenorVetor {
             System.out.println("Este elemento não pode ser negativo!");
             x = sc.nextInt();
         }
+        sc.close();
 
         int maiores = 0, menores = 0, iguais = 0;
         for (int i = 0; i < 10; i++) {

@@ -17,6 +17,7 @@ public class MatrizBooleanAnd {
                 matriz[i][j] = sc.nextBoolean();
             }
         }
+        sc.close();
 
         System.out.println("\nMatriz:");
         for (int i = 0; i < matriz.length; i++) System.out.println(Arrays.toString(matriz[i]));

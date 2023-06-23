@@ -15,6 +15,7 @@ public class DecimalBinario {
 
         System.out.println("Insira um número para transformá-lo em binário:");
         int x = sc.nextInt();
+        sc.close();
 
         System.out.println("\nEm binário:");
         binario(x);

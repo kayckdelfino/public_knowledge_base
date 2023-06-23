@@ -53,6 +53,7 @@ public class KMaiorMenorArray {
             System.out.println("Este valor não deve ser maior que o tamanho do array! Insira novamente:");
             m = sc.nextInt();
         }
+        sc.close();
 
         indice = 0;
         aux = m;

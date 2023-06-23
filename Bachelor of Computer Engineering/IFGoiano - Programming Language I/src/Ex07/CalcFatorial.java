@@ -21,6 +21,7 @@ public class CalcFatorial {
                 n[i] = sc.nextInt();
             }
         }
+        sc.close();
 
         System.out.println();
         for (int i = 0; i < n.length; i++) {

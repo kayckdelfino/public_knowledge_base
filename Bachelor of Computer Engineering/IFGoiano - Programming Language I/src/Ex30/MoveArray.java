@@ -15,6 +15,7 @@ public class MoveArray {
         for (int i = 0; i < x; i++) {
             n[i] = sc.nextInt();
         }
+        sc.close();
 
         Arrays.sort(n);
         System.out.println(Arrays.toString(n));

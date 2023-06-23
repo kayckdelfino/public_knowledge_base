@@ -8,7 +8,8 @@ public class CalcModulo {
 
         System.out.println("Informe um número inteiro:");
         int n = sc.nextInt();
-
+        sc.close();
+        
         int modulo = n < 0 ? (n * (-1)) : n;
 
         System.out.println("\nSeu módulo é: " + modulo);

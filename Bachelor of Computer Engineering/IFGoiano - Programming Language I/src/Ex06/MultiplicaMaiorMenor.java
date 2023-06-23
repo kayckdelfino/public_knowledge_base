@@ -18,6 +18,7 @@ public class MultiplicaMaiorMenor {
                 n[i] = sc.nextInt();
             }
         }
+        sc.close();
 
         int menor = Integer.MAX_VALUE, maior = Integer.MIN_VALUE;
         for (int j : n) {

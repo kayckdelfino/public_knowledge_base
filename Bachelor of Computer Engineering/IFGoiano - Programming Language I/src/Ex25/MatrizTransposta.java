@@ -20,6 +20,7 @@ public class MatrizTransposta {
                 matriz[i][j] = sc.nextInt();
             }
         }
+        sc.close();
 
         int[][] transposta = new int[x][x];
 

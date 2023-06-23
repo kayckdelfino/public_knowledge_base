@@ -12,6 +12,7 @@ public class ConvDolarReal {
         System.out.println("Informe um valor em dólares: ");
         float dol = sc.nextFloat();
 
+        sc.close();
         System.out.println(String.format("O valor em reais será: %.2f", (dol * cot)));
     }
 }

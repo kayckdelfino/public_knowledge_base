@@ -15,7 +15,8 @@ public class RelacionaInteiros {
         n[1] = sc.nextInt();
         System.out.println("N3:");
         n[2] = sc.nextInt();
-
+        sc.close();
+        
         // Testes
         int j = 0;
         int k = 1;

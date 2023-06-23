@@ -31,6 +31,7 @@ public class Caracteres {
             System.out.println("Erro ao inserir! Por favor, repita.");
             c2 = sc.next();
         }
+        sc.close();
 
         int posicaoc2 = 0;
         for (String x : alfabeto) {
