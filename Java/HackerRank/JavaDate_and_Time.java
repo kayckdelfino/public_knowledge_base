@@ -7,20 +7,16 @@ Example
 month = 8
 day = 14
 year = 2017
-
 The method should return MONDAY as the day on that date.
 
 Function Description
 
-Complete the findDay function in the editor below.
-
 findDay has the following parameters:
-
 int: month
 int: day
 int: year
-Returns
 
+Returns
 string: the day of the week in capital letters
 
 Input Format
