@@ -1,8 +1,8 @@
 module "aws-dev" {
-  source = "../../infra"
-  instance = "t2.micro"
+  source     = "../../infra"
+  instance   = "t2.micro"
   aws_region = "us-east-1"
-  key = "IaC-DEV"
+  key        = "IaC-DEV"
 }
 
 output "IP" {

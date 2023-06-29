@@ -17,14 +17,14 @@ resource "aws_instance" "app_server" {
   ami           = "ami-053b0d53c279acc90"
   instance_type = var.instance
   key_name      = var.key
-  
+
   tags = {
     Name = "Teste AWS Terraform Ansible Python"
   }
 }
 
 resource "aws_key_pair" "SSHkey" {
-  key_name = var.key
+  key_name   = var.key
   public_key = file("${var.key}.pub")
 }
 

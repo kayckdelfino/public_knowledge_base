@@ -27,19 +27,19 @@
       pip:
         virtualenv: /home/ubuntu/project/venv
         requirements: /home/ubuntu/project/requirements.txt
-      
+
     - name: Alterando o hosts do settings.py
       lineinfile:
         path: /home/ubuntu/project/setup/settings.py
-        regexp: 'ALLOWED_HOSTS'
+        regexp: "ALLOWED_HOSTS"
         line: 'ALLOWED_HOSTS = ["*"]'
         backrefs: yes
-    
+
     - name: Configurando o banco de dados
-      shell: '. /home/ubuntu/project/venv/bin/activate; python /home/ubuntu/project/manage.py migrate'
-    
+      shell: ". /home/ubuntu/project/venv/bin/activate; python /home/ubuntu/project/manage.py migrate"
+
     - name: Carregando os dados iniciais
-      shell: '. /home/ubuntu/project/venv/bin/activate; python /home/ubuntu/project/manage.py loaddata clientes.json'
+      shell: ". /home/ubuntu/project/venv/bin/activate; python /home/ubuntu/project/manage.py loaddata clientes.json"
 
     - name: Iniciando o servidor
-      shell: '. /home/ubuntu/project/venv/bin/activate; nohup python /home/ubuntu/project/manage.py runserver 0.0.0.0:8000 &'
+      shell: ". /home/ubuntu/project/venv/bin/activate; nohup python /home/ubuntu/project/manage.py runserver 0.0.0.0:8000 &"

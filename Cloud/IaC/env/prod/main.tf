@@ -1,8 +1,8 @@
 module "aws-prod" {
-  source ="../../infra"
-  instance = "t2.micro"
+  source     = "../../infra"
+  instance   = "t2.micro"
   aws_region = "us-east-1"
-  key = "IaC-PROD"
+  key        = "IaC-PROD"
 }
 
 output "IP" {

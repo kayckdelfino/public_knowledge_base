@@ -29,12 +29,12 @@
       register: projeto
 
     - name: Iniciando o projeto
-      shell: '. /home/ubuntu/project/venv/bin/activate; django-admin startproject setup /home/ubuntu/project'
+      shell: ". /home/ubuntu/project/venv/bin/activate; django-admin startproject setup /home/ubuntu/project"
       when: not projeto.stat.exists
-      
+
     - name: Alternado o hosts do settings.py
       lineinfile:
         path: /home/ubuntu/project/setup/settings.py
-        regexp: 'ALLOWED_HOSTS'
+        regexp: "ALLOWED_HOSTS"
         line: 'ALLOWED_HOSTS = ["*"]'
         backrefs: yes
