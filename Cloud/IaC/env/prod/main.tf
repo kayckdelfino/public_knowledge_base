@@ -4,3 +4,7 @@ module "aws-prod" {
   aws_region = "us-east-1"
   key = "IaC-PROD"
 }
+
+output "IP" {
+  value = module.aws-dev.public_IP
+}
