@@ -21,6 +21,7 @@ resource "aws_launch_template" "maquina" {
     Name = "Teste AWS Terraform Ansible Python"
   }
   security_group_names = [var.securityGroup]
+  user_data = filebase64("ansible.sh")
 }
 
 resource "aws_key_pair" "SSHkey" {
