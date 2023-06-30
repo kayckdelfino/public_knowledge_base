@@ -9,3 +9,19 @@ variable "key" {
 variable "instance" {
   type = string
 }
+
+variable "securityGroup" {
+  type = string
+}
+
+variable "min" {
+  type = number
+}
+
+variable "max" {
+  type = number
+}
+
+variable "groupName" {
+  type = string
+}

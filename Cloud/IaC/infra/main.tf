@@ -13,14 +13,14 @@ provider "aws" {
   region = var.aws_region
 }
 
-resource "aws_instance" "app_server" {
-  ami           = "ami-053b0d53c279acc90"
+resource "aws_launch_template" "maquina" {
+  image_id      = "ami-053b0d53c279acc90"
   instance_type = var.instance
   key_name      = var.key
-
   tags = {
     Name = "Teste AWS Terraform Ansible Python"
   }
+  security_group_names = [var.securityGroup]
 }
 
 resource "aws_key_pair" "SSHkey" {
@@ -28,6 +28,13 @@ resource "aws_key_pair" "SSHkey" {
   public_key = file("${var.key}.pub")
 }
 
-output "public_IP" {
-  value = aws_instance.app_server.public_ip
+resource "aws_autoscaling_group" "group" {
+  availability_zones = ["${var.aws_region}a"]
+  name               = var.groupName
+  max_size           = var.max
+  min_size           = var.min
+  launch_template {
+    id      = aws_launch_template.maquina.id
+    version = "$Latest"
+  }
 }
