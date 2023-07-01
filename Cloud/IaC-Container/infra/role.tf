@@ -20,7 +20,7 @@ resource "aws_iam_role_policy" "beanstalk_ec2_policy" {
   name = "beanstalk-ec2-policy"
   role = aws_iam_role.beanstalk_ec2.id
 
-  policy = jsondecode({
+  policy = jsonencode({
     Version = "2012-10-17",
     Statement = [
       {
