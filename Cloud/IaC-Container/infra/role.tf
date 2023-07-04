@@ -2,18 +2,18 @@ resource "aws_iam_role" "beanstalk_ec2" {
   name = "beanstalk-ec2-role"
 
   assume_role_policy = jsonencode({
-  Version = "2012-10-17",
-  Statement = [
-    {
-      Action = "sts:AssumeRole",
-      Principal = {
-        Service = "ec2.amazonaws.com"
-      },
-      Effect = "Allow",
-      Sid = ""
-    }
-  ]
-})
+    Version = "2012-10-17",
+    Statement = [
+      {
+        Action = "sts:AssumeRole",
+        Principal = {
+          Service = "ec2.amazonaws.com"
+        },
+        Effect = "Allow",
+        Sid    = ""
+      }
+    ]
+  })
 }
 
 resource "aws_iam_role_policy" "beanstalk_ec2_policy" {
@@ -42,7 +42,7 @@ resource "aws_iam_role_policy" "beanstalk_ec2_policy" {
           "ecr:BatchGetImage",
           "s3:*"
         ],
-        Effect = "Allow",
+        Effect   = "Allow",
         Resource = "*"
       }
     ]
