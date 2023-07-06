@@ -1,7 +1,7 @@
 resource "aws_lb" "ecs-alb" {
   name            = "ecs-django"
   security_groups = [aws_security_group.alb.id]
-  subnets         = [module.vpc.public_subnets]
+  subnets         = module.vpc.public_subnets
 }
 
 resource "aws_lb_listener" "http" {
