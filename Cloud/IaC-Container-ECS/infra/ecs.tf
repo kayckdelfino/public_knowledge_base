@@ -26,19 +26,23 @@ resource "aws_ecs_task_definition" "django_api" {
   cpu                      = 256
   memory                   = 512
   execution_role_arn       = aws_iam_role.ecs_role.arn
-  container_definitions = jsonencode({
-    "name"      = "producao"
-    "image"     = "<aws-id>.dkr.ecr.<region>.amazonaws.com/<image-name>:<image-version>"
-    "cpu"       = 256
-    "memory"    = 512
-    "essential" = true
-    "portMappings" = [
+  container_definitions = jsonencode(
+    [
       {
-        "containerPort" = 8000
-        "hostPort"      = 8000
+        "name"      = "producao"
+        "image"     = "<aws_account_id>.dkr.ecr.us-east-1.amazonaws.com/producao:v1"
+        "cpu"       = 256
+        "memory"    = 512
+        "essential" = true
+        "portMappings" = [
+          {
+            "containerPort" = 8000
+            "hostPort"      = 8000
+          }
+        ]
       }
     ]
-  })
+  )
 }
 
 resource "aws_ecs_service" "django_api" {
@@ -56,10 +60,5 @@ resource "aws_ecs_service" "django_api" {
   network_configuration {
     subnets         = module.vpc.private_subnets
     security_groups = [aws_security_group.private.id]
-  }
-
-  capacity_provider_strategy {
-    capacity_provider = "FARGATE"
-    weight            = 1
   }
 }
