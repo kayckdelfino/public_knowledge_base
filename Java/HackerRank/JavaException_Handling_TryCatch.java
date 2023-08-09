@@ -40,13 +40,13 @@ package KayckGitHub.public_knowledge_base.Java.HackerRank;
 
 import java.util.Scanner;
 
-public class JavaException_Handling {
+public class JavaException_Handling_TryCatch {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             try {
                 int x = sc.nextInt();
                 int y = sc.nextInt();
-                
+
                 int result = x / y;
                 System.out.println(result);
             } catch (ArithmeticException e) {
