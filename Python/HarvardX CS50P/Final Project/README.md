@@ -17,12 +17,16 @@
 **Usage:**
 1. Clone this repository.
    ```bash
-   $ git clone --filter=blob:none --no-checkout https://github.com/kayckdelfino/public_knowledge_base
-   $ cd public_knowledge_base
-   $ git sparse-checkout init --cone
-   $ git sparse-checkout set Python/HarvardX/Final\ Project/
-2. Install the required modules using: `pip install -r requirements.txt`.
-3. Run the program using: `python project.py`.
+   git clone --no-checkout https://github.com/kayckdelfino/public_knowledge_base
+   cd public_knowledge_base
+   git sparse-checkout init --cone
+   git sparse-checkout set 'Python/HarvardX CS50P/Final Project'
+   git checkout
+2. Go to Final Project folder.
+   ```bash
+   cd '.\Python\HarvardX CS50P\Final Project\'
+3. Install the required modules using: `pip install -r requirements.txt`.
+4. Run the program using: `python project.py`.
 
 **Features:**
 - Interactive menu for selecting regression types.
