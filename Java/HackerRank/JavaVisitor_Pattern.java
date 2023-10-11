@@ -146,12 +146,6 @@ abstract class TreeVis {
 
 }
 
-// Useful tutorial for Visitor Pattern:
-// https://www.tutorialspoint.com/design_pattern/visitor_pattern.htm
-//
-// I recommend skipping this problem since it's more about creating a 
-// tree in an obscure format than it is about Visitor patterns.
-
 class SumInLeavesVisitor extends TreeVis {
     private int result = 0;
 
@@ -219,7 +213,7 @@ public class JavaVisitor_Pattern {
         Scanner scan = new Scanner(System.in);
         int numNodes = scan.nextInt();
         
-        /* Save nodes and colors */
+        // Save nodes and colors
         values = new int[numNodes];
         colors = new Color[numNodes];
         map = new HashMap<>(numNodes);
@@ -230,12 +224,12 @@ public class JavaVisitor_Pattern {
             colors[i] = scan.nextInt() == 0 ? Color.RED : Color.GREEN;
         }
         
-        /* Save edges */
+        // Save edges
         for (int i = 0; i < numNodes - 1; i++) {
             int u = scan.nextInt();
             int v = scan.nextInt();
             
-            /* Edges are undirected: Add 1st direction */
+            // Edges are undirected: Add 1st direction
             HashSet<Integer> uNeighbors = map.get(u);
             if (uNeighbors == null) {                
                 uNeighbors = new HashSet<>();
@@ -243,7 +237,7 @@ public class JavaVisitor_Pattern {
             }
             uNeighbors.add(v);
             
-            /* Edges are undirected: Add 2nd direction */
+            // Edges are undirected: Add 2nd direction
             HashSet<Integer> vNeighbors = map.get(v);
             if (vNeighbors == null) {
                 vNeighbors = new HashSet<>();
@@ -253,24 +247,24 @@ public class JavaVisitor_Pattern {
         }
         scan.close();
         
-        /* Handle 1-node tree */
+        // Handle 1-node tree
         if (numNodes == 1) {
             return new TreeLeaf(values[0], colors[0], 0);
         }
 
-        /* Create Tree */
+        // Create Tree
         TreeNode root = new TreeNode(values[0], colors[0], 0);
         addChildren(root, 1);
         return root;
     }
 
-    /* Recursively adds children of a TreeNode */
+    // Recursively adds children of a TreeNode
     private static void addChildren(TreeNode parent, Integer parentNum) {
-        /* Get HashSet of children and loop through them */
+        // Get HashSet of children and loop through them
         for (Integer treeNum : map.get(parentNum)) {
             map.get(treeNum).remove(parentNum); // removes the opposite arrow direction
             
-            /* Add child */
+            // Add child
             HashSet<Integer> grandChildren = map.get(treeNum);
             boolean childHasChild = (grandChildren != null && !grandChildren.isEmpty());
             Tree tree;
@@ -281,7 +275,7 @@ public class JavaVisitor_Pattern {
             }
             parent.addChild(tree);
 
-            /* Recurse if necessary */
+            // Recurse if necessary
             if (tree instanceof TreeNode) {
                 addChildren((TreeNode) tree, treeNum);
             }
