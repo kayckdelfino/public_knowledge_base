@@ -1,6 +1,18 @@
 # HackerRank Java Exercises
 
-Welcome to the HackerRank Java programming exercises repository. This collection of challenges covers a wide range of Java topics, from basics to more advanced concepts. Below, you will find the table with all the exercises organized by subdomain and difficulty.
+Welcome to the HackerRank Java programming exercises repository. This collection of challenges covers a wide range of Java topics, from basics to more advanced concepts.
+
+## Badge
+
+![Badge](https://hrcdn.net/fcore/assets/generated-badges/java_level_3_stars_5_linkedin-76cbc0ca6b.png)
+
+## Highlights
+
+- **64 Solved Exercises:** Dive into 64 solved challenges to enhance your Java skills, all neatly organized for easy study.
+
+- **Efficient Organization:** Exercises are categorized by subdomain and difficulty, offering a step-by-step approach to skill improvement.
+
+- **HackerRank Profile:** Follow my journey and discover additional challenges on my HackerRank profile: [Profile Link](https://www.hackerrank.com/profile/kayckdelfino).
 
 ## Table of Contents
 
