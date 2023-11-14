@@ -4,7 +4,7 @@ Welcome to the HackerRank Java programming exercises repository. This collection
 
 ## Badge
 
-![Badge](https://hrcdn.net/fcore/assets/generated-badges/java_level_3_stars_5_linkedin-76cbc0ca6b.png)
+![Badge](https://i.imgur.com/Ryc4kGX.png)
 
 ## Highlights
 
@@ -16,8 +16,8 @@ Welcome to the HackerRank Java programming exercises repository. This collection
 
 ## Table of Contents
 
-| Subdomain                   | Challenge                                                                                                                        | Solution                                                                                                                                                         | Difficulty |
-|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Subdomain                   | Challenge                                                                                                                        | Solution                                                                                                                                                                   | Difficulty |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | Introduction                | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)                                                | [Welcome_to_Java.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/Welcome_to_Java.java)                                     | Easy       |
 | Introduction                | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)                                 | [Stdin_and_Stdout_I.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/Stdin_and_Stdout_I.java)                               | Easy       |
 | Introduction                | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)                                                       | [If_Else.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/If_Else.java)                                                     | Easy       |
@@ -68,7 +68,7 @@ Welcome to the HackerRank Java programming exercises repository. This collection
 | Object Oriented Programming | [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Method_Overriding_II.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/Method_Overriding_II.java)                           | Easy       |
 | Object Oriented Programming | [Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem)                                 | [InstanceOf_keyword.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/InstanceOf_keyword.java)                               | Easy       |
 | Object Oriented Programming | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem)                                                     | [Java_Iterator.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/Java_Iterator.java)                                         | Easy       |
-| Exception Handling          | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)           | [Exception_Handling_TryCatch.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/Exception_Handling_TryCatch.java)            | Easy       |
+| Exception Handling          | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)           | [Exception_Handling_TryCatch.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/Exception_Handling_TryCatch.java)             | Easy       |
 | Exception Handling          | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)                                 | [Exception_Handling.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/Exception_Handling.java)                               | Easy       |
 | Advanced                    | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)                          | [Varargs.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/Varargs.java)                                                     | Easy       |
 | Advanced                    | [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem)                         | [Reflection_Attributes.java](https://github.com/kayckdelfino/public_knowledge_base/blob/main/Java/HackerRank/Solutions/Reflection_Attributes.java)                         | Easy       |
