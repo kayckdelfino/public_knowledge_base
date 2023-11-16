@@ -9,6 +9,7 @@ Welcome to HackerRank's repository of Python programming exercises. This collect
   - [Badge](#badge)
   - [Highlights](#highlights)
   - [Structure](#structure)
+  - [Requirements](#requirements)
   - [Usage](#usage)
   - [Table of Challenges](#table-of-challenges)
 
@@ -29,6 +30,10 @@ Welcome to HackerRank's repository of Python programming exercises. This collect
 - **Categorized Subdomains**: Exercises are categorized by relevant subdomains such as Strings, Sets, Math, Errors and Exceptions, etc.
   
 - **Well-segregated folders**: Each challenge resides in its designated folder and subdomain, containing the corresponding Python solution file, as well as a brief statement and link to the original HackerRank challenge.
+
+## Requirements
+
+- Python 3.x installed.
 
 ## Usage
 
