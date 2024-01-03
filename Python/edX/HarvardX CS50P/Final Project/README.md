@@ -34,7 +34,4 @@
 - Graphical visualization of the regression results.
 - Equation output for each regression type.
 
-**Contact:**
-If you have any questions or suggestions, feel free to contact me at kayck.delfino@gmail.com.
-
 ---
