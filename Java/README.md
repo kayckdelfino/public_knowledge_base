@@ -1,7 +1,11 @@
 # Java
 
-In this folder I keep my Java studies and exercises.
+This folder contains my Java studies, exercises, and related projects.
 
-Here you will find my studies at:
+## Contents:
 
-* **[HackerRank](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Java/HackerRank)**
+### [HackerRank](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Java/HackerRank)
+
+Here, you'll find my collection of Java problem-solving exercises completed on HackerRank.
+
+Feel free to explore these resources, where I've documented my ongoing journey in learning and practicing Java programming through problem-solving exercises on HackerRank.
