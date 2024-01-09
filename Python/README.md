@@ -1,6 +1,6 @@
 # Python
 
-This directory serves as a repository for my ongoing Python studies, exercises, and projects.
+This folder serves as a repository for my ongoing Python studies, exercises, and projects.
 
 ## Contents:
 
