@@ -1,8 +1,8 @@
 # Bachelor of Computer Engineering
 
-This directory serves as a repository for the knowledge acquired during my Bachelor of Computer Engineering studies at Instituto Federal Goiano - Campus Trindade Goiás.
+This folder serves as a repository for the knowledge acquired during my Bachelor of Computer Engineering studies at Instituto Federal Goiano - Campus Trindade Goiás.
 
-## Topics Covered:
+## Contents:
 
 ### [IFGoiano - Programming Language I](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Bachelor%20of%20Computer%20Engineering/IFGoiano%20-%20Programming%20Language%20I)
 
