@@ -12,4 +12,8 @@ This section covers fundamental Terraform concepts, focusing on infrastructure p
 
 In this section, you'll find projects and exercises related to Terraform from Alura courses, providing hands-on experience and practical applications.
 
+### [Udemy](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Terraform/Udemy)
+
+This section contains resources and projects from specific Udemy Terraform courses.
+
 Feel free to explore these resources as I delve deeper into Terraform, documenting my learning journey and practical implementations in Infrastructure as Code (IaC) using this technology.
