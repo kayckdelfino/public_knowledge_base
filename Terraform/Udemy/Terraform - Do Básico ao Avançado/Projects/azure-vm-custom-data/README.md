@@ -1,0 +1,42 @@
+# azure-vm-custom-data
+
+## Overview
+
+This Terraform project automates the deployment of an Azure Linux Virtual Machine (VM) with custom data for Docker installation. It also creates necessary networking resources such as a Resource Group, Public IP, Network Interface, and associates them with an existing Virtual Network and Security Group. The VM is configured with a specific OS image, size, and SSH key.
+
+## File Structure
+
+- **`main.tf`**: Configures required providers, Azure backend, Azure provider, and defines Azure Resource Group, Public IP, Network Interface, Security Group association, and Linux Virtual Machine.
+- **`outputs.tf`**: Specifies output variables for the VM's public IP.
+- **`variables.tf`**: Declares input variables for customization.
+- **`vm.tf`**: Azure configuration specific to the Linux Virtual Machine, including custom data for Docker installation.
+- **`locals.tf`**: Defines local variables, such as common tags.
+- **`docs/docker.sh`**: Bash script for Docker installation (referenced in the VM configuration).
+
+## Azure Linux Virtual Machine Configuration
+
+- Creates a Resource Group, Public IP, Network Interface, associates with an existing Virtual Network, Security Group, and deploys a Linux Virtual Machine.
+- Custom data (Bash script) is passed to the VM for Docker installation.
+
+## Input Variables
+
+- **`location`**: Region where resources will be created in Azure (default: West Europe).
+
+## Output Variables
+
+- **`vm_ip`**: Public IP of the VM created in Azure.
+
+## Usage
+
+1. Ensure you have Terraform installed (version 1.3.0 or later).
+2. Navigate to the project directory and run `terraform init` to initialize the working directory.
+3. Execute `terraform apply` to create the Azure resources, including the Linux VM.
+4. Retrieve the output variable `vm_ip` for connecting to the VM.
+5. Optionally, review and customize Azure region, VM size, OS image, and other configurations in `main.tf` and `variables.tf`.
+
+## Important Notes
+
+- Review the Bash script `docker.sh` in the `docs` directory for Docker installation details.
+- Adjust the VM configuration, including size, OS image, and SSH key, as needed in `vm.tf`.
+- Ensure proper Azure credentials and authentication are set up.
+- Be cautious with custom data/scripts to avoid security vulnerabilities.

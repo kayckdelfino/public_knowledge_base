@@ -1,0 +1,14 @@
+# Ignore Terraform related files
+
+.terraform*
+*.backup
+*.hcl
+# *.tfvars (Recommended to include)
+*.tfstate
+*.out
+*.info
+
+aws-key*
+azure-key*
+
+*.txt
