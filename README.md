@@ -32,6 +32,10 @@ Resources, projects, and practical implementations focused on Docker technology,
 
 Materials, projects, and exercises related to Java programming language, covering various aspects and applications.
 
+### [Machine Learning](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Machine%20Learning)
+
+Studies, projects, and practical applications in the field of Machine Learning, covering fundamental concepts to advanced content.
+
 ### [Python](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Python)
 
 Studies, exercises, and projects spanning from basic programming in Python to advanced concepts and applications.
