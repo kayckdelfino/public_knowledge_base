@@ -28,6 +28,10 @@ Studies, exercises and applications related to database management systems, cove
 
 Resources, projects, and practical implementations focused on Docker technology, including containerization, application deployment, and management using Docker.
 
+### [Git](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Git)
+
+Studies, materials and notes related to Git versioning, covering basic to advanced usage.
+
 ### [Java](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Java)
 
 Materials, projects, and exercises related to Java programming language, covering various aspects and applications.
