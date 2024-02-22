@@ -48,6 +48,10 @@ Studies, projects, and practical applications in the field of Machine Learning, 
 
 Studies, exercises, and projects spanning from basic programming in Python to advanced concepts and applications.
 
+### [Shell](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Shell)
+
+Resources, summaries, and projects focused on the Linux operating system and executing commands via Shell Scripting.
+
 ### [Terraform](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Terraform)
 
 Materials, projects, and Infrastructure as Code (IaC) implementations using Terraform. Explore infrastructure automation and cloud resource management using Terraform's declarative configuration.
