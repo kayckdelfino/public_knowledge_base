@@ -1,0 +1,7 @@
+1. Write a recursive function to calculate and return the N-th term of the Fibonacci sequence. Some numbers in this sequence are: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89.
+2. Multiplication of two integers can be done through successive additions. Propose a recursive algorithm multiplyRecursive(n1, n2) to calculate the multiplication of two integers.
+3. Write a recursive function to calculate the sum of two natural numbers through successive increments (e.g., 3 + 2 = ++(++3)).
+4. Write a recursive function power(x, y) that returns x raised to the power of y.
+5. Using recursion, find the largest element in an array of integers.
+6. Write a recursive function called reverse(String value) that returns the input string in reverse order (e.g., reverse("abcdef") returns "fedcba").
+7. Implement the binary search method on an array of integers recursively.
