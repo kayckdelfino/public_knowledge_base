@@ -1,0 +1,5 @@
+SELECT a, b FROM tb1;
+SELECT FROM b WHERE a = 4;
+FROM table1, table2;
+SELECT a, b, c FROM table1, table2 WHERE b <> c;
+SELECT campo FROM tb1, tb2, WHERE campo1 >= campo2;
