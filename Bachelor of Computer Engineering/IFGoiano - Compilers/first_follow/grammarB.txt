@@ -1,0 +1,8 @@
+S = ABd
+A = aA
+A = #
+B = bB
+B = cA
+B = AC
+C = cB
+C = #

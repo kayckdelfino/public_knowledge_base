@@ -1,0 +1,12 @@
+S = A
+S = B
+A = aAS
+A = BD
+B = bB
+B = fAC
+B = #
+C = cC
+C = BD
+D = gD
+D = C
+D = #
