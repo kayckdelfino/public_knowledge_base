@@ -1,0 +1,76 @@
+package main;
+
+import java_cup.runtime.*;
+import main.*;
+
+parser code
+{:
+    public void defineError(int line, int column, String msg) {
+        main.Scanner scanner = (main.Scanner) this.getScanner();
+        scanner.defineError(line, column, msg);
+    }
+:};
+
+
+terminal KW_INT, KW_FLOAT, KW_BOOL, KW_ATT, KW_ADD, KW_SUB, KW_MUL, KW_DIV, KW_RES, KW_GRT, KW_GRT_EQUAL, KW_LSS, KW_LSS_EQUAL, KW_EQUAL, KW_DIF, KW_LEFT_PR, KW_RIGHT_PR, KW_LEFT_BRACE, KW_RIGHT_BRACE, KW_DOT, KW_COMMA, KW_WHILE, ID, NUMBER_INT, NUMBER_FLOAT, KW_TRUE, KW_FALSE;
+
+non terminal program, dclr, stmt, dclr_nt, assign_bool, assign_num, bool_val, ids, val, sig, op, operation, att_operation, while;
+
+
+program ::= dclr 
+          | stmt 
+          | dclr program 
+          | stmt program;
+
+dclr ::= dclr_nt 
+       | assign_bool 
+       | assign_num;
+
+dclr_nt ::= KW_BOOL ids KW_DOT 
+          | KW_INT ids KW_DOT 
+          | KW_FLOAT ids KW_DOT;
+
+assign_bool ::= KW_BOOL ID KW_ATT bool_val KW_DOT;
+
+assign_num ::= KW_INT ID KW_ATT NUMBER_INT KW_DOT 
+             | KW_FLOAT ID KW_ATT NUMBER_FLOAT KW_DOT;
+
+bool_val ::= KW_TRUE 
+           | KW_FALSE;
+
+ids ::= ID 
+      | ID KW_COMMA ids
+      | ID ids:e {: parser.defineError(eleft, eright, "Missing comma between ids"); :};
+
+val ::= ID 
+      | KW_TRUE 
+      | KW_FALSE 
+      | NUMBER_INT 
+      | NUMBER_FLOAT;
+
+sig ::= KW_ADD 
+      | KW_SUB 
+      | KW_MUL 
+      | KW_DIV 
+      | KW_RES 
+      | KW_GRT 
+      | KW_GRT_EQUAL 
+      | KW_LSS 
+      | KW_LSS_EQUAL 
+      | KW_EQUAL 
+      | KW_DIF;
+
+op ::= val sig op 
+     | val;
+
+operation ::= op KW_DOT
+            | op KW_DOT KW_DOT:e {: parser.defineError(eleft, eright, "Duplicate semicolon"); :}
+            | op:e {: parser.defineError(eleft, eright, "Missing semicolon"); :};
+
+att_operation ::= ID KW_ATT operation;
+
+while ::= KW_WHILE KW_LEFT_PR op KW_RIGHT_PR KW_LEFT_BRACE program KW_RIGHT_BRACE;
+
+stmt ::= operation 
+       | att_operation 
+       | while;
