@@ -1,0 +1,39 @@
+package main;
+
+import java_cup.runtime.*;
+import main.*;
+
+parser code
+{:
+    public void addError(int line, int column, String message) {
+        main.Scanner scanner = (main.Scanner) this.getScanner();
+        scanner.addError(line, column, message);
+    }
+:};
+
+terminal DOT, ID, NUMBER, COMMA, KW_SELECT, KW_FROM, KW_WHERE, OPERATOR;
+
+non terminal program, query, ids, select, from, where, condition, value;
+
+program ::= query | query program;
+
+query ::= select from where DOT
+        | select from DOT
+        | select from where:e {: parser.addError(eleft, eright, "Semicolon missing in operation"); :}
+        | select from:e {: parser.addError(eleft, eright, "Semicolon missing in operation"); :};
+
+select ::= KW_SELECT ids;
+
+from ::= KW_FROM ids;
+
+where ::= KW_WHERE condition;
+
+ids ::= ID
+      | ID COMMA ids
+      | ID ids:e {: parser.addError(eleft, eright, "Comma missing between values"); :};
+
+condition ::= value OPERATOR value
+            | value value:e {: parser.addError(eleft, eright, "Operator missing between values"); :};
+
+value ::= ID
+        | NUMBER;
