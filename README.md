@@ -16,6 +16,10 @@ Materials and resources related to my academic journey studying Computer Enginee
 
 Projects, knowledge, and Infrastructure as Code (IaC) implementations focusing on cloud computing, particularly AWS technologies.
 
+### [Data Engineering](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Data%20Engineering)
+
+Exploration and hands-on experience in the realm of Data Engineering, including coursework, projects, and practical applications.
+
 ### [Data Science](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Data%20Science)
 
 Exploration and hands-on experience in the realm of Data Science, including coursework, projects, and practical applications.
