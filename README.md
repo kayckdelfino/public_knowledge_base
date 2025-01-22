@@ -12,10 +12,6 @@ This repository serves as a central hub containing a diverse range of topics and
 
 Materials and resources related to my academic journey studying Computer Engineering at Instituto Federal Goiano - Campus Trindade Goiás.
 
-### [Cloud](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Cloud)
-
-Projects, knowledge, and Infrastructure as Code (IaC) implementations focusing on cloud computing, particularly AWS technologies.
-
 ### [Data Engineering](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Data%20Engineering)
 
 Exploration and hands-on experience in the realm of Data Engineering, including coursework, projects, and practical applications.
@@ -58,6 +54,6 @@ Resources, summaries, and projects focused on the Linux operating system and exe
 
 ### [Terraform](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Terraform)
 
-Materials, projects, and Infrastructure as Code (IaC) implementations using Terraform. Explore infrastructure automation and cloud resource management using Terraform's declarative configuration.
+Materials, projects, and Infrastructure as Code (IaC) implementations using Terraform.
 
 Feel free to explore these topics and resources, which represent my continuous learning and development in the IT field. I'll be updating and adding more content as my journey progresses.
