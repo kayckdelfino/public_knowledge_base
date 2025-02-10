@@ -4,11 +4,11 @@ This folder is dedicated to housing my Data Science studies, exercises, and rela
 
 ## Contents:
 
-### [edX](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Data%20Science/edX)
+### [edX](./edX/)
 
 Here, you'll find my coursework and assignments from various edX Python courses.
 
-- **[HarvardX CS109x](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Data%20Science/edX/HarvardX%20CS109x)**
+- **[HarvardX CS109x](./edX/HarvardX%20CS109x/)**
   - Materials and projects completed during the HarvardX CS109x course.
 
 Feel free to explore these resources as I continue to delve into the vast field of Data Science, documenting my learning journey and projects along the way.
