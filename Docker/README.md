@@ -4,6 +4,6 @@ This folder contains resources and projects related to Docker technology, and my
 
 ## Contents:
 
-### [Concepts](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Docker/Concepts)
+### [Concepts](./Concepts/)
 
 This section delves into fundamental Docker concepts, operation, and commands.
