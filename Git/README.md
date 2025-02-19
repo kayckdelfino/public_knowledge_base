@@ -4,7 +4,7 @@ This folder houses my ongoing exploration, studies, and notes related to Git.
 
 ## Contents:
 
-### [Concepts](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Git/Concepts)
+### [Concepts](./Concepts/)
 
 This section delves into fundamental Git concepts, commands, and usages.
 
