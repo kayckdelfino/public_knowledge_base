@@ -4,7 +4,7 @@ This folder contains my Java studies, exercises, and related projects.
 
 ## Contents:
 
-### [HackerRank](https://github.com/kayckdelfino/public_knowledge_base/tree/main/Java/HackerRank)
+### [HackerRank](./HackerRank/)
 
 Here, you'll find my collection of Java problem-solving exercises completed on HackerRank.
 
