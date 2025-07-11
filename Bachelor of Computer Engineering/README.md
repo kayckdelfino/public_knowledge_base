@@ -8,6 +8,10 @@ This folder serves as a repository for the knowledge acquired during my Bachelor
 
 Here, you'll find resources related to the 'Compilers' course at IFGoiano, delving deeper into advanced programming concepts.
 
+### [IFGoiano - Computational Intelligence](./IFGoiano%20-%20Computational%20Intelligence/)
+
+This section contains materials from the 'Computational Intelligence' course at IFGoiano, covering concepts in artificial intelligence and intelligent agent systems.
+
 ### [IFGoiano - Programming Language I](./IFGoiano%20-%20Programming%20Language%20I/)
 
 This section contains materials related to the 'Programming Language I' course at IFGoiano, covering foundational concepts in programming.
