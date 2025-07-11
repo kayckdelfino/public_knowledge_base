@@ -1,0 +1,2999 @@
+[15:04:59.059] Início da simulação.
+[15:04:59.075] Filósofo 3 está pensando.
+[15:04:59.076] Filósofo 1 está pensando.
+[15:04:59.076] Filósofo 2 está pensando.
+[15:04:59.076] Filósofo 4 está pensando.
+[15:04:59.076] Filósofo 5 está pensando.
+[15:04:59.238] Filósofo 3 está com fome.
+[15:04:59.242] Filósofo 3 pegou o hashi 4.
+[15:04:59.242] Filósofo 3 pegou o hashi 3.
+[15:04:59.242] Filósofo 3 está comendo.
+[15:04:59.497] Filósofo 3 terminou de comer.
+[15:04:59.497] Filósofo 3 devolveu o hashi 3.
+[15:04:59.497] Filósofo 3 devolveu o hashi 4.
+[15:04:59.498] Filósofo 3 voltou a pensar.
+[15:04:59.498] Filósofo 3 está pensando.
+[15:04:59.661] Filósofo 5 está com fome.
+[15:04:59.661] Filósofo 5 pegou o hashi 1.
+[15:04:59.661] Filósofo 5 pegou o hashi 5.
+[15:04:59.661] Filósofo 5 está comendo.
+[15:04:59.689] Filósofo 4 está com fome.
+[15:04:59.689] Filósofo 4 pegou o hashi 4.
+[15:04:59.708] Filósofo 1 está com fome.
+[15:04:59.708] Filósofo 1 pegou o hashi 2.
+[15:04:59.924] Filósofo 2 está com fome.
+[15:05:00.016] Filósofo 5 terminou de comer.
+[15:05:00.016] Filósofo 5 devolveu o hashi 5.
+[15:05:00.016] Filósofo 4 pegou o hashi 5.
+[15:05:00.016] Filósofo 1 pegou o hashi 1.
+[15:05:00.016] Filósofo 5 devolveu o hashi 1.
+[15:05:00.017] Filósofo 5 voltou a pensar.
+[15:05:00.017] Filósofo 1 está comendo.
+[15:05:00.017] Filósofo 4 está comendo.
+[15:05:00.017] Filósofo 5 está pensando.
+[15:05:00.029] Filósofo 4 terminou de comer.
+[15:05:00.029] Filósofo 4 devolveu o hashi 5.
+[15:05:00.029] Filósofo 4 devolveu o hashi 4.
+[15:05:00.029] Filósofo 4 voltou a pensar.
+[15:05:00.029] Filósofo 4 está pensando.
+[15:05:00.124] Filósofo 4 está com fome.
+[15:05:00.124] Filósofo 4 pegou o hashi 4.
+[15:05:00.125] Filósofo 4 pegou o hashi 5.
+[15:05:00.125] Filósofo 4 está comendo.
+[15:05:00.170] Filósofo 1 terminou de comer.
+[15:05:00.170] Filósofo 1 devolveu o hashi 1.
+[15:05:00.170] Filósofo 1 devolveu o hashi 2.
+[15:05:00.170] Filósofo 2 pegou o hashi 2.
+[15:05:00.170] Filósofo 1 voltou a pensar.
+[15:05:00.171] Filósofo 2 pegou o hashi 3.
+[15:05:00.171] Filósofo 1 está pensando.
+[15:05:00.171] Filósofo 2 está comendo.
+[15:05:00.273] Filósofo 4 terminou de comer.
+[15:05:00.273] Filósofo 4 devolveu o hashi 5.
+[15:05:00.273] Filósofo 4 devolveu o hashi 4.
+[15:05:00.273] Filósofo 4 voltou a pensar.
+[15:05:00.273] Filósofo 4 está pensando.
+[15:05:00.331] Filósofo 3 está com fome.
+[15:05:00.331] Filósofo 3 pegou o hashi 4.
+[15:05:00.333] Filósofo 2 terminou de comer.
+[15:05:00.333] Filósofo 2 devolveu o hashi 3.
+[15:05:00.333] Filósofo 3 pegou o hashi 3.
+[15:05:00.333] Filósofo 2 devolveu o hashi 2.
+[15:05:00.333] Filósofo 3 está comendo.
+[15:05:00.334] Filósofo 2 voltou a pensar.
+[15:05:00.334] Filósofo 2 está pensando.
+[15:05:00.529] Filósofo 1 está com fome.
+[15:05:00.529] Filósofo 1 pegou o hashi 2.
+[15:05:00.529] Filósofo 1 pegou o hashi 1.
+[15:05:00.529] Filósofo 1 está comendo.
+[15:05:00.739] Filósofo 3 terminou de comer.
+[15:05:00.739] Filósofo 3 devolveu o hashi 3.
+[15:05:00.739] Filósofo 3 devolveu o hashi 4.
+[15:05:00.739] Filósofo 3 voltou a pensar.
+[15:05:00.739] Filósofo 3 está pensando.
+[15:05:00.743] Filósofo 1 terminou de comer.
+[15:05:00.743] Filósofo 1 devolveu o hashi 1.
+[15:05:00.743] Filósofo 1 devolveu o hashi 2.
+[15:05:00.743] Filósofo 1 voltou a pensar.
+[15:05:00.744] Filósofo 1 está pensando.
+[15:05:00.995] Filósofo 5 está com fome.
+[15:05:00.995] Filósofo 5 pegou o hashi 1.
+[15:05:00.995] Filósofo 5 pegou o hashi 5.
+[15:05:00.995] Filósofo 5 está comendo.
+[15:05:01.010] Filósofo 2 está com fome.
+[15:05:01.010] Filósofo 2 pegou o hashi 2.
+[15:05:01.010] Filósofo 2 pegou o hashi 3.
+[15:05:01.010] Filósofo 2 está comendo.
+[15:05:01.141] Filósofo 4 está com fome.
+[15:05:01.141] Filósofo 4 pegou o hashi 4.
+[15:05:01.214] Filósofo 5 terminou de comer.
+[15:05:01.214] Filósofo 5 devolveu o hashi 5.
+[15:05:01.214] Filósofo 4 pegou o hashi 5.
+[15:05:01.214] Filósofo 5 devolveu o hashi 1.
+[15:05:01.214] Filósofo 4 está comendo.
+[15:05:01.214] Filósofo 5 voltou a pensar.
+[15:05:01.215] Filósofo 5 está pensando.
+[15:05:01.338] Filósofo 2 terminou de comer.
+[15:05:01.338] Filósofo 2 devolveu o hashi 3.
+[15:05:01.338] Filósofo 2 devolveu o hashi 2.
+[15:05:01.338] Filósofo 2 voltou a pensar.
+[15:05:01.338] Filósofo 2 está pensando.
+[15:05:01.339] Filósofo 3 está com fome.
+[15:05:01.419] Filósofo 4 terminou de comer.
+[15:05:01.419] Filósofo 4 devolveu o hashi 5.
+[15:05:01.419] Filósofo 4 devolveu o hashi 4.
+[15:05:01.419] Filósofo 3 pegou o hashi 4.
+[15:05:01.420] Filósofo 4 voltou a pensar.
+[15:05:01.420] Filósofo 3 pegou o hashi 3.
+[15:05:01.420] Filósofo 4 está pensando.
+[15:05:01.420] Filósofo 3 está comendo.
+[15:05:01.529] Filósofo 1 está com fome.
+[15:05:01.529] Filósofo 1 pegou o hashi 2.
+[15:05:01.529] Filósofo 1 pegou o hashi 1.
+[15:05:01.529] Filósofo 1 está comendo.
+[15:05:01.562] Filósofo 2 está com fome.
+[15:05:01.636] Filósofo 5 está com fome.
+[15:05:01.709] Filósofo 3 terminou de comer.
+[15:05:01.709] Filósofo 3 devolveu o hashi 3.
+[15:05:01.709] Filósofo 3 devolveu o hashi 4.
+[15:05:01.709] Filósofo 3 voltou a pensar.
+[15:05:01.709] Filósofo 3 está pensando.
+[15:05:01.727] Filósofo 3 está com fome.
+[15:05:01.727] Filósofo 3 pegou o hashi 4.
+[15:05:01.727] Filósofo 3 pegou o hashi 3.
+[15:05:01.727] Filósofo 3 está comendo.
+[15:05:01.761] Filósofo 4 está com fome.
+[15:05:01.807] Filósofo 1 terminou de comer.
+[15:05:01.807] Filósofo 1 devolveu o hashi 1.
+[15:05:01.807] Filósofo 5 pegou o hashi 1.
+[15:05:01.807] Filósofo 1 devolveu o hashi 2.
+[15:05:01.807] Filósofo 1 voltou a pensar.
+[15:05:01.807] Filósofo 2 pegou o hashi 2.
+[15:05:01.808] Filósofo 1 está pensando.
+[15:05:01.808] Filósofo 5 pegou o hashi 5.
+[15:05:01.808] Filósofo 5 está comendo.
+[15:05:01.857] Filósofo 5 terminou de comer.
+[15:05:01.857] Filósofo 5 devolveu o hashi 5.
+[15:05:01.857] Filósofo 5 devolveu o hashi 1.
+[15:05:01.858] Filósofo 5 voltou a pensar.
+[15:05:01.858] Filósofo 5 está pensando.
+[15:05:02.148] Filósofo 3 terminou de comer.
+[15:05:02.148] Filósofo 2 pegou o hashi 3.
+[15:05:02.148] Filósofo 3 devolveu o hashi 3.
+[15:05:02.148] Filósofo 2 está comendo.
+[15:05:02.149] Filósofo 4 pegou o hashi 4.
+[15:05:02.149] Filósofo 4 pegou o hashi 5.
+[15:05:02.149] Filósofo 4 está comendo.
+[15:05:02.149] Filósofo 3 devolveu o hashi 4.
+[15:05:02.149] Filósofo 3 voltou a pensar.
+[15:05:02.149] Filósofo 3 está pensando.
+[15:05:02.392] Filósofo 1 está com fome.
+[15:05:02.499] Filósofo 3 está com fome.
+[15:05:02.542] Filósofo 4 terminou de comer.
+[15:05:02.542] Filósofo 4 devolveu o hashi 5.
+[15:05:02.542] Filósofo 4 devolveu o hashi 4.
+[15:05:02.542] Filósofo 3 pegou o hashi 4.
+[15:05:02.542] Filósofo 4 voltou a pensar.
+[15:05:02.542] Filósofo 4 está pensando.
+[15:05:02.578] Filósofo 2 terminou de comer.
+[15:05:02.578] Filósofo 2 devolveu o hashi 3.
+[15:05:02.578] Filósofo 3 pegou o hashi 3.
+[15:05:02.578] Filósofo 1 pegou o hashi 2.
+[15:05:02.578] Filósofo 2 devolveu o hashi 2.
+[15:05:02.578] Filósofo 1 pegou o hashi 1.
+[15:05:02.579] Filósofo 3 está comendo.
+[15:05:02.579] Filósofo 1 está comendo.
+[15:05:02.579] Filósofo 2 voltou a pensar.
+[15:05:02.579] Filósofo 2 está pensando.
+[15:05:02.605] Filósofo 5 está com fome.
+[15:05:02.758] Filósofo 3 terminou de comer.
+[15:05:02.758] Filósofo 3 devolveu o hashi 3.
+[15:05:02.758] Filósofo 3 devolveu o hashi 4.
+[15:05:02.758] Filósofo 3 voltou a pensar.
+[15:05:02.758] Filósofo 3 está pensando.
+[15:05:02.780] Filósofo 4 está com fome.
+[15:05:02.780] Filósofo 4 pegou o hashi 4.
+[15:05:02.780] Filósofo 4 pegou o hashi 5.
+[15:05:02.780] Filósofo 4 está comendo.
+[15:05:02.794] Filósofo 1 terminou de comer.
+[15:05:02.794] Filósofo 1 devolveu o hashi 1.
+[15:05:02.794] Filósofo 5 pegou o hashi 1.
+[15:05:02.794] Filósofo 1 devolveu o hashi 2.
+[15:05:02.794] Filósofo 1 voltou a pensar.
+[15:05:02.794] Filósofo 1 está pensando.
+[15:05:02.811] Filósofo 2 está com fome.
+[15:05:02.811] Filósofo 2 pegou o hashi 2.
+[15:05:02.811] Filósofo 2 pegou o hashi 3.
+[15:05:02.811] Filósofo 2 está comendo.
+[15:05:02.852] Filósofo 4 terminou de comer.
+[15:05:02.852] Filósofo 4 devolveu o hashi 5.
+[15:05:02.852] Filósofo 5 pegou o hashi 5.
+[15:05:02.852] Filósofo 4 devolveu o hashi 4.
+[15:05:02.852] Filósofo 5 está comendo.
+[15:05:02.852] Filósofo 4 voltou a pensar.
+[15:05:02.852] Filósofo 4 está pensando.
+[15:05:02.910] Filósofo 5 terminou de comer.
+[15:05:02.910] Filósofo 5 devolveu o hashi 5.
+[15:05:02.910] Filósofo 5 devolveu o hashi 1.
+[15:05:02.910] Filósofo 5 voltou a pensar.
+[15:05:02.910] Filósofo 5 está pensando.
+[15:05:03.191] Filósofo 2 terminou de comer.
+[15:05:03.191] Filósofo 2 devolveu o hashi 3.
+[15:05:03.191] Filósofo 2 devolveu o hashi 2.
+[15:05:03.191] Filósofo 2 voltou a pensar.
+[15:05:03.191] Filósofo 2 está pensando.
+[15:05:03.222] Filósofo 2 está com fome.
+[15:05:03.222] Filósofo 2 pegou o hashi 2.
+[15:05:03.222] Filósofo 2 pegou o hashi 3.
+[15:05:03.222] Filósofo 2 está comendo.
+[15:05:03.277] Filósofo 3 está com fome.
+[15:05:03.277] Filósofo 3 pegou o hashi 4.
+[15:05:03.491] Filósofo 5 está com fome.
+[15:05:03.491] Filósofo 5 pegou o hashi 1.
+[15:05:03.491] Filósofo 5 pegou o hashi 5.
+[15:05:03.491] Filósofo 5 está comendo.
+[15:05:03.522] Filósofo 2 terminou de comer.
+[15:05:03.522] Filósofo 2 devolveu o hashi 3.
+[15:05:03.522] Filósofo 3 pegou o hashi 3.
+[15:05:03.522] Filósofo 2 devolveu o hashi 2.
+[15:05:03.522] Filósofo 3 está comendo.
+[15:05:03.522] Filósofo 2 voltou a pensar.
+[15:05:03.522] Filósofo 2 está pensando.
+[15:05:03.525] Filósofo 5 terminou de comer.
+[15:05:03.525] Filósofo 5 devolveu o hashi 5.
+[15:05:03.525] Filósofo 5 devolveu o hashi 1.
+[15:05:03.525] Filósofo 5 voltou a pensar.
+[15:05:03.525] Filósofo 5 está pensando.
+[15:05:03.595] Filósofo 3 terminou de comer.
+[15:05:03.595] Filósofo 3 devolveu o hashi 3.
+[15:05:03.595] Filósofo 3 devolveu o hashi 4.
+[15:05:03.595] Filósofo 3 voltou a pensar.
+[15:05:03.595] Filósofo 3 está pensando.
+[15:05:03.646] Filósofo 3 está com fome.
+[15:05:03.646] Filósofo 3 pegou o hashi 4.
+[15:05:03.646] Filósofo 3 pegou o hashi 3.
+[15:05:03.646] Filósofo 3 está comendo.
+[15:05:03.667] Filósofo 2 está com fome.
+[15:05:03.667] Filósofo 2 pegou o hashi 2.
+[15:05:03.686] Filósofo 1 está com fome.
+[15:05:03.796] Filósofo 4 está com fome.
+[15:05:04.005] Filósofo 3 terminou de comer.
+[15:05:04.005] Filósofo 3 devolveu o hashi 3.
+[15:05:04.005] Filósofo 2 pegou o hashi 3.
+[15:05:04.005] Filósofo 4 pegou o hashi 4.
+[15:05:04.005] Filósofo 3 devolveu o hashi 4.
+[15:05:04.005] Filósofo 4 pegou o hashi 5.
+[15:05:04.005] Filósofo 4 está comendo.
+[15:05:04.005] Filósofo 2 está comendo.
+[15:05:04.005] Filósofo 3 voltou a pensar.
+[15:05:04.006] Filósofo 3 está pensando.
+[15:05:04.084] Filósofo 4 terminou de comer.
+[15:05:04.084] Filósofo 4 devolveu o hashi 5.
+[15:05:04.084] Filósofo 4 devolveu o hashi 4.
+[15:05:04.084] Filósofo 4 voltou a pensar.
+[15:05:04.084] Filósofo 4 está pensando.
+[15:05:04.244] Filósofo 5 está com fome.
+[15:05:04.244] Filósofo 5 pegou o hashi 1.
+[15:05:04.244] Filósofo 5 pegou o hashi 5.
+[15:05:04.244] Filósofo 5 está comendo.
+[15:05:04.255] Filósofo 2 terminou de comer.
+[15:05:04.255] Filósofo 2 devolveu o hashi 3.
+[15:05:04.255] Filósofo 2 devolveu o hashi 2.
+[15:05:04.255] Filósofo 1 pegou o hashi 2.
+[15:05:04.255] Filósofo 2 voltou a pensar.
+[15:05:04.256] Filósofo 2 está pensando.
+[15:05:04.558] Filósofo 3 está com fome.
+[15:05:04.558] Filósofo 3 pegou o hashi 4.
+[15:05:04.558] Filósofo 3 pegou o hashi 3.
+[15:05:04.558] Filósofo 3 está comendo.
+[15:05:04.693] Filósofo 3 terminou de comer.
+[15:05:04.693] Filósofo 3 devolveu o hashi 3.
+[15:05:04.693] Filósofo 3 devolveu o hashi 4.
+[15:05:04.693] Filósofo 3 voltou a pensar.
+[15:05:04.693] Filósofo 3 está pensando.
+[15:05:04.739] Filósofo 5 terminou de comer.
+[15:05:04.739] Filósofo 5 devolveu o hashi 5.
+[15:05:04.739] Filósofo 5 devolveu o hashi 1.
+[15:05:04.739] Filósofo 1 pegou o hashi 1.
+[15:05:04.739] Filósofo 5 voltou a pensar.
+[15:05:04.739] Filósofo 1 está comendo.
+[15:05:04.739] Filósofo 5 está pensando.
+[15:05:04.889] Filósofo 1 terminou de comer.
+[15:05:04.889] Filósofo 1 devolveu o hashi 1.
+[15:05:04.889] Filósofo 1 devolveu o hashi 2.
+[15:05:04.889] Filósofo 1 voltou a pensar.
+[15:05:04.889] Filósofo 1 está pensando.
+[15:05:04.987] Filósofo 1 está com fome.
+[15:05:04.987] Filósofo 1 pegou o hashi 2.
+[15:05:04.987] Filósofo 1 pegou o hashi 1.
+[15:05:04.987] Filósofo 1 está comendo.
+[15:05:05.041] Filósofo 4 está com fome.
+[15:05:05.041] Filósofo 4 pegou o hashi 4.
+[15:05:05.041] Filósofo 4 pegou o hashi 5.
+[15:05:05.041] Filósofo 4 está comendo.
+[15:05:05.218] Filósofo 2 está com fome.
+[15:05:05.229] Filósofo 4 terminou de comer.
+[15:05:05.229] Filósofo 4 devolveu o hashi 5.
+[15:05:05.229] Filósofo 4 devolveu o hashi 4.
+[15:05:05.229] Filósofo 4 voltou a pensar.
+[15:05:05.229] Filósofo 4 está pensando.
+[15:05:05.341] Filósofo 3 está com fome.
+[15:05:05.341] Filósofo 3 pegou o hashi 4.
+[15:05:05.341] Filósofo 3 pegou o hashi 3.
+[15:05:05.341] Filósofo 3 está comendo.
+[15:05:05.425] Filósofo 5 está com fome.
+[15:05:05.427] Filósofo 1 terminou de comer.
+[15:05:05.427] Filósofo 1 devolveu o hashi 1.
+[15:05:05.427] Filósofo 5 pegou o hashi 1.
+[15:05:05.427] Filósofo 2 pegou o hashi 2.
+[15:05:05.427] Filósofo 1 devolveu o hashi 2.
+[15:05:05.427] Filósofo 5 pegou o hashi 5.
+[15:05:05.427] Filósofo 1 voltou a pensar.
+[15:05:05.427] Filósofo 5 está comendo.
+[15:05:05.427] Filósofo 1 está pensando.
+[15:05:05.639] Filósofo 1 está com fome.
+[15:05:05.739] Filósofo 5 terminou de comer.
+[15:05:05.739] Filósofo 5 devolveu o hashi 5.
+[15:05:05.739] Filósofo 5 devolveu o hashi 1.
+[15:05:05.739] Filósofo 5 voltou a pensar.
+[15:05:05.739] Filósofo 5 está pensando.
+[15:05:05.831] Filósofo 3 terminou de comer.
+[15:05:05.831] Filósofo 3 devolveu o hashi 3.
+[15:05:05.831] Filósofo 3 devolveu o hashi 4.
+[15:05:05.831] Filósofo 2 pegou o hashi 3.
+[15:05:05.831] Filósofo 3 voltou a pensar.
+[15:05:05.831] Filósofo 3 está pensando.
+[15:05:05.831] Filósofo 2 está comendo.
+[15:05:05.906] Filósofo 2 terminou de comer.
+[15:05:05.906] Filósofo 2 devolveu o hashi 3.
+[15:05:05.906] Filósofo 2 devolveu o hashi 2.
+[15:05:05.906] Filósofo 1 pegou o hashi 2.
+[15:05:05.906] Filósofo 2 voltou a pensar.
+[15:05:05.906] Filósofo 1 pegou o hashi 1.
+[15:05:05.906] Filósofo 1 está comendo.
+[15:05:05.906] Filósofo 2 está pensando.
+[15:05:05.981] Filósofo 4 está com fome.
+[15:05:05.981] Filósofo 4 pegou o hashi 4.
+[15:05:05.981] Filósofo 4 pegou o hashi 5.
+[15:05:05.981] Filósofo 4 está comendo.
+[15:05:05.989] Filósofo 2 está com fome.
+[15:05:06.041] Filósofo 1 terminou de comer.
+[15:05:06.041] Filósofo 1 devolveu o hashi 1.
+[15:05:06.041] Filósofo 1 devolveu o hashi 2.
+[15:05:06.041] Filósofo 2 pegou o hashi 2.
+[15:05:06.041] Filósofo 1 voltou a pensar.
+[15:05:06.041] Filósofo 2 pegou o hashi 3.
+[15:05:06.041] Filósofo 1 está pensando.
+[15:05:06.041] Filósofo 2 está comendo.
+[15:05:06.077] Filósofo 3 está com fome.
+[15:05:06.095] Filósofo 4 terminou de comer.
+[15:05:06.095] Filósofo 4 devolveu o hashi 5.
+[15:05:06.095] Filósofo 4 devolveu o hashi 4.
+[15:05:06.095] Filósofo 4 voltou a pensar.
+[15:05:06.095] Filósofo 3 pegou o hashi 4.
+[15:05:06.095] Filósofo 4 está pensando.
+[15:05:06.140] Filósofo 5 está com fome.
+[15:05:06.140] Filósofo 5 pegou o hashi 1.
+[15:05:06.140] Filósofo 5 pegou o hashi 5.
+[15:05:06.140] Filósofo 5 está comendo.
+[15:05:06.353] Filósofo 2 terminou de comer.
+[15:05:06.353] Filósofo 2 devolveu o hashi 3.
+[15:05:06.353] Filósofo 2 devolveu o hashi 2.
+[15:05:06.353] Filósofo 3 pegou o hashi 3.
+[15:05:06.353] Filósofo 2 voltou a pensar.
+[15:05:06.353] Filósofo 3 está comendo.
+[15:05:06.353] Filósofo 2 está pensando.
+[15:05:06.363] Filósofo 4 está com fome.
+[15:05:06.392] Filósofo 5 terminou de comer.
+[15:05:06.392] Filósofo 5 devolveu o hashi 5.
+[15:05:06.392] Filósofo 5 devolveu o hashi 1.
+[15:05:06.392] Filósofo 5 voltou a pensar.
+[15:05:06.392] Filósofo 5 está pensando.
+[15:05:06.418] Filósofo 3 terminou de comer.
+[15:05:06.418] Filósofo 3 devolveu o hashi 3.
+[15:05:06.418] Filósofo 3 devolveu o hashi 4.
+[15:05:06.418] Filósofo 4 pegou o hashi 4.
+[15:05:06.418] Filósofo 3 voltou a pensar.
+[15:05:06.418] Filósofo 4 pegou o hashi 5.
+[15:05:06.418] Filósofo 3 está pensando.
+[15:05:06.418] Filósofo 4 está comendo.
+[15:05:06.435] Filósofo 3 está com fome.
+[15:05:06.502] Filósofo 4 terminou de comer.
+[15:05:06.502] Filósofo 4 devolveu o hashi 5.
+[15:05:06.502] Filósofo 4 devolveu o hashi 4.
+[15:05:06.502] Filósofo 3 pegou o hashi 4.
+[15:05:06.502] Filósofo 4 voltou a pensar.
+[15:05:06.502] Filósofo 3 pegou o hashi 3.
+[15:05:06.502] Filósofo 4 está pensando.
+[15:05:06.502] Filósofo 3 está comendo.
+[15:05:06.589] Filósofo 5 está com fome.
+[15:05:06.589] Filósofo 5 pegou o hashi 1.
+[15:05:06.589] Filósofo 5 pegou o hashi 5.
+[15:05:06.589] Filósofo 5 está comendo.
+[15:05:06.720] Filósofo 5 terminou de comer.
+[15:05:06.720] Filósofo 5 devolveu o hashi 5.
+[15:05:06.720] Filósofo 5 devolveu o hashi 1.
+[15:05:06.720] Filósofo 5 voltou a pensar.
+[15:05:06.720] Filósofo 5 está pensando.
+[15:05:06.726] Filósofo 5 está com fome.
+[15:05:06.726] Filósofo 5 pegou o hashi 1.
+[15:05:06.726] Filósofo 5 pegou o hashi 5.
+[15:05:06.726] Filósofo 5 está comendo.
+[15:05:06.754] Filósofo 5 terminou de comer.
+[15:05:06.754] Filósofo 5 devolveu o hashi 5.
+[15:05:06.755] Filósofo 5 devolveu o hashi 1.
+[15:05:06.755] Filósofo 5 voltou a pensar.
+[15:05:06.755] Filósofo 5 está pensando.
+[15:05:06.876] Filósofo 1 está com fome.
+[15:05:06.876] Filósofo 1 pegou o hashi 2.
+[15:05:06.876] Filósofo 1 pegou o hashi 1.
+[15:05:06.876] Filósofo 1 está comendo.
+[15:05:06.942] Filósofo 3 terminou de comer.
+[15:05:06.942] Filósofo 3 devolveu o hashi 3.
+[15:05:06.942] Filósofo 3 devolveu o hashi 4.
+[15:05:06.942] Filósofo 3 voltou a pensar.
+[15:05:06.942] Filósofo 3 está pensando.
+[15:05:07.039] Filósofo 5 está com fome.
+[15:05:07.102] Filósofo 2 está com fome.
+[15:05:07.185] Filósofo 4 está com fome.
+[15:05:07.185] Filósofo 4 pegou o hashi 4.
+[15:05:07.185] Filósofo 4 pegou o hashi 5.
+[15:05:07.185] Filósofo 4 está comendo.
+[15:05:07.344] Filósofo 1 terminou de comer.
+[15:05:07.344] Filósofo 1 devolveu o hashi 1.
+[15:05:07.344] Filósofo 5 pegou o hashi 1.
+[15:05:07.344] Filósofo 2 pegou o hashi 2.
+[15:05:07.344] Filósofo 1 devolveu o hashi 2.
+[15:05:07.344] Filósofo 2 pegou o hashi 3.
+[15:05:07.344] Filósofo 2 está comendo.
+[15:05:07.344] Filósofo 1 voltou a pensar.
+[15:05:07.344] Filósofo 1 está pensando.
+[15:05:07.613] Filósofo 4 terminou de comer.
+[15:05:07.613] Filósofo 4 devolveu o hashi 5.
+[15:05:07.613] Filósofo 5 pegou o hashi 5.
+[15:05:07.613] Filósofo 5 está comendo.
+[15:05:07.613] Filósofo 4 devolveu o hashi 4.
+[15:05:07.613] Filósofo 4 voltou a pensar.
+[15:05:07.613] Filósofo 4 está pensando.
+[15:05:07.772] Filósofo 2 terminou de comer.
+[15:05:07.772] Filósofo 2 devolveu o hashi 3.
+[15:05:07.772] Filósofo 2 devolveu o hashi 2.
+[15:05:07.772] Filósofo 2 voltou a pensar.
+[15:05:07.772] Filósofo 2 está pensando.
+[15:05:07.827] Filósofo 5 terminou de comer.
+[15:05:07.827] Filósofo 5 devolveu o hashi 5.
+[15:05:07.827] Filósofo 5 devolveu o hashi 1.
+[15:05:07.827] Filósofo 5 voltou a pensar.
+[15:05:07.827] Filósofo 5 está pensando.
+[15:05:07.836] Filósofo 3 está com fome.
+[15:05:07.836] Filósofo 3 pegou o hashi 4.
+[15:05:07.836] Filósofo 3 pegou o hashi 3.
+[15:05:07.836] Filósofo 3 está comendo.
+[15:05:07.854] Filósofo 3 terminou de comer.
+[15:05:07.854] Filósofo 3 devolveu o hashi 3.
+[15:05:07.854] Filósofo 3 devolveu o hashi 4.
+[15:05:07.854] Filósofo 3 voltou a pensar.
+[15:05:07.854] Filósofo 3 está pensando.
+[15:05:07.905] Filósofo 3 está com fome.
+[15:05:07.905] Filósofo 3 pegou o hashi 4.
+[15:05:07.905] Filósofo 3 pegou o hashi 3.
+[15:05:07.905] Filósofo 3 está comendo.
+[15:05:08.023] Filósofo 1 está com fome.
+[15:05:08.023] Filósofo 1 pegou o hashi 2.
+[15:05:08.023] Filósofo 1 pegou o hashi 1.
+[15:05:08.023] Filósofo 1 está comendo.
+[15:05:08.137] Filósofo 3 terminou de comer.
+[15:05:08.137] Filósofo 3 devolveu o hashi 3.
+[15:05:08.137] Filósofo 3 devolveu o hashi 4.
+[15:05:08.137] Filósofo 3 voltou a pensar.
+[15:05:08.137] Filósofo 3 está pensando.
+[15:05:08.215] Filósofo 5 está com fome.
+[15:05:08.502] Filósofo 1 terminou de comer.
+[15:05:08.502] Filósofo 1 devolveu o hashi 1.
+[15:05:08.502] Filósofo 5 pegou o hashi 1.
+[15:05:08.502] Filósofo 1 devolveu o hashi 2.
+[15:05:08.503] Filósofo 1 voltou a pensar.
+[15:05:08.503] Filósofo 5 pegou o hashi 5.
+[15:05:08.503] Filósofo 5 está comendo.
+[15:05:08.503] Filósofo 1 está pensando.
+[15:05:08.522] Filósofo 4 está com fome.
+[15:05:08.522] Filósofo 4 pegou o hashi 4.
+[15:05:08.671] Filósofo 2 está com fome.
+[15:05:08.671] Filósofo 2 pegou o hashi 2.
+[15:05:08.671] Filósofo 2 pegou o hashi 3.
+[15:05:08.671] Filósofo 2 está comendo.
+[15:05:08.691] Filósofo 2 terminou de comer.
+[15:05:08.691] Filósofo 2 devolveu o hashi 3.
+[15:05:08.691] Filósofo 2 devolveu o hashi 2.
+[15:05:08.691] Filósofo 2 voltou a pensar.
+[15:05:08.691] Filósofo 2 está pensando.
+[15:05:08.755] Filósofo 5 terminou de comer.
+[15:05:08.755] Filósofo 5 devolveu o hashi 5.
+[15:05:08.755] Filósofo 4 pegou o hashi 5.
+[15:05:08.755] Filósofo 4 está comendo.
+[15:05:08.755] Filósofo 5 devolveu o hashi 1.
+[15:05:08.755] Filósofo 5 voltou a pensar.
+[15:05:08.755] Filósofo 5 está pensando.
+[15:05:08.871] Filósofo 1 está com fome.
+[15:05:08.871] Filósofo 1 pegou o hashi 2.
+[15:05:08.871] Filósofo 1 pegou o hashi 1.
+[15:05:08.871] Filósofo 1 está comendo.
+[15:05:09.024] Filósofo 3 está com fome.
+[15:05:09.200] Filósofo 4 terminou de comer.
+[15:05:09.200] Filósofo 4 devolveu o hashi 5.
+[15:05:09.200] Filósofo 4 devolveu o hashi 4.
+[15:05:09.200] Filósofo 3 pegou o hashi 4.
+[15:05:09.200] Filósofo 4 voltou a pensar.
+[15:05:09.200] Filósofo 4 está pensando.
+[15:05:09.200] Filósofo 3 pegou o hashi 3.
+[15:05:09.200] Filósofo 3 está comendo.
+[15:05:09.307] Filósofo 1 terminou de comer.
+[15:05:09.307] Filósofo 1 devolveu o hashi 1.
+[15:05:09.307] Filósofo 1 devolveu o hashi 2.
+[15:05:09.307] Filósofo 1 voltou a pensar.
+[15:05:09.307] Filósofo 1 está pensando.
+[15:05:09.338] Filósofo 2 está com fome.
+[15:05:09.338] Filósofo 2 pegou o hashi 2.
+[15:05:09.384] Filósofo 5 está com fome.
+[15:05:09.384] Filósofo 5 pegou o hashi 1.
+[15:05:09.384] Filósofo 5 pegou o hashi 5.
+[15:05:09.384] Filósofo 5 está comendo.
+[15:05:09.447] Filósofo 5 terminou de comer.
+[15:05:09.447] Filósofo 5 devolveu o hashi 5.
+[15:05:09.447] Filósofo 5 devolveu o hashi 1.
+[15:05:09.447] Filósofo 5 voltou a pensar.
+[15:05:09.447] Filósofo 5 está pensando.
+[15:05:09.514] Filósofo 5 está com fome.
+[15:05:09.514] Filósofo 5 pegou o hashi 1.
+[15:05:09.514] Filósofo 5 pegou o hashi 5.
+[15:05:09.514] Filósofo 5 está comendo.
+[15:05:09.635] Filósofo 4 está com fome.
+[15:05:09.674] Filósofo 3 terminou de comer.
+[15:05:09.674] Filósofo 3 devolveu o hashi 3.
+[15:05:09.674] Filósofo 2 pegou o hashi 3.
+[15:05:09.674] Filósofo 2 está comendo.
+[15:05:09.674] Filósofo 4 pegou o hashi 4.
+[15:05:09.674] Filósofo 3 devolveu o hashi 4.
+[15:05:09.674] Filósofo 3 voltou a pensar.
+[15:05:09.674] Filósofo 3 está pensando.
+[15:05:09.800] Filósofo 5 terminou de comer.
+[15:05:09.800] Filósofo 5 devolveu o hashi 5.
+[15:05:09.800] Filósofo 4 pegou o hashi 5.
+[15:05:09.800] Filósofo 4 está comendo.
+[15:05:09.800] Filósofo 5 devolveu o hashi 1.
+[15:05:09.800] Filósofo 5 voltou a pensar.
+[15:05:09.800] Filósofo 5 está pensando.
+[15:05:09.816] Filósofo 2 terminou de comer.
+[15:05:09.816] Filósofo 2 devolveu o hashi 3.
+[15:05:09.816] Filósofo 2 devolveu o hashi 2.
+[15:05:09.816] Filósofo 2 voltou a pensar.
+[15:05:09.816] Filósofo 2 está pensando.
+[15:05:09.929] Filósofo 4 terminou de comer.
+[15:05:09.929] Filósofo 4 devolveu o hashi 5.
+[15:05:09.929] Filósofo 4 devolveu o hashi 4.
+[15:05:09.929] Filósofo 4 voltou a pensar.
+[15:05:09.929] Filósofo 4 está pensando.
+[15:05:10.083] Filósofo 5 está com fome.
+[15:05:10.083] Filósofo 5 pegou o hashi 1.
+[15:05:10.083] Filósofo 5 pegou o hashi 5.
+[15:05:10.083] Filósofo 5 está comendo.
+[15:05:10.155] Filósofo 2 está com fome.
+[15:05:10.155] Filósofo 2 pegou o hashi 2.
+[15:05:10.155] Filósofo 2 pegou o hashi 3.
+[15:05:10.155] Filósofo 2 está comendo.
+[15:05:10.184] Filósofo 5 terminou de comer.
+[15:05:10.184] Filósofo 5 devolveu o hashi 5.
+[15:05:10.184] Filósofo 5 devolveu o hashi 1.
+[15:05:10.184] Filósofo 5 voltou a pensar.
+[15:05:10.184] Filósofo 5 está pensando.
+[15:05:10.221] Filósofo 1 está com fome.
+[15:05:10.277] Filósofo 3 está com fome.
+[15:05:10.277] Filósofo 3 pegou o hashi 4.
+[15:05:10.286] Filósofo 4 está com fome.
+[15:05:10.306] Filósofo 5 está com fome.
+[15:05:10.306] Filósofo 5 pegou o hashi 1.
+[15:05:10.306] Filósofo 5 pegou o hashi 5.
+[15:05:10.306] Filósofo 5 está comendo.
+[15:05:10.463] Filósofo 2 terminou de comer.
+[15:05:10.463] Filósofo 2 devolveu o hashi 3.
+[15:05:10.463] Filósofo 3 pegou o hashi 3.
+[15:05:10.463] Filósofo 1 pegou o hashi 2.
+[15:05:10.463] Filósofo 2 devolveu o hashi 2.
+[15:05:10.463] Filósofo 2 voltou a pensar.
+[15:05:10.463] Filósofo 2 está pensando.
+[15:05:10.463] Filósofo 3 está comendo.
+[15:05:10.554] Filósofo 5 terminou de comer.
+[15:05:10.554] Filósofo 5 devolveu o hashi 5.
+[15:05:10.554] Filósofo 5 devolveu o hashi 1.
+[15:05:10.554] Filósofo 5 voltou a pensar.
+[15:05:10.554] Filósofo 5 está pensando.
+[15:05:10.554] Filósofo 1 pegou o hashi 1.
+[15:05:10.554] Filósofo 1 está comendo.
+[15:05:10.602] Filósofo 5 está com fome.
+[15:05:10.769] Filósofo 1 terminou de comer.
+[15:05:10.769] Filósofo 1 devolveu o hashi 1.
+[15:05:10.769] Filósofo 1 devolveu o hashi 2.
+[15:05:10.769] Filósofo 1 voltou a pensar.
+[15:05:10.769] Filósofo 5 pegou o hashi 1.
+[15:05:10.769] Filósofo 1 está pensando.
+[15:05:10.769] Filósofo 5 pegou o hashi 5.
+[15:05:10.769] Filósofo 5 está comendo.
+[15:05:10.828] Filósofo 3 terminou de comer.
+[15:05:10.828] Filósofo 3 devolveu o hashi 3.
+[15:05:10.828] Filósofo 3 devolveu o hashi 4.
+[15:05:10.828] Filósofo 3 voltou a pensar.
+[15:05:10.828] Filósofo 4 pegou o hashi 4.
+[15:05:10.828] Filósofo 3 está pensando.
+[15:05:10.860] Filósofo 1 está com fome.
+[15:05:10.860] Filósofo 1 pegou o hashi 2.
+[15:05:10.962] Filósofo 5 terminou de comer.
+[15:05:10.962] Filósofo 5 devolveu o hashi 5.
+[15:05:10.962] Filósofo 4 pegou o hashi 5.
+[15:05:10.962] Filósofo 4 está comendo.
+[15:05:10.962] Filósofo 1 pegou o hashi 1.
+[15:05:10.962] Filósofo 1 está comendo.
+[15:05:10.962] Filósofo 5 devolveu o hashi 1.
+[15:05:10.962] Filósofo 5 voltou a pensar.
+[15:05:10.962] Filósofo 5 está pensando.
+[15:05:11.002] Filósofo 2 está com fome.
+[15:05:11.040] Filósofo 3 está com fome.
+[15:05:11.054] Filósofo 5 está com fome.
+[15:05:11.242] Filósofo 1 terminou de comer.
+[15:05:11.242] Filósofo 1 devolveu o hashi 1.
+[15:05:11.242] Filósofo 5 pegou o hashi 1.
+[15:05:11.242] Filósofo 2 pegou o hashi 2.
+[15:05:11.242] Filósofo 2 pegou o hashi 3.
+[15:05:11.242] Filósofo 1 devolveu o hashi 2.
+[15:05:11.242] Filósofo 1 voltou a pensar.
+[15:05:11.242] Filósofo 2 está comendo.
+[15:05:11.242] Filósofo 1 está pensando.
+[15:05:11.310] Filósofo 4 terminou de comer.
+[15:05:11.310] Filósofo 4 devolveu o hashi 5.
+[15:05:11.310] Filósofo 5 pegou o hashi 5.
+[15:05:11.310] Filósofo 5 está comendo.
+[15:05:11.310] Filósofo 3 pegou o hashi 4.
+[15:05:11.310] Filósofo 4 devolveu o hashi 4.
+[15:05:11.310] Filósofo 4 voltou a pensar.
+[15:05:11.310] Filósofo 4 está pensando.
+[15:05:11.439] Filósofo 5 terminou de comer.
+[15:05:11.439] Filósofo 5 devolveu o hashi 5.
+[15:05:11.439] Filósofo 5 devolveu o hashi 1.
+[15:05:11.439] Filósofo 5 voltou a pensar.
+[15:05:11.439] Filósofo 5 está pensando.
+[15:05:11.491] Filósofo 2 terminou de comer.
+[15:05:11.491] Filósofo 2 devolveu o hashi 3.
+[15:05:11.491] Filósofo 2 devolveu o hashi 2.
+[15:05:11.491] Filósofo 2 voltou a pensar.
+[15:05:11.491] Filósofo 3 pegou o hashi 3.
+[15:05:11.491] Filósofo 3 está comendo.
+[15:05:11.491] Filósofo 2 está pensando.
+[15:05:11.660] Filósofo 2 está com fome.
+[15:05:11.660] Filósofo 2 pegou o hashi 2.
+[15:05:11.732] Filósofo 4 está com fome.
+[15:05:11.890] Filósofo 3 terminou de comer.
+[15:05:11.890] Filósofo 3 devolveu o hashi 3.
+[15:05:11.890] Filósofo 2 pegou o hashi 3.
+[15:05:11.890] Filósofo 4 pegou o hashi 4.
+[15:05:11.890] Filósofo 4 pegou o hashi 5.
+[15:05:11.890] Filósofo 4 está comendo.
+[15:05:11.890] Filósofo 3 devolveu o hashi 4.
+[15:05:11.890] Filósofo 3 voltou a pensar.
+[15:05:11.890] Filósofo 2 está comendo.
+[15:05:11.891] Filósofo 3 está pensando.
+[15:05:12.030] Filósofo 2 terminou de comer.
+[15:05:12.030] Filósofo 2 devolveu o hashi 3.
+[15:05:12.030] Filósofo 2 devolveu o hashi 2.
+[15:05:12.030] Filósofo 2 voltou a pensar.
+[15:05:12.030] Filósofo 2 está pensando.
+[15:05:12.062] Filósofo 1 está com fome.
+[15:05:12.062] Filósofo 1 pegou o hashi 2.
+[15:05:12.062] Filósofo 1 pegou o hashi 1.
+[15:05:12.062] Filósofo 1 está comendo.
+[15:05:12.074] Filósofo 4 terminou de comer.
+[15:05:12.074] Filósofo 4 devolveu o hashi 5.
+[15:05:12.074] Filósofo 4 devolveu o hashi 4.
+[15:05:12.074] Filósofo 4 voltou a pensar.
+[15:05:12.074] Filósofo 4 está pensando.
+[15:05:12.268] Filósofo 5 está com fome.
+[15:05:12.472] Filósofo 3 está com fome.
+[15:05:12.472] Filósofo 3 pegou o hashi 4.
+[15:05:12.472] Filósofo 3 pegou o hashi 3.
+[15:05:12.472] Filósofo 3 está comendo.
+[15:05:12.494] Filósofo 2 está com fome.
+[15:05:12.555] Filósofo 1 terminou de comer.
+[15:05:12.555] Filósofo 1 devolveu o hashi 1.
+[15:05:12.555] Filósofo 5 pegou o hashi 1.
+[15:05:12.555] Filósofo 2 pegou o hashi 2.
+[15:05:12.555] Filósofo 1 devolveu o hashi 2.
+[15:05:12.555] Filósofo 5 pegou o hashi 5.
+[15:05:12.555] Filósofo 5 está comendo.
+[15:05:12.555] Filósofo 1 voltou a pensar.
+[15:05:12.555] Filósofo 1 está pensando.
+[15:05:12.899] Filósofo 5 terminou de comer.
+[15:05:12.899] Filósofo 5 devolveu o hashi 5.
+[15:05:12.899] Filósofo 5 devolveu o hashi 1.
+[15:05:12.899] Filósofo 5 voltou a pensar.
+[15:05:12.899] Filósofo 5 está pensando.
+[15:05:12.909] Filósofo 3 terminou de comer.
+[15:05:12.909] Filósofo 3 devolveu o hashi 3.
+[15:05:12.909] Filósofo 2 pegou o hashi 3.
+[15:05:12.909] Filósofo 2 está comendo.
+[15:05:12.909] Filósofo 3 devolveu o hashi 4.
+[15:05:12.909] Filósofo 3 voltou a pensar.
+[15:05:12.909] Filósofo 3 está pensando.
+[15:05:12.974] Filósofo 1 está com fome.
+[15:05:13.025] Filósofo 4 está com fome.
+[15:05:13.025] Filósofo 4 pegou o hashi 4.
+[15:05:13.025] Filósofo 4 pegou o hashi 5.
+[15:05:13.025] Filósofo 4 está comendo.
+[15:05:13.194] Filósofo 4 terminou de comer.
+[15:05:13.194] Filósofo 4 devolveu o hashi 5.
+[15:05:13.194] Filósofo 4 devolveu o hashi 4.
+[15:05:13.194] Filósofo 4 voltou a pensar.
+[15:05:13.194] Filósofo 4 está pensando.
+[15:05:13.295] Filósofo 2 terminou de comer.
+[15:05:13.295] Filósofo 2 devolveu o hashi 3.
+[15:05:13.295] Filósofo 2 devolveu o hashi 2.
+[15:05:13.295] Filósofo 2 voltou a pensar.
+[15:05:13.295] Filósofo 1 pegou o hashi 2.
+[15:05:13.295] Filósofo 2 está pensando.
+[15:05:13.295] Filósofo 1 pegou o hashi 1.
+[15:05:13.295] Filósofo 1 está comendo.
+[15:05:13.642] Filósofo 3 está com fome.
+[15:05:13.642] Filósofo 3 pegou o hashi 4.
+[15:05:13.642] Filósofo 3 pegou o hashi 3.
+[15:05:13.642] Filósofo 3 está comendo.
+[15:05:13.646] Filósofo 5 está com fome.
+[15:05:13.704] Filósofo 2 está com fome.
+[15:05:13.750] Filósofo 1 terminou de comer.
+[15:05:13.750] Filósofo 1 devolveu o hashi 1.
+[15:05:13.750] Filósofo 5 pegou o hashi 1.
+[15:05:13.750] Filósofo 2 pegou o hashi 2.
+[15:05:13.750] Filósofo 1 devolveu o hashi 2.
+[15:05:13.750] Filósofo 5 pegou o hashi 5.
+[15:05:13.750] Filósofo 5 está comendo.
+[15:05:13.750] Filósofo 1 voltou a pensar.
+[15:05:13.750] Filósofo 1 está pensando.
+[15:05:13.797] Filósofo 4 está com fome.
+[15:05:13.922] Filósofo 3 terminou de comer.
+[15:05:13.922] Filósofo 3 devolveu o hashi 3.
+[15:05:13.922] Filósofo 2 pegou o hashi 3.
+[15:05:13.922] Filósofo 2 está comendo.
+[15:05:13.922] Filósofo 4 pegou o hashi 4.
+[15:05:13.922] Filósofo 3 devolveu o hashi 4.
+[15:05:13.922] Filósofo 3 voltou a pensar.
+[15:05:13.922] Filósofo 3 está pensando.
+[15:05:14.182] Filósofo 5 terminou de comer.
+[15:05:14.182] Filósofo 5 devolveu o hashi 5.
+[15:05:14.182] Filósofo 4 pegou o hashi 5.
+[15:05:14.182] Filósofo 5 devolveu o hashi 1.
+[15:05:14.182] Filósofo 5 voltou a pensar.
+[15:05:14.182] Filósofo 4 está comendo.
+[15:05:14.182] Filósofo 5 está pensando.
+[15:05:14.194] Filósofo 2 terminou de comer.
+[15:05:14.194] Filósofo 2 devolveu o hashi 3.
+[15:05:14.194] Filósofo 2 devolveu o hashi 2.
+[15:05:14.194] Filósofo 2 voltou a pensar.
+[15:05:14.194] Filósofo 2 está pensando.
+[15:05:14.408] Filósofo 1 está com fome.
+[15:05:14.408] Filósofo 1 pegou o hashi 2.
+[15:05:14.408] Filósofo 1 pegou o hashi 1.
+[15:05:14.408] Filósofo 1 está comendo.
+[15:05:14.493] Filósofo 1 terminou de comer.
+[15:05:14.493] Filósofo 1 devolveu o hashi 1.
+[15:05:14.493] Filósofo 1 devolveu o hashi 2.
+[15:05:14.493] Filósofo 1 voltou a pensar.
+[15:05:14.493] Filósofo 1 está pensando.
+[15:05:14.681] Filósofo 4 terminou de comer.
+[15:05:14.681] Filósofo 4 devolveu o hashi 5.
+[15:05:14.681] Filósofo 4 devolveu o hashi 4.
+[15:05:14.681] Filósofo 4 voltou a pensar.
+[15:05:14.681] Filósofo 4 está pensando.
+[15:05:14.708] Filósofo 3 está com fome.
+[15:05:14.708] Filósofo 3 pegou o hashi 4.
+[15:05:14.708] Filósofo 3 pegou o hashi 3.
+[15:05:14.708] Filósofo 3 está comendo.
+[15:05:14.779] Filósofo 5 está com fome.
+[15:05:14.779] Filósofo 5 pegou o hashi 1.
+[15:05:14.779] Filósofo 5 pegou o hashi 5.
+[15:05:14.779] Filósofo 5 está comendo.
+[15:05:14.988] Filósofo 3 terminou de comer.
+[15:05:14.988] Filósofo 3 devolveu o hashi 3.
+[15:05:14.988] Filósofo 3 devolveu o hashi 4.
+[15:05:14.988] Filósofo 3 voltou a pensar.
+[15:05:14.988] Filósofo 3 está pensando.
+[15:05:14.992] Filósofo 5 terminou de comer.
+[15:05:14.992] Filósofo 5 devolveu o hashi 5.
+[15:05:14.992] Filósofo 5 devolveu o hashi 1.
+[15:05:14.992] Filósofo 5 voltou a pensar.
+[15:05:14.992] Filósofo 5 está pensando.
+[15:05:15.110] Filósofo 2 está com fome.
+[15:05:15.110] Filósofo 2 pegou o hashi 2.
+[15:05:15.110] Filósofo 2 pegou o hashi 3.
+[15:05:15.110] Filósofo 2 está comendo.
+[15:05:15.259] Filósofo 1 está com fome.
+[15:05:15.474] Filósofo 4 está com fome.
+[15:05:15.474] Filósofo 4 pegou o hashi 4.
+[15:05:15.474] Filósofo 4 pegou o hashi 5.
+[15:05:15.474] Filósofo 4 está comendo.
+[15:05:15.565] Filósofo 5 está com fome.
+[15:05:15.565] Filósofo 5 pegou o hashi 1.
+[15:05:15.590] Filósofo 2 terminou de comer.
+[15:05:15.590] Filósofo 2 devolveu o hashi 3.
+[15:05:15.590] Filósofo 2 devolveu o hashi 2.
+[15:05:15.590] Filósofo 2 voltou a pensar.
+[15:05:15.590] Filósofo 1 pegou o hashi 2.
+[15:05:15.590] Filósofo 2 está pensando.
+[15:05:15.812] Filósofo 4 terminou de comer.
+[15:05:15.812] Filósofo 4 devolveu o hashi 5.
+[15:05:15.812] Filósofo 5 pegou o hashi 5.
+[15:05:15.812] Filósofo 5 está comendo.
+[15:05:15.812] Filósofo 4 devolveu o hashi 4.
+[15:05:15.812] Filósofo 4 voltou a pensar.
+[15:05:15.812] Filósofo 4 está pensando.
+[15:05:15.902] Filósofo 3 está com fome.
+[15:05:15.902] Filósofo 3 pegou o hashi 4.
+[15:05:15.902] Filósofo 3 pegou o hashi 3.
+[15:05:15.902] Filósofo 3 está comendo.
+[15:05:16.034] Filósofo 2 está com fome.
+[15:05:16.134] Filósofo 4 está com fome.
+[15:05:16.143] Filósofo 3 terminou de comer.
+[15:05:16.143] Filósofo 3 devolveu o hashi 3.
+[15:05:16.143] Filósofo 3 devolveu o hashi 4.
+[15:05:16.143] Filósofo 3 voltou a pensar.
+[15:05:16.143] Filósofo 3 está pensando.
+[15:05:16.143] Filósofo 4 pegou o hashi 4.
+[15:05:16.262] Filósofo 5 terminou de comer.
+[15:05:16.262] Filósofo 5 devolveu o hashi 5.
+[15:05:16.262] Filósofo 4 pegou o hashi 5.
+[15:05:16.262] Filósofo 4 está comendo.
+[15:05:16.262] Filósofo 1 pegou o hashi 1.
+[15:05:16.262] Filósofo 1 está comendo.
+[15:05:16.262] Filósofo 5 devolveu o hashi 1.
+[15:05:16.262] Filósofo 5 voltou a pensar.
+[15:05:16.262] Filósofo 5 está pensando.
+[15:05:16.414] Filósofo 4 terminou de comer.
+[15:05:16.414] Filósofo 4 devolveu o hashi 5.
+[15:05:16.414] Filósofo 4 devolveu o hashi 4.
+[15:05:16.414] Filósofo 4 voltou a pensar.
+[15:05:16.414] Filósofo 4 está pensando.
+[15:05:16.487] Filósofo 1 terminou de comer.
+[15:05:16.487] Filósofo 1 devolveu o hashi 1.
+[15:05:16.487] Filósofo 1 devolveu o hashi 2.
+[15:05:16.487] Filósofo 1 voltou a pensar.
+[15:05:16.487] Filósofo 2 pegou o hashi 2.
+[15:05:16.487] Filósofo 1 está pensando.
+[15:05:16.487] Filósofo 2 pegou o hashi 3.
+[15:05:16.487] Filósofo 2 está comendo.
+[15:05:16.599] Filósofo 5 está com fome.
+[15:05:16.599] Filósofo 5 pegou o hashi 1.
+[15:05:16.599] Filósofo 5 pegou o hashi 5.
+[15:05:16.599] Filósofo 5 está comendo.
+[15:05:16.711] Filósofo 5 terminou de comer.
+[15:05:16.711] Filósofo 5 devolveu o hashi 5.
+[15:05:16.711] Filósofo 5 devolveu o hashi 1.
+[15:05:16.711] Filósofo 5 voltou a pensar.
+[15:05:16.711] Filósofo 5 está pensando.
+[15:05:16.732] Filósofo 2 terminou de comer.
+[15:05:16.732] Filósofo 2 devolveu o hashi 3.
+[15:05:16.732] Filósofo 2 devolveu o hashi 2.
+[15:05:16.732] Filósofo 2 voltou a pensar.
+[15:05:16.732] Filósofo 2 está pensando.
+[15:05:17.102] Filósofo 4 está com fome.
+[15:05:17.102] Filósofo 4 pegou o hashi 4.
+[15:05:17.102] Filósofo 4 pegou o hashi 5.
+[15:05:17.102] Filósofo 4 está comendo.
+[15:05:17.114] Filósofo 3 está com fome.
+[15:05:17.202] Filósofo 4 terminou de comer.
+[15:05:17.202] Filósofo 4 devolveu o hashi 5.
+[15:05:17.202] Filósofo 4 devolveu o hashi 4.
+[15:05:17.202] Filósofo 4 voltou a pensar.
+[15:05:17.202] Filósofo 3 pegou o hashi 4.
+[15:05:17.202] Filósofo 4 está pensando.
+[15:05:17.202] Filósofo 3 pegou o hashi 3.
+[15:05:17.202] Filósofo 3 está comendo.
+[15:05:17.213] Filósofo 1 está com fome.
+[15:05:17.213] Filósofo 1 pegou o hashi 2.
+[15:05:17.213] Filósofo 1 pegou o hashi 1.
+[15:05:17.213] Filósofo 1 está comendo.
+[15:05:17.305] Filósofo 5 está com fome.
+[15:05:17.549] Filósofo 1 terminou de comer.
+[15:05:17.549] Filósofo 1 devolveu o hashi 1.
+[15:05:17.549] Filósofo 5 pegou o hashi 1.
+[15:05:17.549] Filósofo 5 pegou o hashi 5.
+[15:05:17.549] Filósofo 1 devolveu o hashi 2.
+[15:05:17.549] Filósofo 5 está comendo.
+[15:05:17.549] Filósofo 1 voltou a pensar.
+[15:05:17.549] Filósofo 1 está pensando.
+[15:05:17.551] Filósofo 2 está com fome.
+[15:05:17.551] Filósofo 2 pegou o hashi 2.
+[15:05:17.598] Filósofo 3 terminou de comer.
+[15:05:17.598] Filósofo 3 devolveu o hashi 3.
+[15:05:17.598] Filósofo 3 devolveu o hashi 4.
+[15:05:17.598] Filósofo 2 pegou o hashi 3.
+[15:05:17.598] Filósofo 3 voltou a pensar.
+[15:05:17.598] Filósofo 2 está comendo.
+[15:05:17.598] Filósofo 3 está pensando.
+[15:05:17.715] Filósofo 3 está com fome.
+[15:05:17.715] Filósofo 3 pegou o hashi 4.
+[15:05:17.890] Filósofo 4 está com fome.
+[15:05:17.937] Filósofo 5 terminou de comer.
+[15:05:17.937] Filósofo 5 devolveu o hashi 5.
+[15:05:17.937] Filósofo 5 devolveu o hashi 1.
+[15:05:17.937] Filósofo 5 voltou a pensar.
+[15:05:17.937] Filósofo 5 está pensando.
+[15:05:17.945] Filósofo 2 terminou de comer.
+[15:05:17.945] Filósofo 2 devolveu o hashi 3.
+[15:05:17.945] Filósofo 2 devolveu o hashi 2.
+[15:05:17.945] Filósofo 3 pegou o hashi 3.
+[15:05:17.945] Filósofo 3 está comendo.
+[15:05:17.945] Filósofo 2 voltou a pensar.
+[15:05:17.945] Filósofo 2 está pensando.
+[15:05:18.130] Filósofo 3 terminou de comer.
+[15:05:18.130] Filósofo 3 devolveu o hashi 3.
+[15:05:18.130] Filósofo 3 devolveu o hashi 4.
+[15:05:18.130] Filósofo 3 voltou a pensar.
+[15:05:18.130] Filósofo 4 pegou o hashi 4.
+[15:05:18.130] Filósofo 4 pegou o hashi 5.
+[15:05:18.130] Filósofo 4 está comendo.
+[15:05:18.130] Filósofo 3 está pensando.
+[15:05:18.196] Filósofo 3 está com fome.
+[15:05:18.490] Filósofo 2 está com fome.
+[15:05:18.490] Filósofo 2 pegou o hashi 2.
+[15:05:18.490] Filósofo 2 pegou o hashi 3.
+[15:05:18.490] Filósofo 2 está comendo.
+[15:05:18.502] Filósofo 1 está com fome.
+[15:05:18.579] Filósofo 4 terminou de comer.
+[15:05:18.579] Filósofo 4 devolveu o hashi 5.
+[15:05:18.579] Filósofo 4 devolveu o hashi 4.
+[15:05:18.579] Filósofo 4 voltou a pensar.
+[15:05:18.579] Filósofo 4 está pensando.
+[15:05:18.579] Filósofo 3 pegou o hashi 4.
+[15:05:18.792] Filósofo 2 terminou de comer.
+[15:05:18.792] Filósofo 2 devolveu o hashi 3.
+[15:05:18.792] Filósofo 3 pegou o hashi 3.
+[15:05:18.792] Filósofo 3 está comendo.
+[15:05:18.792] Filósofo 1 pegou o hashi 2.
+[15:05:18.792] Filósofo 2 devolveu o hashi 2.
+[15:05:18.792] Filósofo 2 voltou a pensar.
+[15:05:18.792] Filósofo 1 pegou o hashi 1.
+[15:05:18.792] Filósofo 1 está comendo.
+[15:05:18.792] Filósofo 2 está pensando.
+[15:05:18.815] Filósofo 3 terminou de comer.
+[15:05:18.815] Filósofo 3 devolveu o hashi 3.
+[15:05:18.815] Filósofo 3 devolveu o hashi 4.
+[15:05:18.815] Filósofo 3 voltou a pensar.
+[15:05:18.815] Filósofo 3 está pensando.
+[15:05:18.915] Filósofo 5 está com fome.
+[15:05:19.022] Filósofo 3 está com fome.
+[15:05:19.022] Filósofo 3 pegou o hashi 4.
+[15:05:19.022] Filósofo 3 pegou o hashi 3.
+[15:05:19.022] Filósofo 3 está comendo.
+[15:05:19.173] Filósofo 1 terminou de comer.
+[15:05:19.173] Filósofo 1 devolveu o hashi 1.
+[15:05:19.173] Filósofo 5 pegou o hashi 1.
+[15:05:19.173] Filósofo 5 pegou o hashi 5.
+[15:05:19.173] Filósofo 5 está comendo.
+[15:05:19.173] Filósofo 1 devolveu o hashi 2.
+[15:05:19.173] Filósofo 1 voltou a pensar.
+[15:05:19.173] Filósofo 1 está pensando.
+[15:05:19.218] Filósofo 5 terminou de comer.
+[15:05:19.218] Filósofo 5 devolveu o hashi 5.
+[15:05:19.218] Filósofo 5 devolveu o hashi 1.
+[15:05:19.218] Filósofo 5 voltou a pensar.
+[15:05:19.218] Filósofo 5 está pensando.
+[15:05:19.275] Filósofo 4 está com fome.
+[15:05:19.481] Filósofo 2 está com fome.
+[15:05:19.481] Filósofo 2 pegou o hashi 2.
+[15:05:19.491] Filósofo 3 terminou de comer.
+[15:05:19.491] Filósofo 3 devolveu o hashi 3.
+[15:05:19.491] Filósofo 2 pegou o hashi 3.
+[15:05:19.491] Filósofo 4 pegou o hashi 4.
+[15:05:19.491] Filósofo 3 devolveu o hashi 4.
+[15:05:19.491] Filósofo 3 voltou a pensar.
+[15:05:19.491] Filósofo 3 está pensando.
+[15:05:19.491] Filósofo 4 pegou o hashi 5.
+[15:05:19.491] Filósofo 2 está comendo.
+[15:05:19.491] Filósofo 4 está comendo.
+[15:05:19.529] Filósofo 1 está com fome.
+[15:05:19.602] Filósofo 2 terminou de comer.
+[15:05:19.602] Filósofo 2 devolveu o hashi 3.
+[15:05:19.602] Filósofo 2 devolveu o hashi 2.
+[15:05:19.602] Filósofo 2 voltou a pensar.
+[15:05:19.602] Filósofo 2 está pensando.
+[15:05:19.602] Filósofo 1 pegou o hashi 2.
+[15:05:19.602] Filósofo 1 pegou o hashi 1.
+[15:05:19.602] Filósofo 1 está comendo.
+[15:05:19.674] Filósofo 1 terminou de comer.
+[15:05:19.674] Filósofo 1 devolveu o hashi 1.
+[15:05:19.674] Filósofo 1 devolveu o hashi 2.
+[15:05:19.674] Filósofo 1 voltou a pensar.
+[15:05:19.674] Filósofo 1 está pensando.
+[15:05:19.756] Filósofo 2 está com fome.
+[15:05:19.756] Filósofo 2 pegou o hashi 2.
+[15:05:19.756] Filósofo 2 pegou o hashi 3.
+[15:05:19.756] Filósofo 2 está comendo.
+[15:05:19.952] Filósofo 4 terminou de comer.
+[15:05:19.952] Filósofo 4 devolveu o hashi 5.
+[15:05:19.952] Filósofo 4 devolveu o hashi 4.
+[15:05:19.952] Filósofo 4 voltou a pensar.
+[15:05:19.952] Filósofo 4 está pensando.
+[15:05:20.174] Filósofo 5 está com fome.
+[15:05:20.174] Filósofo 5 pegou o hashi 1.
+[15:05:20.174] Filósofo 5 pegou o hashi 5.
+[15:05:20.174] Filósofo 5 está comendo.
+[15:05:20.242] Filósofo 2 terminou de comer.
+[15:05:20.242] Filósofo 2 devolveu o hashi 3.
+[15:05:20.242] Filósofo 2 devolveu o hashi 2.
+[15:05:20.242] Filósofo 2 voltou a pensar.
+[15:05:20.242] Filósofo 2 está pensando.
+[15:05:20.266] Filósofo 3 está com fome.
+[15:05:20.266] Filósofo 3 pegou o hashi 4.
+[15:05:20.266] Filósofo 3 pegou o hashi 3.
+[15:05:20.266] Filósofo 3 está comendo.
+[15:05:20.388] Filósofo 1 está com fome.
+[15:05:20.388] Filósofo 1 pegou o hashi 2.
+[15:05:20.638] Filósofo 5 terminou de comer.
+[15:05:20.638] Filósofo 5 devolveu o hashi 5.
+[15:05:20.638] Filósofo 5 devolveu o hashi 1.
+[15:05:20.638] Filósofo 5 voltou a pensar.
+[15:05:20.638] Filósofo 5 está pensando.
+[15:05:20.638] Filósofo 1 pegou o hashi 1.
+[15:05:20.638] Filósofo 1 está comendo.
+[15:05:20.728] Filósofo 3 terminou de comer.
+[15:05:20.728] Filósofo 3 devolveu o hashi 3.
+[15:05:20.728] Filósofo 3 devolveu o hashi 4.
+[15:05:20.728] Filósofo 3 voltou a pensar.
+[15:05:20.728] Filósofo 3 está pensando.
+[15:05:20.891] Filósofo 4 está com fome.
+[15:05:20.891] Filósofo 4 pegou o hashi 4.
+[15:05:20.891] Filósofo 4 pegou o hashi 5.
+[15:05:20.891] Filósofo 4 está comendo.
+[15:05:20.930] Filósofo 1 terminou de comer.
+[15:05:20.930] Filósofo 1 devolveu o hashi 1.
+[15:05:20.930] Filósofo 1 devolveu o hashi 2.
+[15:05:20.930] Filósofo 1 voltou a pensar.
+[15:05:20.930] Filósofo 1 está pensando.
+[15:05:21.095] Filósofo 1 está com fome.
+[15:05:21.095] Filósofo 1 pegou o hashi 2.
+[15:05:21.095] Filósofo 1 pegou o hashi 1.
+[15:05:21.095] Filósofo 1 está comendo.
+[15:05:21.122] Filósofo 4 terminou de comer.
+[15:05:21.122] Filósofo 4 devolveu o hashi 5.
+[15:05:21.122] Filósofo 4 devolveu o hashi 4.
+[15:05:21.122] Filósofo 4 voltou a pensar.
+[15:05:21.122] Filósofo 4 está pensando.
+[15:05:21.197] Filósofo 2 está com fome.
+[15:05:21.355] Filósofo 5 está com fome.
+[15:05:21.479] Filósofo 4 está com fome.
+[15:05:21.479] Filósofo 4 pegou o hashi 4.
+[15:05:21.479] Filósofo 4 pegou o hashi 5.
+[15:05:21.479] Filósofo 4 está comendo.
+[15:05:21.565] Filósofo 1 terminou de comer.
+[15:05:21.565] Filósofo 1 devolveu o hashi 1.
+[15:05:21.565] Filósofo 5 pegou o hashi 1.
+[15:05:21.565] Filósofo 2 pegou o hashi 2.
+[15:05:21.565] Filósofo 1 devolveu o hashi 2.
+[15:05:21.565] Filósofo 1 voltou a pensar.
+[15:05:21.565] Filósofo 2 pegou o hashi 3.
+[15:05:21.565] Filósofo 2 está comendo.
+[15:05:21.565] Filósofo 1 está pensando.
+[15:05:21.694] Filósofo 3 está com fome.
+[15:05:21.802] Filósofo 4 terminou de comer.
+[15:05:21.802] Filósofo 4 devolveu o hashi 5.
+[15:05:21.802] Filósofo 5 pegou o hashi 5.
+[15:05:21.802] Filósofo 5 está comendo.
+[15:05:21.802] Filósofo 3 pegou o hashi 4.
+[15:05:21.802] Filósofo 4 devolveu o hashi 4.
+[15:05:21.802] Filósofo 4 voltou a pensar.
+[15:05:21.802] Filósofo 4 está pensando.
+[15:05:21.831] Filósofo 1 está com fome.
+[15:05:21.878] Filósofo 2 terminou de comer.
+[15:05:21.878] Filósofo 2 devolveu o hashi 3.
+[15:05:21.878] Filósofo 3 pegou o hashi 3.
+[15:05:21.878] Filósofo 1 pegou o hashi 2.
+[15:05:21.878] Filósofo 2 devolveu o hashi 2.
+[15:05:21.878] Filósofo 2 voltou a pensar.
+[15:05:21.878] Filósofo 3 está comendo.
+[15:05:21.878] Filósofo 2 está pensando.
+[15:05:21.982] Filósofo 5 terminou de comer.
+[15:05:21.982] Filósofo 5 devolveu o hashi 5.
+[15:05:21.982] Filósofo 5 devolveu o hashi 1.
+[15:05:21.982] Filósofo 5 voltou a pensar.
+[15:05:21.982] Filósofo 5 está pensando.
+[15:05:21.982] Filósofo 1 pegou o hashi 1.
+[15:05:21.982] Filósofo 1 está comendo.
+[15:05:22.012] Filósofo 4 está com fome.
+[15:05:22.199] Filósofo 2 está com fome.
+[15:05:22.217] Filósofo 1 terminou de comer.
+[15:05:22.217] Filósofo 1 devolveu o hashi 1.
+[15:05:22.217] Filósofo 1 devolveu o hashi 2.
+[15:05:22.217] Filósofo 1 voltou a pensar.
+[15:05:22.217] Filósofo 2 pegou o hashi 2.
+[15:05:22.217] Filósofo 1 está pensando.
+[15:05:22.282] Filósofo 5 está com fome.
+[15:05:22.282] Filósofo 5 pegou o hashi 1.
+[15:05:22.282] Filósofo 5 pegou o hashi 5.
+[15:05:22.282] Filósofo 5 está comendo.
+[15:05:22.357] Filósofo 3 terminou de comer.
+[15:05:22.357] Filósofo 3 devolveu o hashi 3.
+[15:05:22.357] Filósofo 2 pegou o hashi 3.
+[15:05:22.357] Filósofo 4 pegou o hashi 4.
+[15:05:22.357] Filósofo 3 devolveu o hashi 4.
+[15:05:22.357] Filósofo 2 está comendo.
+[15:05:22.357] Filósofo 3 voltou a pensar.
+[15:05:22.357] Filósofo 3 está pensando.
+[15:05:22.414] Filósofo 1 está com fome.
+[15:05:22.504] Filósofo 5 terminou de comer.
+[15:05:22.504] Filósofo 5 devolveu o hashi 5.
+[15:05:22.504] Filósofo 4 pegou o hashi 5.
+[15:05:22.504] Filósofo 5 devolveu o hashi 1.
+[15:05:22.504] Filósofo 5 voltou a pensar.
+[15:05:22.504] Filósofo 4 está comendo.
+[15:05:22.504] Filósofo 5 está pensando.
+[15:05:22.664] Filósofo 2 terminou de comer.
+[15:05:22.664] Filósofo 2 devolveu o hashi 3.
+[15:05:22.664] Filósofo 2 devolveu o hashi 2.
+[15:05:22.664] Filósofo 2 voltou a pensar.
+[15:05:22.664] Filósofo 1 pegou o hashi 2.
+[15:05:22.664] Filósofo 2 está pensando.
+[15:05:22.664] Filósofo 1 pegou o hashi 1.
+[15:05:22.664] Filósofo 1 está comendo.
+[15:05:22.774] Filósofo 4 terminou de comer.
+[15:05:22.774] Filósofo 4 devolveu o hashi 5.
+[15:05:22.774] Filósofo 4 devolveu o hashi 4.
+[15:05:22.774] Filósofo 4 voltou a pensar.
+[15:05:22.774] Filósofo 4 está pensando.
+[15:05:22.854] Filósofo 2 está com fome.
+[15:05:22.982] Filósofo 1 terminou de comer.
+[15:05:22.982] Filósofo 1 devolveu o hashi 1.
+[15:05:22.982] Filósofo 1 devolveu o hashi 2.
+[15:05:22.982] Filósofo 2 pegou o hashi 2.
+[15:05:22.982] Filósofo 1 voltou a pensar.
+[15:05:22.982] Filósofo 1 está pensando.
+[15:05:22.982] Filósofo 2 pegou o hashi 3.
+[15:05:22.982] Filósofo 2 está comendo.
+[15:05:23.068] Filósofo 4 está com fome.
+[15:05:23.068] Filósofo 4 pegou o hashi 4.
+[15:05:23.068] Filósofo 4 pegou o hashi 5.
+[15:05:23.068] Filósofo 4 está comendo.
+[15:05:23.156] Filósofo 4 terminou de comer.
+[15:05:23.156] Filósofo 4 devolveu o hashi 5.
+[15:05:23.156] Filósofo 4 devolveu o hashi 4.
+[15:05:23.156] Filósofo 4 voltou a pensar.
+[15:05:23.156] Filósofo 4 está pensando.
+[15:05:23.209] Filósofo 1 está com fome.
+[15:05:23.308] Filósofo 3 está com fome.
+[15:05:23.308] Filósofo 3 pegou o hashi 4.
+[15:05:23.404] Filósofo 5 está com fome.
+[15:05:23.404] Filósofo 5 pegou o hashi 1.
+[15:05:23.404] Filósofo 5 pegou o hashi 5.
+[15:05:23.404] Filósofo 5 está comendo.
+[15:05:23.470] Filósofo 2 terminou de comer.
+[15:05:23.470] Filósofo 2 devolveu o hashi 3.
+[15:05:23.470] Filósofo 3 pegou o hashi 3.
+[15:05:23.470] Filósofo 1 pegou o hashi 2.
+[15:05:23.470] Filósofo 2 devolveu o hashi 2.
+[15:05:23.470] Filósofo 2 voltou a pensar.
+[15:05:23.470] Filósofo 3 está comendo.
+[15:05:23.470] Filósofo 2 está pensando.
+[15:05:23.565] Filósofo 2 está com fome.
+[15:05:23.650] Filósofo 5 terminou de comer.
+[15:05:23.650] Filósofo 5 devolveu o hashi 5.
+[15:05:23.650] Filósofo 5 devolveu o hashi 1.
+[15:05:23.650] Filósofo 5 voltou a pensar.
+[15:05:23.650] Filósofo 1 pegou o hashi 1.
+[15:05:23.650] Filósofo 1 está comendo.
+[15:05:23.650] Filósofo 5 está pensando.
+[15:05:23.801] Filósofo 4 está com fome.
+[15:05:23.838] Filósofo 3 terminou de comer.
+[15:05:23.838] Filósofo 3 devolveu o hashi 3.
+[15:05:23.838] Filósofo 3 devolveu o hashi 4.
+[15:05:23.838] Filósofo 3 voltou a pensar.
+[15:05:23.838] Filósofo 4 pegou o hashi 4.
+[15:05:23.838] Filósofo 3 está pensando.
+[15:05:23.838] Filósofo 4 pegou o hashi 5.
+[15:05:23.838] Filósofo 4 está comendo.
+[15:05:23.927] Filósofo 1 terminou de comer.
+[15:05:23.927] Filósofo 1 devolveu o hashi 1.
+[15:05:23.927] Filósofo 1 devolveu o hashi 2.
+[15:05:23.927] Filósofo 1 voltou a pensar.
+[15:05:23.927] Filósofo 1 está pensando.
+[15:05:23.927] Filósofo 2 pegou o hashi 2.
+[15:05:23.927] Filósofo 2 pegou o hashi 3.
+[15:05:23.927] Filósofo 2 está comendo.
+[15:05:23.952] Filósofo 2 terminou de comer.
+[15:05:23.952] Filósofo 2 devolveu o hashi 3.
+[15:05:23.952] Filósofo 2 devolveu o hashi 2.
+[15:05:23.952] Filósofo 2 voltou a pensar.
+[15:05:23.952] Filósofo 2 está pensando.
+[15:05:24.026] Filósofo 5 está com fome.
+[15:05:24.026] Filósofo 5 pegou o hashi 1.
+[15:05:24.163] Filósofo 4 terminou de comer.
+[15:05:24.163] Filósofo 4 devolveu o hashi 5.
+[15:05:24.163] Filósofo 5 pegou o hashi 5.
+[15:05:24.163] Filósofo 5 está comendo.
+[15:05:24.163] Filósofo 4 devolveu o hashi 4.
+[15:05:24.163] Filósofo 4 voltou a pensar.
+[15:05:24.163] Filósofo 4 está pensando.
+[15:05:24.176] Filósofo 5 terminou de comer.
+[15:05:24.176] Filósofo 5 devolveu o hashi 5.
+[15:05:24.176] Filósofo 5 devolveu o hashi 1.
+[15:05:24.176] Filósofo 5 voltou a pensar.
+[15:05:24.176] Filósofo 5 está pensando.
+[15:05:24.322] Filósofo 2 está com fome.
+[15:05:24.322] Filósofo 2 pegou o hashi 2.
+[15:05:24.322] Filósofo 2 pegou o hashi 3.
+[15:05:24.322] Filósofo 2 está comendo.
+[15:05:24.389] Filósofo 4 está com fome.
+[15:05:24.389] Filósofo 4 pegou o hashi 4.
+[15:05:24.389] Filósofo 4 pegou o hashi 5.
+[15:05:24.389] Filósofo 4 está comendo.
+[15:05:24.400] Filósofo 1 está com fome.
+[15:05:24.575] Filósofo 3 está com fome.
+[15:05:24.728] Filósofo 2 terminou de comer.
+[15:05:24.728] Filósofo 2 devolveu o hashi 3.
+[15:05:24.728] Filósofo 2 devolveu o hashi 2.
+[15:05:24.728] Filósofo 2 voltou a pensar.
+[15:05:24.728] Filósofo 1 pegou o hashi 2.
+[15:05:24.728] Filósofo 2 está pensando.
+[15:05:24.728] Filósofo 1 pegou o hashi 1.
+[15:05:24.728] Filósofo 1 está comendo.
+[15:05:24.782] Filósofo 5 está com fome.
+[15:05:24.805] Filósofo 4 terminou de comer.
+[15:05:24.805] Filósofo 4 devolveu o hashi 5.
+[15:05:24.805] Filósofo 4 devolveu o hashi 4.
+[15:05:24.805] Filósofo 4 voltou a pensar.
+[15:05:24.805] Filósofo 3 pegou o hashi 4.
+[15:05:24.805] Filósofo 4 está pensando.
+[15:05:24.805] Filósofo 3 pegou o hashi 3.
+[15:05:24.805] Filósofo 3 está comendo.
+[15:05:25.032] Filósofo 1 terminou de comer.
+[15:05:25.032] Filósofo 1 devolveu o hashi 1.
+[15:05:25.032] Filósofo 5 pegou o hashi 1.
+[15:05:25.032] Filósofo 5 pegou o hashi 5.
+[15:05:25.032] Filósofo 5 está comendo.
+[15:05:25.032] Filósofo 1 devolveu o hashi 2.
+[15:05:25.032] Filósofo 1 voltou a pensar.
+[15:05:25.032] Filósofo 1 está pensando.
+[15:05:25.084] Filósofo 5 terminou de comer.
+[15:05:25.084] Filósofo 5 devolveu o hashi 5.
+[15:05:25.084] Filósofo 5 devolveu o hashi 1.
+[15:05:25.084] Filósofo 5 voltou a pensar.
+[15:05:25.084] Filósofo 5 está pensando.
+[15:05:25.157] Filósofo 3 terminou de comer.
+[15:05:25.157] Filósofo 3 devolveu o hashi 3.
+[15:05:25.157] Filósofo 3 devolveu o hashi 4.
+[15:05:25.157] Filósofo 3 voltou a pensar.
+[15:05:25.157] Filósofo 3 está pensando.
+[15:05:25.165] Filósofo 3 está com fome.
+[15:05:25.165] Filósofo 3 pegou o hashi 4.
+[15:05:25.165] Filósofo 3 pegou o hashi 3.
+[15:05:25.165] Filósofo 3 está comendo.
+[15:05:25.365] Filósofo 3 terminou de comer.
+[15:05:25.365] Filósofo 3 devolveu o hashi 3.
+[15:05:25.365] Filósofo 3 devolveu o hashi 4.
+[15:05:25.365] Filósofo 3 voltou a pensar.
+[15:05:25.365] Filósofo 3 está pensando.
+[15:05:25.471] Filósofo 2 está com fome.
+[15:05:25.471] Filósofo 2 pegou o hashi 2.
+[15:05:25.471] Filósofo 2 pegou o hashi 3.
+[15:05:25.471] Filósofo 2 está comendo.
+[15:05:25.474] Filósofo 4 está com fome.
+[15:05:25.474] Filósofo 4 pegou o hashi 4.
+[15:05:25.474] Filósofo 4 pegou o hashi 5.
+[15:05:25.474] Filósofo 4 está comendo.
+[15:05:25.646] Filósofo 4 terminou de comer.
+[15:05:25.646] Filósofo 4 devolveu o hashi 5.
+[15:05:25.646] Filósofo 4 devolveu o hashi 4.
+[15:05:25.646] Filósofo 4 voltou a pensar.
+[15:05:25.646] Filósofo 4 está pensando.
+[15:05:25.806] Filósofo 2 terminou de comer.
+[15:05:25.806] Filósofo 2 devolveu o hashi 3.
+[15:05:25.806] Filósofo 2 devolveu o hashi 2.
+[15:05:25.806] Filósofo 2 voltou a pensar.
+[15:05:25.806] Filósofo 2 está pensando.
+[15:05:25.910] Filósofo 2 está com fome.
+[15:05:25.910] Filósofo 2 pegou o hashi 2.
+[15:05:25.910] Filósofo 2 pegou o hashi 3.
+[15:05:25.910] Filósofo 2 está comendo.
+[15:05:25.953] Filósofo 5 está com fome.
+[15:05:25.953] Filósofo 5 pegou o hashi 1.
+[15:05:25.953] Filósofo 5 pegou o hashi 5.
+[15:05:25.953] Filósofo 5 está comendo.
+[15:05:25.974] Filósofo 1 está com fome.
+[15:05:26.111] Filósofo 2 terminou de comer.
+[15:05:26.111] Filósofo 2 devolveu o hashi 3.
+[15:05:26.111] Filósofo 2 devolveu o hashi 2.
+[15:05:26.111] Filósofo 2 voltou a pensar.
+[15:05:26.111] Filósofo 1 pegou o hashi 2.
+[15:05:26.111] Filósofo 2 está pensando.
+[15:05:26.199] Filósofo 3 está com fome.
+[15:05:26.199] Filósofo 3 pegou o hashi 4.
+[15:05:26.199] Filósofo 3 pegou o hashi 3.
+[15:05:26.199] Filósofo 3 está comendo.
+[15:05:26.322] Filósofo 5 terminou de comer.
+[15:05:26.322] Filósofo 5 devolveu o hashi 5.
+[15:05:26.322] Filósofo 5 devolveu o hashi 1.
+[15:05:26.322] Filósofo 5 voltou a pensar.
+[15:05:26.322] Filósofo 5 está pensando.
+[15:05:26.322] Filósofo 1 pegou o hashi 1.
+[15:05:26.322] Filósofo 1 está comendo.
+[15:05:26.365] Filósofo 4 está com fome.
+[15:05:26.392] Filósofo 5 está com fome.
+[15:05:26.635] Filósofo 3 terminou de comer.
+[15:05:26.635] Filósofo 3 devolveu o hashi 3.
+[15:05:26.635] Filósofo 3 devolveu o hashi 4.
+[15:05:26.635] Filósofo 3 voltou a pensar.
+[15:05:26.635] Filósofo 4 pegou o hashi 4.
+[15:05:26.635] Filósofo 3 está pensando.
+[15:05:26.635] Filósofo 4 pegou o hashi 5.
+[15:05:26.635] Filósofo 4 está comendo.
+[15:05:26.715] Filósofo 4 terminou de comer.
+[15:05:26.715] Filósofo 4 devolveu o hashi 5.
+[15:05:26.715] Filósofo 4 devolveu o hashi 4.
+[15:05:26.715] Filósofo 4 voltou a pensar.
+[15:05:26.715] Filósofo 4 está pensando.
+[15:05:26.798] Filósofo 1 terminou de comer.
+[15:05:26.798] Filósofo 1 devolveu o hashi 1.
+[15:05:26.798] Filósofo 5 pegou o hashi 1.
+[15:05:26.798] Filósofo 1 devolveu o hashi 2.
+[15:05:26.798] Filósofo 5 pegou o hashi 5.
+[15:05:26.798] Filósofo 5 está comendo.
+[15:05:26.798] Filósofo 1 voltou a pensar.
+[15:05:26.798] Filósofo 1 está pensando.
+[15:05:26.841] Filósofo 5 terminou de comer.
+[15:05:26.841] Filósofo 5 devolveu o hashi 5.
+[15:05:26.841] Filósofo 5 devolveu o hashi 1.
+[15:05:26.841] Filósofo 5 voltou a pensar.
+[15:05:26.841] Filósofo 5 está pensando.
+[15:05:26.858] Filósofo 2 está com fome.
+[15:05:26.858] Filósofo 2 pegou o hashi 2.
+[15:05:26.858] Filósofo 2 pegou o hashi 3.
+[15:05:26.858] Filósofo 2 está comendo.
+[15:05:27.056] Filósofo 1 está com fome.
+[15:05:27.124] Filósofo 2 terminou de comer.
+[15:05:27.124] Filósofo 2 devolveu o hashi 3.
+[15:05:27.124] Filósofo 2 devolveu o hashi 2.
+[15:05:27.124] Filósofo 1 pegou o hashi 2.
+[15:05:27.124] Filósofo 1 pegou o hashi 1.
+[15:05:27.124] Filósofo 1 está comendo.
+[15:05:27.124] Filósofo 2 voltou a pensar.
+[15:05:27.124] Filósofo 2 está pensando.
+[15:05:27.324] Filósofo 3 está com fome.
+[15:05:27.324] Filósofo 3 pegou o hashi 4.
+[15:05:27.324] Filósofo 3 pegou o hashi 3.
+[15:05:27.324] Filósofo 3 está comendo.
+[15:05:27.424] Filósofo 5 está com fome.
+[15:05:27.432] Filósofo 1 terminou de comer.
+[15:05:27.432] Filósofo 1 devolveu o hashi 1.
+[15:05:27.432] Filósofo 5 pegou o hashi 1.
+[15:05:27.432] Filósofo 1 devolveu o hashi 2.
+[15:05:27.432] Filósofo 5 pegou o hashi 5.
+[15:05:27.432] Filósofo 5 está comendo.
+[15:05:27.432] Filósofo 1 voltou a pensar.
+[15:05:27.432] Filósofo 1 está pensando.
+[15:05:27.561] Filósofo 2 está com fome.
+[15:05:27.561] Filósofo 2 pegou o hashi 2.
+[15:05:27.648] Filósofo 4 está com fome.
+[15:05:27.702] Filósofo 5 terminou de comer.
+[15:05:27.702] Filósofo 5 devolveu o hashi 5.
+[15:05:27.702] Filósofo 5 devolveu o hashi 1.
+[15:05:27.702] Filósofo 5 voltou a pensar.
+[15:05:27.702] Filósofo 5 está pensando.
+[15:05:27.757] Filósofo 3 terminou de comer.
+[15:05:27.757] Filósofo 3 devolveu o hashi 3.
+[15:05:27.757] Filósofo 2 pegou o hashi 3.
+[15:05:27.757] Filósofo 4 pegou o hashi 4.
+[15:05:27.757] Filósofo 4 pegou o hashi 5.
+[15:05:27.757] Filósofo 3 devolveu o hashi 4.
+[15:05:27.757] Filósofo 4 está comendo.
+[15:05:27.757] Filósofo 2 está comendo.
+[15:05:27.757] Filósofo 3 voltou a pensar.
+[15:05:27.757] Filósofo 3 está pensando.
+[15:05:27.865] Filósofo 4 terminou de comer.
+[15:05:27.865] Filósofo 4 devolveu o hashi 5.
+[15:05:27.865] Filósofo 4 devolveu o hashi 4.
+[15:05:27.865] Filósofo 4 voltou a pensar.
+[15:05:27.865] Filósofo 4 está pensando.
+[15:05:27.885] Filósofo 4 está com fome.
+[15:05:27.885] Filósofo 4 pegou o hashi 4.
+[15:05:27.885] Filósofo 4 pegou o hashi 5.
+[15:05:27.885] Filósofo 4 está comendo.
+[15:05:28.048] Filósofo 5 está com fome.
+[15:05:28.048] Filósofo 5 pegou o hashi 1.
+[15:05:28.054] Filósofo 4 terminou de comer.
+[15:05:28.054] Filósofo 4 devolveu o hashi 5.
+[15:05:28.054] Filósofo 5 pegou o hashi 5.
+[15:05:28.054] Filósofo 4 devolveu o hashi 4.
+[15:05:28.054] Filósofo 4 voltou a pensar.
+[15:05:28.054] Filósofo 4 está pensando.
+[15:05:28.054] Filósofo 5 está comendo.
+[15:05:28.101] Filósofo 2 terminou de comer.
+[15:05:28.101] Filósofo 2 devolveu o hashi 3.
+[15:05:28.101] Filósofo 2 devolveu o hashi 2.
+[15:05:28.101] Filósofo 2 voltou a pensar.
+[15:05:28.101] Filósofo 2 está pensando.
+[15:05:28.102] Filósofo 1 está com fome.
+[15:05:28.102] Filósofo 1 pegou o hashi 2.
+[15:05:28.118] Filósofo 5 terminou de comer.
+[15:05:28.118] Filósofo 5 devolveu o hashi 5.
+[15:05:28.118] Filósofo 5 devolveu o hashi 1.
+[15:05:28.118] Filósofo 5 voltou a pensar.
+[15:05:28.118] Filósofo 5 está pensando.
+[15:05:28.118] Filósofo 1 pegou o hashi 1.
+[15:05:28.118] Filósofo 1 está comendo.
+[15:05:28.134] Filósofo 3 está com fome.
+[15:05:28.134] Filósofo 3 pegou o hashi 4.
+[15:05:28.134] Filósofo 3 pegou o hashi 3.
+[15:05:28.134] Filósofo 3 está comendo.
+[15:05:28.180] Filósofo 1 terminou de comer.
+[15:05:28.180] Filósofo 1 devolveu o hashi 1.
+[15:05:28.180] Filósofo 1 devolveu o hashi 2.
+[15:05:28.180] Filósofo 1 voltou a pensar.
+[15:05:28.180] Filósofo 1 está pensando.
+[15:05:28.235] Filósofo 4 está com fome.
+[15:05:28.282] Filósofo 3 terminou de comer.
+[15:05:28.282] Filósofo 3 devolveu o hashi 3.
+[15:05:28.282] Filósofo 3 devolveu o hashi 4.
+[15:05:28.282] Filósofo 3 voltou a pensar.
+[15:05:28.282] Filósofo 3 está pensando.
+[15:05:28.282] Filósofo 4 pegou o hashi 4.
+[15:05:28.282] Filósofo 4 pegou o hashi 5.
+[15:05:28.282] Filósofo 4 está comendo.
+[15:05:28.330] Filósofo 3 está com fome.
+[15:05:28.346] Filósofo 4 terminou de comer.
+[15:05:28.346] Filósofo 4 devolveu o hashi 5.
+[15:05:28.346] Filósofo 4 devolveu o hashi 4.
+[15:05:28.346] Filósofo 4 voltou a pensar.
+[15:05:28.346] Filósofo 3 pegou o hashi 4.
+[15:05:28.346] Filósofo 4 está pensando.
+[15:05:28.346] Filósofo 3 pegou o hashi 3.
+[15:05:28.346] Filósofo 3 está comendo.
+[15:05:28.408] Filósofo 5 está com fome.
+[15:05:28.408] Filósofo 5 pegou o hashi 1.
+[15:05:28.408] Filósofo 5 pegou o hashi 5.
+[15:05:28.408] Filósofo 5 está comendo.
+[15:05:28.484] Filósofo 3 terminou de comer.
+[15:05:28.484] Filósofo 3 devolveu o hashi 3.
+[15:05:28.484] Filósofo 3 devolveu o hashi 4.
+[15:05:28.484] Filósofo 3 voltou a pensar.
+[15:05:28.484] Filósofo 3 está pensando.
+[15:05:28.531] Filósofo 2 está com fome.
+[15:05:28.531] Filósofo 2 pegou o hashi 2.
+[15:05:28.531] Filósofo 2 pegou o hashi 3.
+[15:05:28.531] Filósofo 2 está comendo.
+[15:05:28.664] Filósofo 1 está com fome.
+[15:05:28.736] Filósofo 5 terminou de comer.
+[15:05:28.736] Filósofo 5 devolveu o hashi 5.
+[15:05:28.736] Filósofo 5 devolveu o hashi 1.
+[15:05:28.736] Filósofo 5 voltou a pensar.
+[15:05:28.736] Filósofo 5 está pensando.
+[15:05:28.869] Filósofo 2 terminou de comer.
+[15:05:28.869] Filósofo 2 devolveu o hashi 3.
+[15:05:28.869] Filósofo 2 devolveu o hashi 2.
+[15:05:28.869] Filósofo 2 voltou a pensar.
+[15:05:28.869] Filósofo 2 está pensando.
+[15:05:28.869] Filósofo 1 pegou o hashi 2.
+[15:05:28.869] Filósofo 1 pegou o hashi 1.
+[15:05:28.869] Filósofo 1 está comendo.
+[15:05:28.930] Filósofo 2 está com fome.
+[15:05:28.999] Filósofo 4 está com fome.
+[15:05:28.999] Filósofo 4 pegou o hashi 4.
+[15:05:28.999] Filósofo 4 pegou o hashi 5.
+[15:05:28.999] Filósofo 4 está comendo.
+[15:05:29.111] Filósofo 1 terminou de comer.
+[15:05:29.111] Filósofo 1 devolveu o hashi 1.
+[15:05:29.111] Filósofo 1 devolveu o hashi 2.
+[15:05:29.111] Filósofo 1 voltou a pensar.
+[15:05:29.111] Filósofo 2 pegou o hashi 2.
+[15:05:29.111] Filósofo 2 pegou o hashi 3.
+[15:05:29.111] Filósofo 2 está comendo.
+[15:05:29.111] Filósofo 1 está pensando.
+[15:05:29.154] Filósofo 2 terminou de comer.
+[15:05:29.154] Filósofo 2 devolveu o hashi 3.
+[15:05:29.154] Filósofo 2 devolveu o hashi 2.
+[15:05:29.154] Filósofo 2 voltou a pensar.
+[15:05:29.154] Filósofo 2 está pensando.
+[15:05:29.357] Filósofo 2 está com fome.
+[15:05:29.357] Filósofo 2 pegou o hashi 2.
+[15:05:29.357] Filósofo 2 pegou o hashi 3.
+[15:05:29.357] Filósofo 2 está comendo.
+[15:05:29.372] Filósofo 3 está com fome.
+[15:05:29.396] Filósofo 4 terminou de comer.
+[15:05:29.396] Filósofo 4 devolveu o hashi 5.
+[15:05:29.396] Filósofo 4 devolveu o hashi 4.
+[15:05:29.396] Filósofo 4 voltou a pensar.
+[15:05:29.396] Filósofo 4 está pensando.
+[15:05:29.396] Filósofo 3 pegou o hashi 4.
+[15:05:29.444] Filósofo 5 está com fome.
+[15:05:29.444] Filósofo 5 pegou o hashi 1.
+[15:05:29.444] Filósofo 5 pegou o hashi 5.
+[15:05:29.444] Filósofo 5 está comendo.
+[15:05:29.594] Filósofo 5 terminou de comer.
+[15:05:29.594] Filósofo 5 devolveu o hashi 5.
+[15:05:29.594] Filósofo 5 devolveu o hashi 1.
+[15:05:29.594] Filósofo 5 voltou a pensar.
+[15:05:29.594] Filósofo 5 está pensando.
+[15:05:29.652] Filósofo 1 está com fome.
+[15:05:29.709] Filósofo 2 terminou de comer.
+[15:05:29.709] Filósofo 2 devolveu o hashi 3.
+[15:05:29.709] Filósofo 3 pegou o hashi 3.
+[15:05:29.709] Filósofo 3 está comendo.
+[15:05:29.709] Filósofo 1 pegou o hashi 2.
+[15:05:29.709] Filósofo 2 devolveu o hashi 2.
+[15:05:29.709] Filósofo 2 voltou a pensar.
+[15:05:29.709] Filósofo 1 pegou o hashi 1.
+[15:05:29.709] Filósofo 1 está comendo.
+[15:05:29.709] Filósofo 2 está pensando.
+[15:05:29.755] Filósofo 3 terminou de comer.
+[15:05:29.755] Filósofo 3 devolveu o hashi 3.
+[15:05:29.755] Filósofo 3 devolveu o hashi 4.
+[15:05:29.755] Filósofo 3 voltou a pensar.
+[15:05:29.755] Filósofo 3 está pensando.
+[15:05:29.866] Filósofo 4 está com fome.
+[15:05:29.866] Filósofo 4 pegou o hashi 4.
+[15:05:29.866] Filósofo 4 pegou o hashi 5.
+[15:05:29.866] Filósofo 4 está comendo.
+[15:05:29.927] Filósofo 1 terminou de comer.
+[15:05:29.927] Filósofo 1 devolveu o hashi 1.
+[15:05:29.927] Filósofo 1 devolveu o hashi 2.
+[15:05:29.927] Filósofo 1 voltou a pensar.
+[15:05:29.927] Filósofo 1 está pensando.
+[15:05:30.195] Filósofo 5 está com fome.
+[15:05:30.195] Filósofo 5 pegou o hashi 1.
+[15:05:30.299] Filósofo 4 terminou de comer.
+[15:05:30.299] Filósofo 4 devolveu o hashi 5.
+[15:05:30.299] Filósofo 4 devolveu o hashi 4.
+[15:05:30.299] Filósofo 5 pegou o hashi 5.
+[15:05:30.299] Filósofo 4 voltou a pensar.
+[15:05:30.299] Filósofo 5 está comendo.
+[15:05:30.299] Filósofo 4 está pensando.
+[15:05:30.492] Filósofo 2 está com fome.
+[15:05:30.492] Filósofo 2 pegou o hashi 2.
+[15:05:30.492] Filósofo 2 pegou o hashi 3.
+[15:05:30.492] Filósofo 2 está comendo.
+[15:05:30.512] Filósofo 1 está com fome.
+[15:05:30.514] Filósofo 2 terminou de comer.
+[15:05:30.514] Filósofo 2 devolveu o hashi 3.
+[15:05:30.514] Filósofo 2 devolveu o hashi 2.
+[15:05:30.514] Filósofo 2 voltou a pensar.
+[15:05:30.514] Filósofo 2 está pensando.
+[15:05:30.514] Filósofo 1 pegou o hashi 2.
+[15:05:30.591] Filósofo 3 está com fome.
+[15:05:30.591] Filósofo 3 pegou o hashi 4.
+[15:05:30.591] Filósofo 3 pegou o hashi 3.
+[15:05:30.591] Filósofo 3 está comendo.
+[15:05:30.644] Filósofo 5 terminou de comer.
+[15:05:30.644] Filósofo 5 devolveu o hashi 5.
+[15:05:30.644] Filósofo 5 devolveu o hashi 1.
+[15:05:30.644] Filósofo 5 voltou a pensar.
+[15:05:30.644] Filósofo 5 está pensando.
+[15:05:30.644] Filósofo 1 pegou o hashi 1.
+[15:05:30.644] Filósofo 1 está comendo.
+[15:05:30.659] Filósofo 1 terminou de comer.
+[15:05:30.659] Filósofo 1 devolveu o hashi 1.
+[15:05:30.659] Filósofo 1 devolveu o hashi 2.
+[15:05:30.659] Filósofo 1 voltou a pensar.
+[15:05:30.659] Filósofo 1 está pensando.
+[15:05:30.980] Filósofo 3 terminou de comer.
+[15:05:30.980] Filósofo 3 devolveu o hashi 3.
+[15:05:30.980] Filósofo 3 devolveu o hashi 4.
+[15:05:30.980] Filósofo 3 voltou a pensar.
+[15:05:30.980] Filósofo 3 está pensando.
+[15:05:31.120] Filósofo 2 está com fome.
+[15:05:31.120] Filósofo 2 pegou o hashi 2.
+[15:05:31.120] Filósofo 2 pegou o hashi 3.
+[15:05:31.120] Filósofo 2 está comendo.
+[15:05:31.138] Filósofo 2 terminou de comer.
+[15:05:31.138] Filósofo 2 devolveu o hashi 3.
+[15:05:31.138] Filósofo 2 devolveu o hashi 2.
+[15:05:31.138] Filósofo 2 voltou a pensar.
+[15:05:31.138] Filósofo 2 está pensando.
+[15:05:31.256] Filósofo 4 está com fome.
+[15:05:31.256] Filósofo 4 pegou o hashi 4.
+[15:05:31.256] Filósofo 4 pegou o hashi 5.
+[15:05:31.256] Filósofo 4 está comendo.
+[15:05:31.360] Filósofo 1 está com fome.
+[15:05:31.360] Filósofo 1 pegou o hashi 2.
+[15:05:31.360] Filósofo 1 pegou o hashi 1.
+[15:05:31.360] Filósofo 1 está comendo.
+[15:05:31.425] Filósofo 2 está com fome.
+[15:05:31.487] Filósofo 1 terminou de comer.
+[15:05:31.487] Filósofo 1 devolveu o hashi 1.
+[15:05:31.487] Filósofo 1 devolveu o hashi 2.
+[15:05:31.487] Filósofo 1 voltou a pensar.
+[15:05:31.487] Filósofo 2 pegou o hashi 2.
+[15:05:31.487] Filósofo 2 pegou o hashi 3.
+[15:05:31.487] Filósofo 1 está pensando.
+[15:05:31.487] Filósofo 2 está comendo.
+[15:05:31.509] Filósofo 5 está com fome.
+[15:05:31.509] Filósofo 5 pegou o hashi 1.
+[15:05:31.552] Filósofo 4 terminou de comer.
+[15:05:31.552] Filósofo 4 devolveu o hashi 5.
+[15:05:31.552] Filósofo 4 devolveu o hashi 4.
+[15:05:31.552] Filósofo 5 pegou o hashi 5.
+[15:05:31.552] Filósofo 5 está comendo.
+[15:05:31.552] Filósofo 4 voltou a pensar.
+[15:05:31.552] Filósofo 4 está pensando.
+[15:05:31.612] Filósofo 3 está com fome.
+[15:05:31.612] Filósofo 3 pegou o hashi 4.
+[15:05:31.826] Filósofo 4 está com fome.
+[15:05:31.965] Filósofo 1 está com fome.
+[15:05:31.971] Filósofo 2 terminou de comer.
+[15:05:31.971] Filósofo 2 devolveu o hashi 3.
+[15:05:31.971] Filósofo 2 devolveu o hashi 2.
+[15:05:31.971] Filósofo 1 pegou o hashi 2.
+[15:05:31.971] Filósofo 3 pegou o hashi 3.
+[15:05:31.971] Filósofo 2 voltou a pensar.
+[15:05:31.971] Filósofo 3 está comendo.
+[15:05:31.971] Filósofo 2 está pensando.
+[15:05:31.978] Filósofo 5 terminou de comer.
+[15:05:31.978] Filósofo 5 devolveu o hashi 5.
+[15:05:31.978] Filósofo 5 devolveu o hashi 1.
+[15:05:31.978] Filósofo 5 voltou a pensar.
+[15:05:31.978] Filósofo 5 está pensando.
+[15:05:31.978] Filósofo 1 pegou o hashi 1.
+[15:05:31.978] Filósofo 1 está comendo.
+[15:05:32.299] Filósofo 1 terminou de comer.
+[15:05:32.299] Filósofo 1 devolveu o hashi 1.
+[15:05:32.299] Filósofo 1 devolveu o hashi 2.
+[15:05:32.299] Filósofo 1 voltou a pensar.
+[15:05:32.299] Filósofo 1 está pensando.
+[15:05:32.449] Filósofo 3 terminou de comer.
+[15:05:32.449] Filósofo 3 devolveu o hashi 3.
+[15:05:32.449] Filósofo 3 devolveu o hashi 4.
+[15:05:32.449] Filósofo 4 pegou o hashi 4.
+[15:05:32.449] Filósofo 3 voltou a pensar.
+[15:05:32.449] Filósofo 3 está pensando.
+[15:05:32.449] Filósofo 4 pegou o hashi 5.
+[15:05:32.449] Filósofo 4 está comendo.
+[15:05:32.541] Filósofo 1 está com fome.
+[15:05:32.541] Filósofo 1 pegou o hashi 2.
+[15:05:32.541] Filósofo 1 pegou o hashi 1.
+[15:05:32.541] Filósofo 1 está comendo.
+[15:05:32.650] Filósofo 3 está com fome.
+[15:05:32.782] Filósofo 4 terminou de comer.
+[15:05:32.782] Filósofo 4 devolveu o hashi 5.
+[15:05:32.782] Filósofo 4 devolveu o hashi 4.
+[15:05:32.782] Filósofo 4 voltou a pensar.
+[15:05:32.782] Filósofo 4 está pensando.
+[15:05:32.782] Filósofo 3 pegou o hashi 4.
+[15:05:32.782] Filósofo 3 pegou o hashi 3.
+[15:05:32.782] Filósofo 3 está comendo.
+[15:05:32.794] Filósofo 2 está com fome.
+[15:05:32.850] Filósofo 1 terminou de comer.
+[15:05:32.850] Filósofo 1 devolveu o hashi 1.
+[15:05:32.850] Filósofo 1 devolveu o hashi 2.
+[15:05:32.850] Filósofo 1 voltou a pensar.
+[15:05:32.850] Filósofo 1 está pensando.
+[15:05:32.850] Filósofo 2 pegou o hashi 2.
+[15:05:32.951] Filósofo 5 está com fome.
+[15:05:32.951] Filósofo 5 pegou o hashi 1.
+[15:05:32.951] Filósofo 5 pegou o hashi 5.
+[15:05:32.951] Filósofo 5 está comendo.
+[15:05:33.032] Filósofo 3 terminou de comer.
+[15:05:33.032] Filósofo 3 devolveu o hashi 3.
+[15:05:33.032] Filósofo 3 devolveu o hashi 4.
+[15:05:33.032] Filósofo 3 voltou a pensar.
+[15:05:33.032] Filósofo 2 pegou o hashi 3.
+[15:05:33.032] Filósofo 2 está comendo.
+[15:05:33.032] Filósofo 3 está pensando.
+[15:05:33.090] Filósofo 5 terminou de comer.
+[15:05:33.090] Filósofo 5 devolveu o hashi 5.
+[15:05:33.090] Filósofo 5 devolveu o hashi 1.
+[15:05:33.090] Filósofo 5 voltou a pensar.
+[15:05:33.090] Filósofo 5 está pensando.
+[15:05:33.281] Filósofo 4 está com fome.
+[15:05:33.281] Filósofo 4 pegou o hashi 4.
+[15:05:33.281] Filósofo 4 pegou o hashi 5.
+[15:05:33.281] Filósofo 4 está comendo.
+[15:05:33.306] Filósofo 1 está com fome.
+[15:05:33.350] Filósofo 5 está com fome.
+[15:05:33.350] Filósofo 5 pegou o hashi 1.
+[15:05:33.481] Filósofo 2 terminou de comer.
+[15:05:33.481] Filósofo 2 devolveu o hashi 3.
+[15:05:33.481] Filósofo 2 devolveu o hashi 2.
+[15:05:33.481] Filósofo 2 voltou a pensar.
+[15:05:33.481] Filósofo 1 pegou o hashi 2.
+[15:05:33.481] Filósofo 2 está pensando.
+[15:05:33.482] Filósofo 3 está com fome.
+[15:05:33.577] Filósofo 4 terminou de comer.
+[15:05:33.577] Filósofo 4 devolveu o hashi 5.
+[15:05:33.577] Filósofo 5 pegou o hashi 5.
+[15:05:33.577] Filósofo 5 está comendo.
+[15:05:33.577] Filósofo 3 pegou o hashi 4.
+[15:05:33.577] Filósofo 3 pegou o hashi 3.
+[15:05:33.577] Filósofo 3 está comendo.
+[15:05:33.577] Filósofo 4 devolveu o hashi 4.
+[15:05:33.577] Filósofo 4 voltou a pensar.
+[15:05:33.577] Filósofo 4 está pensando.
+[15:05:33.917] Filósofo 2 está com fome.
+[15:05:33.985] Filósofo 5 terminou de comer.
+[15:05:33.985] Filósofo 5 devolveu o hashi 5.
+[15:05:33.985] Filósofo 5 devolveu o hashi 1.
+[15:05:33.985] Filósofo 5 voltou a pensar.
+[15:05:33.985] Filósofo 5 está pensando.
+[15:05:33.985] Filósofo 1 pegou o hashi 1.
+[15:05:33.985] Filósofo 1 está comendo.
+[15:05:34.008] Filósofo 3 terminou de comer.
+[15:05:34.008] Filósofo 3 devolveu o hashi 3.
+[15:05:34.008] Filósofo 3 devolveu o hashi 4.
+[15:05:34.008] Filósofo 3 voltou a pensar.
+[15:05:34.008] Filósofo 3 está pensando.
+[15:05:34.032] Filósofo 5 está com fome.
+[15:05:34.220] Filósofo 4 está com fome.
+[15:05:34.220] Filósofo 4 pegou o hashi 4.
+[15:05:34.220] Filósofo 4 pegou o hashi 5.
+[15:05:34.220] Filósofo 4 está comendo.
+[15:05:34.408] Filósofo 3 está com fome.
+[15:05:34.474] Filósofo 1 terminou de comer.
+[15:05:34.474] Filósofo 1 devolveu o hashi 1.
+[15:05:34.474] Filósofo 5 pegou o hashi 1.
+[15:05:34.474] Filósofo 2 pegou o hashi 2.
+[15:05:34.474] Filósofo 2 pegou o hashi 3.
+[15:05:34.474] Filósofo 2 está comendo.
+[15:05:34.474] Filósofo 1 devolveu o hashi 2.
+[15:05:34.474] Filósofo 1 voltou a pensar.
+[15:05:34.474] Filósofo 1 está pensando.
+[15:05:34.511] Filósofo 4 terminou de comer.
+[15:05:34.511] Filósofo 4 devolveu o hashi 5.
+[15:05:34.511] Filósofo 5 pegou o hashi 5.
+[15:05:34.511] Filósofo 5 está comendo.
+[15:05:34.511] Filósofo 3 pegou o hashi 4.
+[15:05:34.511] Filósofo 4 devolveu o hashi 4.
+[15:05:34.511] Filósofo 4 voltou a pensar.
+[15:05:34.511] Filósofo 4 está pensando.
+[15:05:34.692] Filósofo 2 terminou de comer.
+[15:05:34.692] Filósofo 2 devolveu o hashi 3.
+[15:05:34.692] Filósofo 2 devolveu o hashi 2.
+[15:05:34.692] Filósofo 2 voltou a pensar.
+[15:05:34.692] Filósofo 3 pegou o hashi 3.
+[15:05:34.692] Filósofo 3 está comendo.
+[15:05:34.692] Filósofo 2 está pensando.
+[15:05:34.759] Filósofo 4 está com fome.
+[15:05:34.772] Filósofo 5 terminou de comer.
+[15:05:34.772] Filósofo 5 devolveu o hashi 5.
+[15:05:34.772] Filósofo 5 devolveu o hashi 1.
+[15:05:34.772] Filósofo 5 voltou a pensar.
+[15:05:34.772] Filósofo 5 está pensando.
+[15:05:34.884] Filósofo 1 está com fome.
+[15:05:34.884] Filósofo 1 pegou o hashi 2.
+[15:05:34.884] Filósofo 1 pegou o hashi 1.
+[15:05:34.884] Filósofo 1 está comendo.
+[15:05:34.979] Filósofo 1 terminou de comer.
+[15:05:34.979] Filósofo 1 devolveu o hashi 1.
+[15:05:34.979] Filósofo 1 devolveu o hashi 2.
+[15:05:34.979] Filósofo 1 voltou a pensar.
+[15:05:34.979] Filósofo 1 está pensando.
+[15:05:35.112] Filósofo 3 terminou de comer.
+[15:05:35.112] Filósofo 3 devolveu o hashi 3.
+[15:05:35.112] Filósofo 3 devolveu o hashi 4.
+[15:05:35.112] Filósofo 3 voltou a pensar.
+[15:05:35.112] Filósofo 3 está pensando.
+[15:05:35.112] Filósofo 4 pegou o hashi 4.
+[15:05:35.112] Filósofo 4 pegou o hashi 5.
+[15:05:35.112] Filósofo 4 está comendo.
+[15:05:35.180] Filósofo 1 está com fome.
+[15:05:35.180] Filósofo 1 pegou o hashi 2.
+[15:05:35.180] Filósofo 1 pegou o hashi 1.
+[15:05:35.180] Filósofo 1 está comendo.
+[15:05:35.209] Filósofo 4 terminou de comer.
+[15:05:35.209] Filósofo 4 devolveu o hashi 5.
+[15:05:35.209] Filósofo 4 devolveu o hashi 4.
+[15:05:35.209] Filósofo 4 voltou a pensar.
+[15:05:35.209] Filósofo 4 está pensando.
+[15:05:35.486] Filósofo 1 terminou de comer.
+[15:05:35.486] Filósofo 1 devolveu o hashi 1.
+[15:05:35.486] Filósofo 1 devolveu o hashi 2.
+[15:05:35.486] Filósofo 1 voltou a pensar.
+[15:05:35.486] Filósofo 1 está pensando.
+[15:05:35.530] Filósofo 1 está com fome.
+[15:05:35.530] Filósofo 1 pegou o hashi 2.
+[15:05:35.530] Filósofo 1 pegou o hashi 1.
+[15:05:35.530] Filósofo 1 está comendo.
+[15:05:35.532] Filósofo 2 está com fome.
+[15:05:35.679] Filósofo 5 está com fome.
+[15:05:35.876] Filósofo 1 terminou de comer.
+[15:05:35.876] Filósofo 1 devolveu o hashi 1.
+[15:05:35.876] Filósofo 5 pegou o hashi 1.
+[15:05:35.876] Filósofo 2 pegou o hashi 2.
+[15:05:35.876] Filósofo 2 pegou o hashi 3.
+[15:05:35.876] Filósofo 2 está comendo.
+[15:05:35.876] Filósofo 1 devolveu o hashi 2.
+[15:05:35.876] Filósofo 5 pegou o hashi 5.
+[15:05:35.876] Filósofo 5 está comendo.
+[15:05:35.876] Filósofo 1 voltou a pensar.
+[15:05:35.876] Filósofo 1 está pensando.
+[15:05:35.896] Filósofo 3 está com fome.
+[15:05:35.896] Filósofo 3 pegou o hashi 4.
+[15:05:35.948] Filósofo 5 terminou de comer.
+[15:05:35.948] Filósofo 5 devolveu o hashi 5.
+[15:05:35.948] Filósofo 5 devolveu o hashi 1.
+[15:05:35.948] Filósofo 5 voltou a pensar.
+[15:05:35.948] Filósofo 5 está pensando.
+[15:05:36.078] Filósofo 4 está com fome.
+[15:05:36.240] Filósofo 2 terminou de comer.
+[15:05:36.240] Filósofo 2 devolveu o hashi 3.
+[15:05:36.240] Filósofo 3 pegou o hashi 3.
+[15:05:36.240] Filósofo 3 está comendo.
+[15:05:36.240] Filósofo 2 devolveu o hashi 2.
+[15:05:36.240] Filósofo 2 voltou a pensar.
+[15:05:36.240] Filósofo 2 está pensando.
+[15:05:36.354] Filósofo 1 está com fome.
+[15:05:36.354] Filósofo 1 pegou o hashi 2.
+[15:05:36.354] Filósofo 1 pegou o hashi 1.
+[15:05:36.354] Filósofo 1 está comendo.
+[15:05:36.449] Filósofo 3 terminou de comer.
+[15:05:36.449] Filósofo 3 devolveu o hashi 3.
+[15:05:36.449] Filósofo 3 devolveu o hashi 4.
+[15:05:36.449] Filósofo 3 voltou a pensar.
+[15:05:36.449] Filósofo 4 pegou o hashi 4.
+[15:05:36.449] Filósofo 3 está pensando.
+[15:05:36.449] Filósofo 4 pegou o hashi 5.
+[15:05:36.449] Filósofo 4 está comendo.
+[15:05:36.638] Filósofo 3 está com fome.
+[15:05:36.782] Filósofo 1 terminou de comer.
+[15:05:36.782] Filósofo 1 devolveu o hashi 1.
+[15:05:36.782] Filósofo 1 devolveu o hashi 2.
+[15:05:36.782] Filósofo 1 voltou a pensar.
+[15:05:36.782] Filósofo 1 está pensando.
+[15:05:36.795] Filósofo 2 está com fome.
+[15:05:36.795] Filósofo 2 pegou o hashi 2.
+[15:05:36.795] Filósofo 2 pegou o hashi 3.
+[15:05:36.795] Filósofo 2 está comendo.
+[15:05:36.799] Filósofo 4 terminou de comer.
+[15:05:36.799] Filósofo 4 devolveu o hashi 5.
+[15:05:36.799] Filósofo 4 devolveu o hashi 4.
+[15:05:36.799] Filósofo 4 voltou a pensar.
+[15:05:36.799] Filósofo 3 pegou o hashi 4.
+[15:05:36.799] Filósofo 4 está pensando.
+[15:05:36.847] Filósofo 5 está com fome.
+[15:05:36.847] Filósofo 5 pegou o hashi 1.
+[15:05:36.847] Filósofo 5 pegou o hashi 5.
+[15:05:36.847] Filósofo 5 está comendo.
+[15:05:36.910] Filósofo 4 está com fome.
+[15:05:36.914] Filósofo 2 terminou de comer.
+[15:05:36.914] Filósofo 2 devolveu o hashi 3.
+[15:05:36.914] Filósofo 3 pegou o hashi 3.
+[15:05:36.914] Filósofo 2 devolveu o hashi 2.
+[15:05:36.914] Filósofo 2 voltou a pensar.
+[15:05:36.914] Filósofo 3 está comendo.
+[15:05:36.914] Filósofo 2 está pensando.
+[15:05:37.132] Filósofo 2 está com fome.
+[15:05:37.132] Filósofo 2 pegou o hashi 2.
+[15:05:37.136] Filósofo 3 terminou de comer.
+[15:05:37.136] Filósofo 3 devolveu o hashi 3.
+[15:05:37.136] Filósofo 2 pegou o hashi 3.
+[15:05:37.136] Filósofo 2 está comendo.
+[15:05:37.136] Filósofo 4 pegou o hashi 4.
+[15:05:37.136] Filósofo 3 devolveu o hashi 4.
+[15:05:37.136] Filósofo 3 voltou a pensar.
+[15:05:37.136] Filósofo 3 está pensando.
+[15:05:37.320] Filósofo 1 está com fome.
+[15:05:37.323] Filósofo 5 terminou de comer.
+[15:05:37.323] Filósofo 5 devolveu o hashi 5.
+[15:05:37.323] Filósofo 5 devolveu o hashi 1.
+[15:05:37.323] Filósofo 5 voltou a pensar.
+[15:05:37.323] Filósofo 4 pegou o hashi 5.
+[15:05:37.323] Filósofo 4 está comendo.
+[15:05:37.323] Filósofo 5 está pensando.
+[15:05:37.334] Filósofo 4 terminou de comer.
+[15:05:37.334] Filósofo 4 devolveu o hashi 5.
+[15:05:37.334] Filósofo 4 devolveu o hashi 4.
+[15:05:37.334] Filósofo 4 voltou a pensar.
+[15:05:37.334] Filósofo 4 está pensando.
+[15:05:37.493] Filósofo 5 está com fome.
+[15:05:37.493] Filósofo 5 pegou o hashi 1.
+[15:05:37.493] Filósofo 5 pegou o hashi 5.
+[15:05:37.493] Filósofo 5 está comendo.
+[15:05:37.560] Filósofo 2 terminou de comer.
+[15:05:37.560] Filósofo 2 devolveu o hashi 3.
+[15:05:37.560] Filósofo 2 devolveu o hashi 2.
+[15:05:37.560] Filósofo 2 voltou a pensar.
+[15:05:37.560] Filósofo 1 pegou o hashi 2.
+[15:05:37.560] Filósofo 2 está pensando.
+[15:05:37.978] Filósofo 5 terminou de comer.
+[15:05:37.978] Filósofo 5 devolveu o hashi 5.
+[15:05:37.978] Filósofo 5 devolveu o hashi 1.
+[15:05:37.978] Filósofo 5 voltou a pensar.
+[15:05:37.978] Filósofo 5 está pensando.
+[15:05:37.978] Filósofo 1 pegou o hashi 1.
+[15:05:37.978] Filósofo 1 está comendo.
+[15:05:38.060] Filósofo 3 está com fome.
+[15:05:38.060] Filósofo 3 pegou o hashi 4.
+[15:05:38.060] Filósofo 3 pegou o hashi 3.
+[15:05:38.060] Filósofo 3 está comendo.
+[15:05:38.122] Filósofo 2 está com fome.
+[15:05:38.156] Filósofo 4 está com fome.
+[15:05:38.232] Filósofo 1 terminou de comer.
+[15:05:38.232] Filósofo 1 devolveu o hashi 1.
+[15:05:38.232] Filósofo 1 devolveu o hashi 2.
+[15:05:38.232] Filósofo 1 voltou a pensar.
+[15:05:38.232] Filósofo 2 pegou o hashi 2.
+[15:05:38.232] Filósofo 1 está pensando.
+[15:05:38.392] Filósofo 3 terminou de comer.
+[15:05:38.392] Filósofo 3 devolveu o hashi 3.
+[15:05:38.392] Filósofo 2 pegou o hashi 3.
+[15:05:38.392] Filósofo 2 está comendo.
+[15:05:38.392] Filósofo 4 pegou o hashi 4.
+[15:05:38.392] Filósofo 3 devolveu o hashi 4.
+[15:05:38.392] Filósofo 4 pegou o hashi 5.
+[15:05:38.392] Filósofo 4 está comendo.
+[15:05:38.392] Filósofo 3 voltou a pensar.
+[15:05:38.392] Filósofo 3 está pensando.
+[15:05:38.549] Filósofo 4 terminou de comer.
+[15:05:38.549] Filósofo 4 devolveu o hashi 5.
+[15:05:38.549] Filósofo 4 devolveu o hashi 4.
+[15:05:38.549] Filósofo 4 voltou a pensar.
+[15:05:38.549] Filósofo 4 está pensando.
+[15:05:38.646] Filósofo 1 está com fome.
+[15:05:38.805] Filósofo 3 está com fome.
+[15:05:38.805] Filósofo 3 pegou o hashi 4.
+[15:05:38.846] Filósofo 2 terminou de comer.
+[15:05:38.846] Filósofo 2 devolveu o hashi 3.
+[15:05:38.846] Filósofo 3 pegou o hashi 3.
+[15:05:38.846] Filósofo 1 pegou o hashi 2.
+[15:05:38.846] Filósofo 2 devolveu o hashi 2.
+[15:05:38.846] Filósofo 2 voltou a pensar.
+[15:05:38.846] Filósofo 2 está pensando.
+[15:05:38.846] Filósofo 1 pegou o hashi 1.
+[15:05:38.847] Filósofo 3 está comendo.
+[15:05:38.847] Filósofo 1 está comendo.
+[15:05:38.852] Filósofo 5 está com fome.
+[15:05:39.107] Filósofo 1 terminou de comer.
+[15:05:39.107] Filósofo 1 devolveu o hashi 1.
+[15:05:39.107] Filósofo 5 pegou o hashi 1.
+[15:05:39.107] Filósofo 1 devolveu o hashi 2.
+[15:05:39.108] Filósofo 5 pegou o hashi 5.
+[15:05:39.108] Filósofo 1 voltou a pensar.
+[15:05:39.108] Filósofo 5 está comendo.
+[15:05:39.108] Filósofo 1 está pensando.
+[15:05:39.115] Filósofo 4 está com fome.
+[15:05:39.152] Filósofo 5 terminou de comer.
+[15:05:39.152] Filósofo 5 devolveu o hashi 5.
+[15:05:39.152] Filósofo 5 devolveu o hashi 1.
+[15:05:39.152] Filósofo 5 voltou a pensar.
+[15:05:39.152] Filósofo 5 está pensando.
+[15:05:39.207] Filósofo 3 terminou de comer.
+[15:05:39.207] Filósofo 3 devolveu o hashi 3.
+[15:05:39.207] Filósofo 3 devolveu o hashi 4.
+[15:05:39.208] Filósofo 3 voltou a pensar.
+[15:05:39.208] Filósofo 4 pegou o hashi 4.
+[15:05:39.208] Filósofo 3 está pensando.
+[15:05:39.208] Filósofo 4 pegou o hashi 5.
+[15:05:39.208] Filósofo 4 está comendo.
+[15:05:39.474] Filósofo 1 está com fome.
+[15:05:39.474] Filósofo 1 pegou o hashi 2.
+[15:05:39.474] Filósofo 1 pegou o hashi 1.
+[15:05:39.474] Filósofo 1 está comendo.
+[15:05:39.593] Filósofo 4 terminou de comer.
+[15:05:39.593] Filósofo 4 devolveu o hashi 5.
+[15:05:39.593] Filósofo 4 devolveu o hashi 4.
+[15:05:39.593] Filósofo 4 voltou a pensar.
+[15:05:39.593] Filósofo 4 está pensando.
+[15:05:39.633] Filósofo 4 está com fome.
+[15:05:39.633] Filósofo 4 pegou o hashi 4.
+[15:05:39.633] Filósofo 4 pegou o hashi 5.
+[15:05:39.633] Filósofo 4 está comendo.
+[15:05:39.708] Filósofo 5 está com fome.
+[15:05:39.793] Filósofo 1 terminou de comer.
+[15:05:39.793] Filósofo 2 está com fome.
+[15:05:39.793] Filósofo 5 pegou o hashi 1.
+[15:05:39.793] Filósofo 1 devolveu o hashi 1.
+[15:05:39.793] Filósofo 1 devolveu o hashi 2.
+[15:05:39.793] Filósofo 1 voltou a pensar.
+[15:05:39.793] Filósofo 2 pegou o hashi 2.
+[15:05:39.793] Filósofo 1 está pensando.
+[15:05:39.793] Filósofo 2 pegou o hashi 3.
+[15:05:39.793] Filósofo 2 está comendo.
+[15:05:39.818] Filósofo 4 terminou de comer.
+[15:05:39.818] Filósofo 4 devolveu o hashi 5.
+[15:05:39.818] Filósofo 4 devolveu o hashi 4.
+[15:05:39.818] Filósofo 4 voltou a pensar.
+[15:05:39.818] Filósofo 5 pegou o hashi 5.
+[15:05:39.818] Filósofo 5 está comendo.
+[15:05:39.818] Filósofo 4 está pensando.
+[15:05:39.834] Filósofo 2 terminou de comer.
+[15:05:39.834] Filósofo 2 devolveu o hashi 3.
+[15:05:39.834] Filósofo 2 devolveu o hashi 2.
+[15:05:39.834] Filósofo 2 voltou a pensar.
+[15:05:39.834] Filósofo 2 está pensando.
+[15:05:39.851] Filósofo 5 terminou de comer.
+[15:05:39.851] Filósofo 5 devolveu o hashi 5.
+[15:05:39.851] Filósofo 5 devolveu o hashi 1.
+[15:05:39.851] Filósofo 5 voltou a pensar.
+[15:05:39.851] Filósofo 5 está pensando.
+[15:05:39.863] Filósofo 3 está com fome.
+[15:05:39.863] Filósofo 3 pegou o hashi 4.
+[15:05:39.863] Filósofo 3 pegou o hashi 3.
+[15:05:39.863] Filósofo 3 está comendo.
+[15:05:40.078] Filósofo 1 está com fome.
+[15:05:40.078] Filósofo 1 pegou o hashi 2.
+[15:05:40.078] Filósofo 1 pegou o hashi 1.
+[15:05:40.078] Filósofo 1 está comendo.
+[15:05:40.112] Filósofo 3 terminou de comer.
+[15:05:40.112] Filósofo 3 devolveu o hashi 3.
+[15:05:40.112] Filósofo 3 devolveu o hashi 4.
+[15:05:40.112] Filósofo 3 voltou a pensar.
+[15:05:40.112] Filósofo 3 está pensando.
+[15:05:40.335] Filósofo 4 está com fome.
+[15:05:40.335] Filósofo 4 pegou o hashi 4.
+[15:05:40.335] Filósofo 4 pegou o hashi 5.
+[15:05:40.335] Filósofo 4 está comendo.
+[15:05:40.410] Filósofo 4 terminou de comer.
+[15:05:40.410] Filósofo 4 devolveu o hashi 5.
+[15:05:40.410] Filósofo 4 devolveu o hashi 4.
+[15:05:40.410] Filósofo 4 voltou a pensar.
+[15:05:40.410] Filósofo 4 está pensando.
+[15:05:40.412] Filósofo 1 terminou de comer.
+[15:05:40.412] Filósofo 1 devolveu o hashi 1.
+[15:05:40.412] Filósofo 1 devolveu o hashi 2.
+[15:05:40.412] Filósofo 1 voltou a pensar.
+[15:05:40.412] Filósofo 1 está pensando.
+[15:05:40.503] Filósofo 3 está com fome.
+[15:05:40.503] Filósofo 3 pegou o hashi 4.
+[15:05:40.503] Filósofo 3 pegou o hashi 3.
+[15:05:40.503] Filósofo 3 está comendo.
+[15:05:40.642] Filósofo 2 está com fome.
+[15:05:40.642] Filósofo 2 pegou o hashi 2.
+[15:05:40.676] Filósofo 5 está com fome.
+[15:05:40.676] Filósofo 5 pegou o hashi 1.
+[15:05:40.676] Filósofo 5 pegou o hashi 5.
+[15:05:40.676] Filósofo 5 está comendo.
+[15:05:40.718] Filósofo 3 terminou de comer.
+[15:05:40.718] Filósofo 3 devolveu o hashi 3.
+[15:05:40.718] Filósofo 3 devolveu o hashi 4.
+[15:05:40.718] Filósofo 2 pegou o hashi 3.
+[15:05:40.718] Filósofo 2 está comendo.
+[15:05:40.718] Filósofo 3 voltou a pensar.
+[15:05:40.718] Filósofo 3 está pensando.
+[15:05:40.839] Filósofo 5 terminou de comer.
+[15:05:40.839] Filósofo 5 devolveu o hashi 5.
+[15:05:40.839] Filósofo 5 devolveu o hashi 1.
+[15:05:40.839] Filósofo 5 voltou a pensar.
+[15:05:40.839] Filósofo 5 está pensando.
+[15:05:40.896] Filósofo 1 está com fome.
+[15:05:41.027] Filósofo 2 terminou de comer.
+[15:05:41.027] Filósofo 2 devolveu o hashi 3.
+[15:05:41.027] Filósofo 2 devolveu o hashi 2.
+[15:05:41.027] Filósofo 2 voltou a pensar.
+[15:05:41.027] Filósofo 1 pegou o hashi 2.
+[15:05:41.027] Filósofo 2 está pensando.
+[15:05:41.027] Filósofo 1 pegou o hashi 1.
+[15:05:41.027] Filósofo 1 está comendo.
+[15:05:41.082] Filósofo 4 está com fome.
+[15:05:41.082] Filósofo 4 pegou o hashi 4.
+[15:05:41.082] Filósofo 4 pegou o hashi 5.
+[15:05:41.082] Filósofo 4 está comendo.
+[15:05:41.112] Filósofo 4 terminou de comer.
+[15:05:41.112] Filósofo 4 devolveu o hashi 5.
+[15:05:41.112] Filósofo 4 devolveu o hashi 4.
+[15:05:41.112] Filósofo 4 voltou a pensar.
+[15:05:41.112] Filósofo 4 está pensando.
+[15:05:41.178] Filósofo 2 está com fome.
+[15:05:41.281] Filósofo 3 está com fome.
+[15:05:41.281] Filósofo 3 pegou o hashi 4.
+[15:05:41.281] Filósofo 3 pegou o hashi 3.
+[15:05:41.281] Filósofo 3 está comendo.
+[15:05:41.290] Filósofo 1 terminou de comer.
+[15:05:41.290] Filósofo 1 devolveu o hashi 1.
+[15:05:41.290] Filósofo 1 devolveu o hashi 2.
+[15:05:41.290] Filósofo 1 voltou a pensar.
+[15:05:41.290] Filósofo 1 está pensando.
+[15:05:41.290] Filósofo 2 pegou o hashi 2.
+[15:05:41.483] Filósofo 5 está com fome.
+[15:05:41.483] Filósofo 5 pegou o hashi 1.
+[15:05:41.483] Filósofo 5 pegou o hashi 5.
+[15:05:41.483] Filósofo 5 está comendo.
+[15:05:41.576] Filósofo 5 terminou de comer.
+[15:05:41.576] Filósofo 5 devolveu o hashi 5.
+[15:05:41.576] Filósofo 5 devolveu o hashi 1.
+[15:05:41.576] Filósofo 5 voltou a pensar.
+[15:05:41.576] Filósofo 5 está pensando.
+[15:05:41.583] Filósofo 3 terminou de comer.
+[15:05:41.583] Filósofo 3 devolveu o hashi 3.
+[15:05:41.583] Filósofo 3 devolveu o hashi 4.
+[15:05:41.583] Filósofo 2 pegou o hashi 3.
+[15:05:41.583] Filósofo 2 está comendo.
+[15:05:41.583] Filósofo 3 voltou a pensar.
+[15:05:41.583] Filósofo 3 está pensando.
+[15:05:41.709] Filósofo 4 está com fome.
+[15:05:41.709] Filósofo 4 pegou o hashi 4.
+[15:05:41.709] Filósofo 4 pegou o hashi 5.
+[15:05:41.709] Filósofo 4 está comendo.
+[15:05:41.746] Filósofo 5 está com fome.
+[15:05:41.746] Filósofo 5 pegou o hashi 1.
+[15:05:41.836] Filósofo 2 terminou de comer.
+[15:05:41.836] Filósofo 2 devolveu o hashi 3.
+[15:05:41.836] Filósofo 2 devolveu o hashi 2.
+[15:05:41.836] Filósofo 2 voltou a pensar.
+[15:05:41.836] Filósofo 2 está pensando.
+[15:05:41.909] Filósofo 1 está com fome.
+[15:05:41.909] Filósofo 1 pegou o hashi 2.
+[15:05:41.928] Filósofo 4 terminou de comer.
+[15:05:41.928] Filósofo 4 devolveu o hashi 5.
+[15:05:41.928] Filósofo 5 pegou o hashi 5.
+[15:05:41.928] Filósofo 5 está comendo.
+[15:05:41.928] Filósofo 4 devolveu o hashi 4.
+[15:05:41.928] Filósofo 4 voltou a pensar.
+[15:05:41.928] Filósofo 4 está pensando.
+[15:05:41.984] Filósofo 5 terminou de comer.
+[15:05:41.984] Filósofo 5 devolveu o hashi 5.
+[15:05:41.984] Filósofo 5 devolveu o hashi 1.
+[15:05:41.984] Filósofo 5 voltou a pensar.
+[15:05:41.984] Filósofo 1 pegou o hashi 1.
+[15:05:41.984] Filósofo 1 está comendo.
+[15:05:41.984] Filósofo 5 está pensando.
+[15:05:42.002] Filósofo 4 está com fome.
+[15:05:42.002] Filósofo 4 pegou o hashi 4.
+[15:05:42.002] Filósofo 4 pegou o hashi 5.
+[15:05:42.002] Filósofo 4 está comendo.
+[15:05:42.123] Filósofo 5 está com fome.
+[15:05:42.144] Filósofo 4 terminou de comer.
+[15:05:42.144] Filósofo 4 devolveu o hashi 5.
+[15:05:42.144] Filósofo 4 devolveu o hashi 4.
+[15:05:42.144] Filósofo 4 voltou a pensar.
+[15:05:42.144] Filósofo 4 está pensando.
+[15:05:42.462] Filósofo 1 terminou de comer.
+[15:05:42.462] Filósofo 1 devolveu o hashi 1.
+[15:05:42.462] Filósofo 1 devolveu o hashi 2.
+[15:05:42.462] Filósofo 1 voltou a pensar.
+[15:05:42.462] Filósofo 5 pegou o hashi 1.
+[15:05:42.462] Filósofo 1 está pensando.
+[15:05:42.462] Filósofo 5 pegou o hashi 5.
+[15:05:42.462] Filósofo 5 está comendo.
+[15:05:42.482] Filósofo 3 está com fome.
+[15:05:42.482] Filósofo 3 pegou o hashi 4.
+[15:05:42.482] Filósofo 3 pegou o hashi 3.
+[15:05:42.482] Filósofo 3 está comendo.
+[15:05:42.524] Filósofo 3 terminou de comer.
+[15:05:42.524] Filósofo 3 devolveu o hashi 3.
+[15:05:42.524] Filósofo 3 devolveu o hashi 4.
+[15:05:42.524] Filósofo 3 voltou a pensar.
+[15:05:42.524] Filósofo 3 está pensando.
+[15:05:42.566] Filósofo 5 terminou de comer.
+[15:05:42.566] Filósofo 5 devolveu o hashi 5.
+[15:05:42.566] Filósofo 5 devolveu o hashi 1.
+[15:05:42.566] Filósofo 5 voltou a pensar.
+[15:05:42.566] Filósofo 5 está pensando.
+[15:05:42.657] Filósofo 2 está com fome.
+[15:05:42.657] Filósofo 2 pegou o hashi 2.
+[15:05:42.657] Filósofo 2 pegou o hashi 3.
+[15:05:42.657] Filósofo 2 está comendo.
+[15:05:42.969] Filósofo 1 está com fome.
+[15:05:42.982] Filósofo 3 está com fome.
+[15:05:42.982] Filósofo 3 pegou o hashi 4.
+[15:05:42.999] Filósofo 2 terminou de comer.
+[15:05:42.999] Filósofo 2 devolveu o hashi 3.
+[15:05:42.999] Filósofo 3 pegou o hashi 3.
+[15:05:42.999] Filósofo 3 está comendo.
+[15:05:42.999] Filósofo 1 pegou o hashi 2.
+[15:05:42.999] Filósofo 1 pegou o hashi 1.
+[15:05:42.999] Filósofo 1 está comendo.
+[15:05:42.999] Filósofo 2 devolveu o hashi 2.
+[15:05:42.999] Filósofo 2 voltou a pensar.
+[15:05:42.999] Filósofo 2 está pensando.
+[15:05:43.112] Filósofo 4 está com fome.
+[15:05:43.210] Filósofo 3 terminou de comer.
+[15:05:43.210] Filósofo 3 devolveu o hashi 3.
+[15:05:43.210] Filósofo 3 devolveu o hashi 4.
+[15:05:43.210] Filósofo 3 voltou a pensar.
+[15:05:43.210] Filósofo 4 pegou o hashi 4.
+[15:05:43.210] Filósofo 3 está pensando.
+[15:05:43.210] Filósofo 4 pegou o hashi 5.
+[15:05:43.210] Filósofo 4 está comendo.
+[15:05:43.225] Filósofo 2 está com fome.
+[15:05:43.250] Filósofo 5 está com fome.
+[15:05:43.367] Filósofo 4 terminou de comer.
+[15:05:43.367] Filósofo 4 devolveu o hashi 5.
+[15:05:43.367] Filósofo 4 devolveu o hashi 4.
+[15:05:43.367] Filósofo 4 voltou a pensar.
+[15:05:43.367] Filósofo 4 está pensando.
+[15:05:43.435] Filósofo 1 terminou de comer.
+[15:05:43.435] Filósofo 1 devolveu o hashi 1.
+[15:05:43.435] Filósofo 5 pegou o hashi 1.
+[15:05:43.435] Filósofo 2 pegou o hashi 2.
+[15:05:43.435] Filósofo 2 pegou o hashi 3.
+[15:05:43.435] Filósofo 2 está comendo.
+[15:05:43.435] Filósofo 1 devolveu o hashi 2.
+[15:05:43.435] Filósofo 1 voltou a pensar.
+[15:05:43.435] Filósofo 5 pegou o hashi 5.
+[15:05:43.435] Filósofo 5 está comendo.
+[15:05:43.435] Filósofo 1 está pensando.
+[15:05:43.473] Filósofo 5 terminou de comer.
+[15:05:43.473] Filósofo 5 devolveu o hashi 5.
+[15:05:43.473] Filósofo 5 devolveu o hashi 1.
+[15:05:43.473] Filósofo 5 voltou a pensar.
+[15:05:43.473] Filósofo 5 está pensando.
+[15:05:43.617] Filósofo 1 está com fome.
+[15:05:43.770] Filósofo 2 terminou de comer.
+[15:05:43.770] Filósofo 2 devolveu o hashi 3.
+[15:05:43.770] Filósofo 2 devolveu o hashi 2.
+[15:05:43.770] Filósofo 2 voltou a pensar.
+[15:05:43.770] Filósofo 1 pegou o hashi 2.
+[15:05:43.770] Filósofo 2 está pensando.
+[15:05:43.770] Filósofo 1 pegou o hashi 1.
+[15:05:43.770] Filósofo 1 está comendo.
+[15:05:43.804] Filósofo 2 está com fome.
+[15:05:43.844] Filósofo 5 está com fome.
+[15:05:43.872] Filósofo 1 terminou de comer.
+[15:05:43.872] Filósofo 1 devolveu o hashi 1.
+[15:05:43.872] Filósofo 5 pegou o hashi 1.
+[15:05:43.872] Filósofo 2 pegou o hashi 2.
+[15:05:43.872] Filósofo 2 pegou o hashi 3.
+[15:05:43.872] Filósofo 2 está comendo.
+[15:05:43.872] Filósofo 1 devolveu o hashi 2.
+[15:05:43.872] Filósofo 5 pegou o hashi 5.
+[15:05:43.872] Filósofo 5 está comendo.
+[15:05:43.872] Filósofo 1 voltou a pensar.
+[15:05:43.872] Filósofo 1 está pensando.
+[15:05:43.885] Filósofo 3 está com fome.
+[15:05:43.885] Filósofo 3 pegou o hashi 4.
+[15:05:43.906] Filósofo 1 está com fome.
+[15:05:44.008] Filósofo 2 terminou de comer.
+[15:05:44.008] Filósofo 2 devolveu o hashi 3.
+[15:05:44.008] Filósofo 3 pegou o hashi 3.
+[15:05:44.008] Filósofo 3 está comendo.
+[15:05:44.008] Filósofo 1 pegou o hashi 2.
+[15:05:44.008] Filósofo 2 devolveu o hashi 2.
+[15:05:44.008] Filósofo 2 voltou a pensar.
+[15:05:44.008] Filósofo 2 está pensando.
+[15:05:44.137] Filósofo 5 terminou de comer.
+[15:05:44.137] Filósofo 5 devolveu o hashi 5.
+[15:05:44.137] Filósofo 5 devolveu o hashi 1.
+[15:05:44.137] Filósofo 5 voltou a pensar.
+[15:05:44.137] Filósofo 1 pegou o hashi 1.
+[15:05:44.137] Filósofo 1 está comendo.
+[15:05:44.137] Filósofo 5 está pensando.
+[15:05:44.222] Filósofo 3 terminou de comer.
+[15:05:44.222] Filósofo 3 devolveu o hashi 3.
+[15:05:44.222] Filósofo 3 devolveu o hashi 4.
+[15:05:44.222] Filósofo 3 voltou a pensar.
+[15:05:44.222] Filósofo 3 está pensando.
+[15:05:44.323] Filósofo 4 está com fome.
+[15:05:44.323] Filósofo 4 pegou o hashi 4.
+[15:05:44.323] Filósofo 4 pegou o hashi 5.
+[15:05:44.323] Filósofo 4 está comendo.
+[15:05:44.474] Filósofo 2 está com fome.
+[15:05:44.552] Filósofo 1 terminou de comer.
+[15:05:44.552] Filósofo 1 devolveu o hashi 1.
+[15:05:44.552] Filósofo 1 devolveu o hashi 2.
+[15:05:44.552] Filósofo 2 pegou o hashi 2.
+[15:05:44.552] Filósofo 1 voltou a pensar.
+[15:05:44.552] Filósofo 2 pegou o hashi 3.
+[15:05:44.552] Filósofo 1 está pensando.
+[15:05:44.552] Filósofo 2 está comendo.
+[15:05:44.568] Filósofo 2 terminou de comer.
+[15:05:44.568] Filósofo 2 devolveu o hashi 3.
+[15:05:44.568] Filósofo 2 devolveu o hashi 2.
+[15:05:44.568] Filósofo 2 voltou a pensar.
+[15:05:44.568] Filósofo 2 está pensando.
+[15:05:44.582] Filósofo 4 terminou de comer.
+[15:05:44.582] Filósofo 4 devolveu o hashi 5.
+[15:05:44.582] Filósofo 4 devolveu o hashi 4.
+[15:05:44.582] Filósofo 4 voltou a pensar.
+[15:05:44.582] Filósofo 4 está pensando.
+[15:05:44.585] Filósofo 2 está com fome.
+[15:05:44.585] Filósofo 2 pegou o hashi 2.
+[15:05:44.585] Filósofo 2 pegou o hashi 3.
+[15:05:44.585] Filósofo 2 está comendo.
+[15:05:44.587] Filósofo 4 está com fome.
+[15:05:44.587] Filósofo 4 pegou o hashi 4.
+[15:05:44.587] Filósofo 4 pegou o hashi 5.
+[15:05:44.587] Filósofo 4 está comendo.
+[15:05:44.609] Filósofo 4 terminou de comer.
+[15:05:44.609] Filósofo 4 devolveu o hashi 5.
+[15:05:44.609] Filósofo 4 devolveu o hashi 4.
+[15:05:44.609] Filósofo 4 voltou a pensar.
+[15:05:44.609] Filósofo 4 está pensando.
+[15:05:44.694] Filósofo 2 terminou de comer.
+[15:05:44.694] Filósofo 2 devolveu o hashi 3.
+[15:05:44.694] Filósofo 2 devolveu o hashi 2.
+[15:05:44.694] Filósofo 2 voltou a pensar.
+[15:05:44.694] Filósofo 2 está pensando.
+[15:05:44.732] Filósofo 3 está com fome.
+[15:05:44.732] Filósofo 3 pegou o hashi 4.
+[15:05:44.732] Filósofo 3 pegou o hashi 3.
+[15:05:44.732] Filósofo 3 está comendo.
+[15:05:44.820] Filósofo 5 está com fome.
+[15:05:44.820] Filósofo 5 pegou o hashi 1.
+[15:05:44.820] Filósofo 5 pegou o hashi 5.
+[15:05:44.820] Filósofo 5 está comendo.
+[15:05:44.826] Filósofo 3 terminou de comer.
+[15:05:44.826] Filósofo 3 devolveu o hashi 3.
+[15:05:44.826] Filósofo 3 devolveu o hashi 4.
+[15:05:44.826] Filósofo 3 voltou a pensar.
+[15:05:44.826] Filósofo 3 está pensando.
+[15:05:45.005] Filósofo 5 terminou de comer.
+[15:05:45.005] Filósofo 5 devolveu o hashi 5.
+[15:05:45.005] Filósofo 5 devolveu o hashi 1.
+[15:05:45.005] Filósofo 5 voltou a pensar.
+[15:05:45.005] Filósofo 5 está pensando.
+[15:05:45.136] Filósofo 1 está com fome.
+[15:05:45.136] Filósofo 1 pegou o hashi 2.
+[15:05:45.136] Filósofo 1 pegou o hashi 1.
+[15:05:45.136] Filósofo 1 está comendo.
+[15:05:45.159] Filósofo 5 está com fome.
+[15:05:45.368] Filósofo 4 está com fome.
+[15:05:45.368] Filósofo 4 pegou o hashi 4.
+[15:05:45.368] Filósofo 4 pegou o hashi 5.
+[15:05:45.368] Filósofo 4 está comendo.
+[15:05:45.423] Filósofo 4 terminou de comer.
+[15:05:45.423] Filósofo 4 devolveu o hashi 5.
+[15:05:45.423] Filósofo 4 devolveu o hashi 4.
+[15:05:45.423] Filósofo 4 voltou a pensar.
+[15:05:45.423] Filósofo 4 está pensando.
+[15:05:45.438] Filósofo 1 terminou de comer.
+[15:05:45.438] Filósofo 1 devolveu o hashi 1.
+[15:05:45.438] Filósofo 5 pegou o hashi 1.
+[15:05:45.438] Filósofo 1 devolveu o hashi 2.
+[15:05:45.438] Filósofo 1 voltou a pensar.
+[15:05:45.438] Filósofo 5 pegou o hashi 5.
+[15:05:45.438] Filósofo 5 está comendo.
+[15:05:45.438] Filósofo 1 está pensando.
+[15:05:45.596] Filósofo 5 terminou de comer.
+[15:05:45.596] Filósofo 5 devolveu o hashi 5.
+[15:05:45.596] Filósofo 5 devolveu o hashi 1.
+[15:05:45.596] Filósofo 5 voltou a pensar.
+[15:05:45.596] Filósofo 5 está pensando.
+[15:05:45.604] Filósofo 2 está com fome.
+[15:05:45.604] Filósofo 2 pegou o hashi 2.
+[15:05:45.604] Filósofo 2 pegou o hashi 3.
+[15:05:45.604] Filósofo 2 está comendo.
+[15:05:45.747] Filósofo 3 está com fome.
+[15:05:45.747] Filósofo 3 pegou o hashi 4.
+[15:05:45.949] Filósofo 5 está com fome.
+[15:05:45.949] Filósofo 5 pegou o hashi 1.
+[15:05:45.949] Filósofo 5 pegou o hashi 5.
+[15:05:45.949] Filósofo 5 está comendo.
+[15:05:46.018] Filósofo 2 terminou de comer.
+[15:05:46.018] Filósofo 2 devolveu o hashi 3.
+[15:05:46.018] Filósofo 2 devolveu o hashi 2.
+[15:05:46.018] Filósofo 3 pegou o hashi 3.
+[15:05:46.018] Filósofo 3 está comendo.
+[15:05:46.018] Filósofo 2 voltou a pensar.
+[15:05:46.018] Filósofo 2 está pensando.
+[15:05:46.057] Filósofo 4 está com fome.
+[15:05:46.162] Filósofo 5 terminou de comer.
+[15:05:46.162] Filósofo 5 devolveu o hashi 5.
+[15:05:46.162] Filósofo 5 devolveu o hashi 1.
+[15:05:46.162] Filósofo 5 voltou a pensar.
+[15:05:46.162] Filósofo 5 está pensando.
+[15:05:46.358] Filósofo 1 está com fome.
+[15:05:46.358] Filósofo 1 pegou o hashi 2.
+[15:05:46.358] Filósofo 1 pegou o hashi 1.
+[15:05:46.358] Filósofo 1 está comendo.
+[15:05:46.496] Filósofo 3 terminou de comer.
+[15:05:46.496] Filósofo 3 devolveu o hashi 3.
+[15:05:46.496] Filósofo 3 devolveu o hashi 4.
+[15:05:46.496] Filósofo 3 voltou a pensar.
+[15:05:46.496] Filósofo 4 pegou o hashi 4.
+[15:05:46.496] Filósofo 4 pegou o hashi 5.
+[15:05:46.496] Filósofo 4 está comendo.
+[15:05:46.496] Filósofo 3 está pensando.
+[15:05:46.662] Filósofo 1 terminou de comer.
+[15:05:46.662] Filósofo 1 devolveu o hashi 1.
+[15:05:46.662] Filósofo 1 devolveu o hashi 2.
+[15:05:46.662] Filósofo 1 voltou a pensar.
+[15:05:46.662] Filósofo 1 está pensando.
+[15:05:46.704] Filósofo 4 terminou de comer.
+[15:05:46.704] Filósofo 4 devolveu o hashi 5.
+[15:05:46.704] Filósofo 4 devolveu o hashi 4.
+[15:05:46.704] Filósofo 4 voltou a pensar.
+[15:05:46.704] Filósofo 4 está pensando.
+[15:05:46.847] Filósofo 3 está com fome.
+[15:05:46.847] Filósofo 3 pegou o hashi 4.
+[15:05:46.847] Filósofo 3 pegou o hashi 3.
+[15:05:46.847] Filósofo 3 está comendo.
+[15:05:46.862] Filósofo 2 está com fome.
+[15:05:46.862] Filósofo 2 pegou o hashi 2.
+[15:05:47.071] Filósofo 3 terminou de comer.
+[15:05:47.071] Filósofo 3 devolveu o hashi 3.
+[15:05:47.071] Filósofo 3 devolveu o hashi 4.
+[15:05:47.071] Filósofo 3 voltou a pensar.
+[15:05:47.071] Filósofo 3 está pensando.
+[15:05:47.071] Filósofo 2 pegou o hashi 3.
+[15:05:47.071] Filósofo 2 está comendo.
+[15:05:47.124] Filósofo 5 está com fome.
+[15:05:47.124] Filósofo 5 pegou o hashi 1.
+[15:05:47.124] Filósofo 5 pegou o hashi 5.
+[15:05:47.124] Filósofo 5 está comendo.
+[15:05:47.131] Filósofo 2 terminou de comer.
+[15:05:47.131] Filósofo 2 devolveu o hashi 3.
+[15:05:47.131] Filósofo 2 devolveu o hashi 2.
+[15:05:47.131] Filósofo 2 voltou a pensar.
+[15:05:47.131] Filósofo 2 está pensando.
+[15:05:47.168] Filósofo 3 está com fome.
+[15:05:47.168] Filósofo 3 pegou o hashi 4.
+[15:05:47.168] Filósofo 3 pegou o hashi 3.
+[15:05:47.168] Filósofo 3 está comendo.
+[15:05:47.247] Filósofo 5 terminou de comer.
+[15:05:47.247] Filósofo 5 devolveu o hashi 5.
+[15:05:47.247] Filósofo 5 devolveu o hashi 1.
+[15:05:47.247] Filósofo 5 voltou a pensar.
+[15:05:47.247] Filósofo 5 está pensando.
+[15:05:47.255] Filósofo 1 está com fome.
+[15:05:47.255] Filósofo 1 pegou o hashi 2.
+[15:05:47.255] Filósofo 1 pegou o hashi 1.
+[15:05:47.255] Filósofo 1 está comendo.
+[15:05:47.476] Filósofo 1 terminou de comer.
+[15:05:47.476] Filósofo 1 devolveu o hashi 1.
+[15:05:47.476] Filósofo 1 devolveu o hashi 2.
+[15:05:47.476] Filósofo 1 voltou a pensar.
+[15:05:47.476] Filósofo 1 está pensando.
+[15:05:47.569] Filósofo 3 terminou de comer.
+[15:05:47.569] Filósofo 3 devolveu o hashi 3.
+[15:05:47.569] Filósofo 3 devolveu o hashi 4.
+[15:05:47.569] Filósofo 3 voltou a pensar.
+[15:05:47.569] Filósofo 3 está pensando.
+[15:05:47.595] Filósofo 2 está com fome.
+[15:05:47.595] Filósofo 2 pegou o hashi 2.
+[15:05:47.595] Filósofo 2 pegou o hashi 3.
+[15:05:47.595] Filósofo 2 está comendo.
+[15:05:47.694] Filósofo 4 está com fome.
+[15:05:47.694] Filósofo 4 pegou o hashi 4.
+[15:05:47.694] Filósofo 4 pegou o hashi 5.
+[15:05:47.694] Filósofo 4 está comendo.
+[15:05:47.751] Filósofo 2 terminou de comer.
+[15:05:47.751] Filósofo 2 devolveu o hashi 3.
+[15:05:47.751] Filósofo 2 devolveu o hashi 2.
+[15:05:47.751] Filósofo 2 voltou a pensar.
+[15:05:47.751] Filósofo 2 está pensando.
+[15:05:47.940] Filósofo 4 terminou de comer.
+[15:05:47.940] Filósofo 4 devolveu o hashi 5.
+[15:05:47.940] Filósofo 4 devolveu o hashi 4.
+[15:05:47.940] Filósofo 4 voltou a pensar.
+[15:05:47.940] Filósofo 4 está pensando.
+[15:05:47.993] Filósofo 5 está com fome.
+[15:05:47.993] Filósofo 5 pegou o hashi 1.
+[15:05:47.993] Filósofo 5 pegou o hashi 5.
+[15:05:47.993] Filósofo 5 está comendo.
+[15:05:48.211] Filósofo 4 está com fome.
+[15:05:48.211] Filósofo 4 pegou o hashi 4.
+[15:05:48.246] Filósofo 5 terminou de comer.
+[15:05:48.246] Filósofo 5 devolveu o hashi 5.
+[15:05:48.246] Filósofo 4 pegou o hashi 5.
+[15:05:48.246] Filósofo 4 está comendo.
+[15:05:48.246] Filósofo 5 devolveu o hashi 1.
+[15:05:48.246] Filósofo 5 voltou a pensar.
+[15:05:48.246] Filósofo 5 está pensando.
+[15:05:48.255] Filósofo 1 está com fome.
+[15:05:48.255] Filósofo 1 pegou o hashi 2.
+[15:05:48.255] Filósofo 1 pegou o hashi 1.
+[15:05:48.255] Filósofo 1 está comendo.
+[15:05:48.363] Filósofo 3 está com fome.
+[15:05:48.419] Filósofo 1 terminou de comer.
+[15:05:48.419] Filósofo 1 devolveu o hashi 1.
+[15:05:48.419] Filósofo 1 devolveu o hashi 2.
+[15:05:48.419] Filósofo 1 voltou a pensar.
+[15:05:48.419] Filósofo 1 está pensando.
+[15:05:48.465] Filósofo 4 terminou de comer.
+[15:05:48.465] Filósofo 4 devolveu o hashi 5.
+[15:05:48.465] Filósofo 4 devolveu o hashi 4.
+[15:05:48.465] Filósofo 3 pegou o hashi 4.
+[15:05:48.465] Filósofo 4 voltou a pensar.
+[15:05:48.465] Filósofo 3 pegou o hashi 3.
+[15:05:48.465] Filósofo 3 está comendo.
+[15:05:48.465] Filósofo 4 está pensando.
+[15:05:48.549] Filósofo 2 está com fome.
+[15:05:48.549] Filósofo 2 pegou o hashi 2.
+[15:05:48.588] Filósofo 3 terminou de comer.
+[15:05:48.588] Filósofo 3 devolveu o hashi 3.
+[15:05:48.588] Filósofo 3 devolveu o hashi 4.
+[15:05:48.588] Filósofo 3 voltou a pensar.
+[15:05:48.588] Filósofo 3 está pensando.
+[15:05:48.588] Filósofo 2 pegou o hashi 3.
+[15:05:48.588] Filósofo 2 está comendo.
+[15:05:48.645] Filósofo 5 está com fome.
+[15:05:48.645] Filósofo 5 pegou o hashi 1.
+[15:05:48.645] Filósofo 5 pegou o hashi 5.
+[15:05:48.645] Filósofo 5 está comendo.
+[15:05:48.648] Filósofo 3 está com fome.
+[15:05:48.648] Filósofo 3 pegou o hashi 4.
+[15:05:48.714] Filósofo 2 terminou de comer.
+[15:05:48.714] Filósofo 2 devolveu o hashi 3.
+[15:05:48.714] Filósofo 2 devolveu o hashi 2.
+[15:05:48.714] Filósofo 2 voltou a pensar.
+[15:05:48.714] Filósofo 2 está pensando.
+[15:05:48.714] Filósofo 3 pegou o hashi 3.
+[15:05:48.714] Filósofo 3 está comendo.
+[15:05:48.765] Filósofo 4 está com fome.
+[15:05:48.798] Filósofo 5 terminou de comer.
+[15:05:48.798] Filósofo 5 devolveu o hashi 5.
+[15:05:48.798] Filósofo 5 devolveu o hashi 1.
+[15:05:48.798] Filósofo 5 voltou a pensar.
+[15:05:48.798] Filósofo 5 está pensando.
+[15:05:48.969] Filósofo 1 está com fome.
+[15:05:48.969] Filósofo 1 pegou o hashi 2.
+[15:05:48.969] Filósofo 1 pegou o hashi 1.
+[15:05:48.969] Filósofo 1 está comendo.
+[15:05:49.034] Filósofo 3 terminou de comer.
+[15:05:49.034] Filósofo 3 devolveu o hashi 3.
+[15:05:49.034] Filósofo 3 devolveu o hashi 4.
+[15:05:49.034] Filósofo 3 voltou a pensar.
+[15:05:49.034] Filósofo 4 pegou o hashi 4.
+[15:05:49.034] Filósofo 3 está pensando.
+[15:05:49.034] Filósofo 4 pegou o hashi 5.
+[15:05:49.034] Filósofo 4 está comendo.
+[15:05:49.169] Filósofo 4 terminou de comer.
+[15:05:49.169] Filósofo 4 devolveu o hashi 5.
+[15:05:49.169] Filósofo 4 devolveu o hashi 4.
+[15:05:49.169] Filósofo 4 voltou a pensar.
+[15:05:49.169] Filósofo 4 está pensando.
+[15:05:49.197] Filósofo 1 terminou de comer.
+[15:05:49.197] Filósofo 1 devolveu o hashi 1.
+[15:05:49.197] Filósofo 1 devolveu o hashi 2.
+[15:05:49.197] Filósofo 1 voltou a pensar.
+[15:05:49.197] Filósofo 1 está pensando.
+[15:05:49.321] Filósofo 2 está com fome.
+[15:05:49.321] Filósofo 2 pegou o hashi 2.
+[15:05:49.321] Filósofo 2 pegou o hashi 3.
+[15:05:49.321] Filósofo 2 está comendo.
+[15:05:49.402] Filósofo 4 está com fome.
+[15:05:49.402] Filósofo 4 pegou o hashi 4.
+[15:05:49.402] Filósofo 4 pegou o hashi 5.
+[15:05:49.402] Filósofo 4 está comendo.
+[15:05:49.424] Filósofo 5 está com fome.
+[15:05:49.424] Filósofo 5 pegou o hashi 1.
+[15:05:49.745] Filósofo 2 terminou de comer.
+[15:05:49.745] Filósofo 2 devolveu o hashi 3.
+[15:05:49.745] Filósofo 2 devolveu o hashi 2.
+[15:05:49.745] Filósofo 2 voltou a pensar.
+[15:05:49.745] Filósofo 2 está pensando.
+[15:05:49.788] Filósofo 1 está com fome.
+[15:05:49.788] Filósofo 1 pegou o hashi 2.
+[15:05:49.795] Filósofo 3 está com fome.
+[15:05:49.818] Filósofo 4 terminou de comer.
+[15:05:49.818] Filósofo 4 devolveu o hashi 5.
+[15:05:49.818] Filósofo 5 pegou o hashi 5.
+[15:05:49.818] Filósofo 5 está comendo.
+[15:05:49.818] Filósofo 3 pegou o hashi 4.
+[15:05:49.818] Filósofo 3 pegou o hashi 3.
+[15:05:49.818] Filósofo 3 está comendo.
+[15:05:49.818] Filósofo 4 devolveu o hashi 4.
+[15:05:49.818] Filósofo 4 voltou a pensar.
+[15:05:49.818] Filósofo 4 está pensando.
+[15:05:49.879] Filósofo 3 terminou de comer.
+[15:05:49.879] Filósofo 3 devolveu o hashi 3.
+[15:05:49.879] Filósofo 3 devolveu o hashi 4.
+[15:05:49.879] Filósofo 3 voltou a pensar.
+[15:05:49.879] Filósofo 3 está pensando.
+[15:05:50.058] Filósofo 4 está com fome.
+[15:05:50.058] Filósofo 4 pegou o hashi 4.
+[15:05:50.146] Filósofo 5 terminou de comer.
+[15:05:50.146] Filósofo 5 devolveu o hashi 5.
+[15:05:50.146] Filósofo 4 pegou o hashi 5.
+[15:05:50.146] Filósofo 4 está comendo.
+[15:05:50.146] Filósofo 1 pegou o hashi 1.
+[15:05:50.146] Filósofo 5 devolveu o hashi 1.
+[15:05:50.146] Filósofo 5 voltou a pensar.
+[15:05:50.146] Filósofo 5 está pensando.
+[15:05:50.146] Filósofo 1 está comendo.
+[15:05:50.226] Filósofo 2 está com fome.
+[15:05:50.316] Filósofo 1 terminou de comer.
+[15:05:50.316] Filósofo 1 devolveu o hashi 1.
+[15:05:50.316] Filósofo 1 devolveu o hashi 2.
+[15:05:50.316] Filósofo 1 voltou a pensar.
+[15:05:50.316] Filósofo 1 está pensando.
+[15:05:50.316] Filósofo 2 pegou o hashi 2.
+[15:05:50.316] Filósofo 2 pegou o hashi 3.
+[15:05:50.316] Filósofo 2 está comendo.
+[15:05:50.457] Filósofo 4 terminou de comer.
+[15:05:50.457] Filósofo 4 devolveu o hashi 5.
+[15:05:50.457] Filósofo 4 devolveu o hashi 4.
+[15:05:50.457] Filósofo 4 voltou a pensar.
+[15:05:50.457] Filósofo 4 está pensando.
+[15:05:50.641] Filósofo 3 está com fome.
+[15:05:50.641] Filósofo 3 pegou o hashi 4.
+[15:05:50.693] Filósofo 5 está com fome.
+[15:05:50.693] Filósofo 5 pegou o hashi 1.
+[15:05:50.693] Filósofo 5 pegou o hashi 5.
+[15:05:50.693] Filósofo 5 está comendo.
+[15:05:50.732] Filósofo 4 está com fome.
+[15:05:50.819] Filósofo 2 terminou de comer.
+[15:05:50.819] Filósofo 2 devolveu o hashi 3.
+[15:05:50.819] Filósofo 3 pegou o hashi 3.
+[15:05:50.819] Filósofo 2 devolveu o hashi 2.
+[15:05:50.819] Filósofo 2 voltou a pensar.
+[15:05:50.819] Filósofo 3 está comendo.
+[15:05:50.819] Filósofo 2 está pensando.
+[15:05:50.935] Filósofo 5 terminou de comer.
+[15:05:50.935] Filósofo 5 devolveu o hashi 5.
+[15:05:50.935] Filósofo 5 devolveu o hashi 1.
+[15:05:50.935] Filósofo 5 voltou a pensar.
+[15:05:50.935] Filósofo 5 está pensando.
+[15:05:51.068] Filósofo 3 terminou de comer.
+[15:05:51.068] Filósofo 3 devolveu o hashi 3.
+[15:05:51.068] Filósofo 3 devolveu o hashi 4.
+[15:05:51.068] Filósofo 3 voltou a pensar.
+[15:05:51.068] Filósofo 4 pegou o hashi 4.
+[15:05:51.068] Filósofo 3 está pensando.
+[15:05:51.068] Filósofo 4 pegou o hashi 5.
+[15:05:51.068] Filósofo 4 está comendo.
+[15:05:51.115] Filósofo 3 está com fome.
+[15:05:51.194] Filósofo 4 terminou de comer.
+[15:05:51.194] Filósofo 4 devolveu o hashi 5.
+[15:05:51.194] Filósofo 4 devolveu o hashi 4.
+[15:05:51.194] Filósofo 3 pegou o hashi 4.
+[15:05:51.194] Filósofo 4 voltou a pensar.
+[15:05:51.194] Filósofo 4 está pensando.
+[15:05:51.194] Filósofo 3 pegou o hashi 3.
+[15:05:51.194] Filósofo 3 está comendo.
+[15:05:51.202] Filósofo 1 está com fome.
+[15:05:51.202] Filósofo 1 pegou o hashi 2.
+[15:05:51.202] Filósofo 1 pegou o hashi 1.
+[15:05:51.202] Filósofo 1 está comendo.
+[15:05:51.233] Filósofo 2 está com fome.
+[15:05:51.431] Filósofo 3 terminou de comer.
+[15:05:51.431] Filósofo 3 devolveu o hashi 3.
+[15:05:51.431] Filósofo 3 devolveu o hashi 4.
+[15:05:51.431] Filósofo 3 voltou a pensar.
+[15:05:51.431] Filósofo 3 está pensando.
+[15:05:51.477] Filósofo 1 terminou de comer.
+[15:05:51.477] Filósofo 1 devolveu o hashi 1.
+[15:05:51.477] Filósofo 1 devolveu o hashi 2.
+[15:05:51.477] Filósofo 1 voltou a pensar.
+[15:05:51.477] Filósofo 1 está pensando.
+[15:05:51.477] Filósofo 2 pegou o hashi 2.
+[15:05:51.477] Filósofo 2 pegou o hashi 3.
+[15:05:51.477] Filósofo 2 está comendo.
+[15:05:51.493] Filósofo 4 está com fome.
+[15:05:51.493] Filósofo 4 pegou o hashi 4.
+[15:05:51.493] Filósofo 4 pegou o hashi 5.
+[15:05:51.493] Filósofo 4 está comendo.
+[15:05:51.691] Filósofo 2 terminou de comer.
+[15:05:51.691] Filósofo 2 devolveu o hashi 3.
+[15:05:51.691] Filósofo 2 devolveu o hashi 2.
+[15:05:51.691] Filósofo 2 voltou a pensar.
+[15:05:51.691] Filósofo 2 está pensando.
+[15:05:51.746] Filósofo 4 terminou de comer.
+[15:05:51.746] Filósofo 4 devolveu o hashi 5.
+[15:05:51.746] Filósofo 4 devolveu o hashi 4.
+[15:05:51.746] Filósofo 4 voltou a pensar.
+[15:05:51.746] Filósofo 4 está pensando.
+[15:05:51.883] Filósofo 4 está com fome.
+[15:05:51.883] Filósofo 4 pegou o hashi 4.
+[15:05:51.883] Filósofo 4 pegou o hashi 5.
+[15:05:51.883] Filósofo 4 está comendo.
+[15:05:51.901] Filósofo 5 está com fome.
+[15:05:51.901] Filósofo 5 pegou o hashi 1.
+[15:05:52.071] Filósofo 3 está com fome.
+[15:05:52.130] Filósofo 4 terminou de comer.
+[15:05:52.130] Filósofo 4 devolveu o hashi 5.
+[15:05:52.130] Filósofo 5 pegou o hashi 5.
+[15:05:52.130] Filósofo 5 está comendo.
+[15:05:52.130] Filósofo 3 pegou o hashi 4.
+[15:05:52.130] Filósofo 3 pegou o hashi 3.
+[15:05:52.130] Filósofo 4 devolveu o hashi 4.
+[15:05:52.130] Filósofo 4 voltou a pensar.
+[15:05:52.130] Filósofo 4 está pensando.
+[15:05:52.130] Filósofo 3 está comendo.
+[15:05:52.167] Filósofo 3 terminou de comer.
+[15:05:52.167] Filósofo 3 devolveu o hashi 3.
+[15:05:52.167] Filósofo 3 devolveu o hashi 4.
+[15:05:52.167] Filósofo 3 voltou a pensar.
+[15:05:52.167] Filósofo 3 está pensando.
+[15:05:52.268] Filósofo 5 terminou de comer.
+[15:05:52.268] Filósofo 5 devolveu o hashi 5.
+[15:05:52.268] Filósofo 5 devolveu o hashi 1.
+[15:05:52.268] Filósofo 5 voltou a pensar.
+[15:05:52.268] Filósofo 5 está pensando.
+[15:05:52.270] Filósofo 1 está com fome.
+[15:05:52.270] Filósofo 1 pegou o hashi 2.
+[15:05:52.270] Filósofo 1 pegou o hashi 1.
+[15:05:52.270] Filósofo 1 está comendo.
+[15:05:52.366] Filósofo 3 está com fome.
+[15:05:52.366] Filósofo 3 pegou o hashi 4.
+[15:05:52.366] Filósofo 3 pegou o hashi 3.
+[15:05:52.366] Filósofo 3 está comendo.
+[15:05:52.368] Filósofo 1 terminou de comer.
+[15:05:52.368] Filósofo 1 devolveu o hashi 1.
+[15:05:52.368] Filósofo 1 devolveu o hashi 2.
+[15:05:52.368] Filósofo 1 voltou a pensar.
+[15:05:52.368] Filósofo 1 está pensando.
+[15:05:52.540] Filósofo 2 está com fome.
+[15:05:52.540] Filósofo 2 pegou o hashi 2.
+[15:05:52.771] Filósofo 4 está com fome.
+[15:05:52.810] Filósofo 1 está com fome.
+[15:05:52.863] Filósofo 3 terminou de comer.
+[15:05:52.863] Filósofo 3 devolveu o hashi 3.
+[15:05:52.863] Filósofo 2 pegou o hashi 3.
+[15:05:52.863] Filósofo 2 está comendo.
+[15:05:52.863] Filósofo 4 pegou o hashi 4.
+[15:05:52.863] Filósofo 3 devolveu o hashi 4.
+[15:05:52.863] Filósofo 3 voltou a pensar.
+[15:05:52.863] Filósofo 4 pegou o hashi 5.
+[15:05:52.863] Filósofo 4 está comendo.
+[15:05:52.863] Filósofo 3 está pensando.
+[15:05:52.956] Filósofo 5 está com fome.
+[15:05:52.956] Filósofo 5 pegou o hashi 1.
+[15:05:53.214] Filósofo 2 terminou de comer.
+[15:05:53.214] Filósofo 2 devolveu o hashi 3.
+[15:05:53.214] Filósofo 2 devolveu o hashi 2.
+[15:05:53.214] Filósofo 2 voltou a pensar.
+[15:05:53.214] Filósofo 2 está pensando.
+[15:05:53.214] Filósofo 1 pegou o hashi 2.
+[15:05:53.230] Filósofo 2 está com fome.
+[15:05:53.325] Filósofo 4 terminou de comer.
+[15:05:53.325] Filósofo 4 devolveu o hashi 5.
+[15:05:53.325] Filósofo 5 pegou o hashi 5.
+[15:05:53.325] Filósofo 5 está comendo.
+[15:05:53.325] Filósofo 4 devolveu o hashi 4.
+[15:05:53.325] Filósofo 4 voltou a pensar.
+[15:05:53.325] Filósofo 4 está pensando.
+[15:05:53.378] Filósofo 3 está com fome.
+[15:05:53.378] Filósofo 3 pegou o hashi 4.
+[15:05:53.378] Filósofo 3 pegou o hashi 3.
+[15:05:53.378] Filósofo 3 está comendo.
+[15:05:53.420] Filósofo 3 terminou de comer.
+[15:05:53.420] Filósofo 3 devolveu o hashi 3.
+[15:05:53.420] Filósofo 3 devolveu o hashi 4.
+[15:05:53.420] Filósofo 3 voltou a pensar.
+[15:05:53.420] Filósofo 3 está pensando.
+[15:05:53.804] Filósofo 5 terminou de comer.
+[15:05:53.804] Filósofo 5 devolveu o hashi 5.
+[15:05:53.804] Filósofo 5 devolveu o hashi 1.
+[15:05:53.804] Filósofo 1 pegou o hashi 1.
+[15:05:53.804] Filósofo 1 está comendo.
+[15:05:53.804] Filósofo 5 voltou a pensar.
+[15:05:53.804] Filósofo 5 está pensando.
+[15:05:53.877] Filósofo 5 está com fome.
+[15:05:54.046] Filósofo 1 terminou de comer.
+[15:05:54.046] Filósofo 1 devolveu o hashi 1.
+[15:05:54.046] Filósofo 5 pegou o hashi 1.
+[15:05:54.046] Filósofo 2 pegou o hashi 2.
+[15:05:54.046] Filósofo 2 pegou o hashi 3.
+[15:05:54.046] Filósofo 2 está comendo.
+[15:05:54.046] Filósofo 1 devolveu o hashi 2.
+[15:05:54.046] Filósofo 5 pegou o hashi 5.
+[15:05:54.046] Filósofo 5 está comendo.
+[15:05:54.046] Filósofo 1 voltou a pensar.
+[15:05:54.046] Filósofo 1 está pensando.
+[15:05:54.310] Filósofo 3 está com fome.
+[15:05:54.310] Filósofo 3 pegou o hashi 4.
+[15:05:54.313] Filósofo 4 está com fome.
+[15:05:54.352] Filósofo 5 terminou de comer.
+[15:05:54.352] Filósofo 5 devolveu o hashi 5.
+[15:05:54.352] Filósofo 5 devolveu o hashi 1.
+[15:05:54.352] Filósofo 5 voltou a pensar.
+[15:05:54.352] Filósofo 5 está pensando.
+[15:05:54.433] Filósofo 2 terminou de comer.
+[15:05:54.433] Filósofo 2 devolveu o hashi 3.
+[15:05:54.433] Filósofo 2 devolveu o hashi 2.
+[15:05:54.433] Filósofo 2 voltou a pensar.
+[15:05:54.433] Filósofo 2 está pensando.
+[15:05:54.433] Filósofo 3 pegou o hashi 3.
+[15:05:54.433] Filósofo 3 está comendo.
+[15:05:54.779] Filósofo 3 terminou de comer.
+[15:05:54.779] Filósofo 3 devolveu o hashi 3.
+[15:05:54.779] Filósofo 3 devolveu o hashi 4.
+[15:05:54.779] Filósofo 3 voltou a pensar.
+[15:05:54.779] Filósofo 3 está pensando.
+[15:05:54.779] Filósofo 4 pegou o hashi 4.
+[15:05:54.779] Filósofo 4 pegou o hashi 5.
+[15:05:54.779] Filósofo 4 está comendo.
+[15:05:54.827] Filósofo 3 está com fome.
+[15:05:54.921] Filósofo 1 está com fome.
+[15:05:54.921] Filósofo 1 pegou o hashi 2.
+[15:05:54.921] Filósofo 1 pegou o hashi 1.
+[15:05:54.921] Filósofo 1 está comendo.
+[15:05:54.993] Filósofo 2 está com fome.
+[15:05:55.000] Filósofo 5 está com fome.
+[15:05:55.096] Filósofo 1 terminou de comer.
+[15:05:55.096] Filósofo 1 devolveu o hashi 1.
+[15:05:55.096] Filósofo 5 pegou o hashi 1.
+[15:05:55.096] Filósofo 2 pegou o hashi 2.
+[15:05:55.096] Filósofo 1 devolveu o hashi 2.
+[15:05:55.096] Filósofo 1 voltou a pensar.
+[15:05:55.096] Filósofo 1 está pensando.
+[15:05:55.096] Filósofo 2 pegou o hashi 3.
+[15:05:55.096] Filósofo 2 está comendo.
+[15:05:55.182] Filósofo 4 terminou de comer.
+[15:05:55.182] Filósofo 4 devolveu o hashi 5.
+[15:05:55.182] Filósofo 5 pegou o hashi 5.
+[15:05:55.182] Filósofo 5 está comendo.
+[15:05:55.182] Filósofo 3 pegou o hashi 4.
+[15:05:55.182] Filósofo 4 devolveu o hashi 4.
+[15:05:55.182] Filósofo 4 voltou a pensar.
+[15:05:55.182] Filósofo 4 está pensando.
+[15:05:55.354] Filósofo 2 terminou de comer.
+[15:05:55.354] Filósofo 2 devolveu o hashi 3.
+[15:05:55.354] Filósofo 2 devolveu o hashi 2.
+[15:05:55.354] Filósofo 2 voltou a pensar.
+[15:05:55.354] Filósofo 2 está pensando.
+[15:05:55.354] Filósofo 3 pegou o hashi 3.
+[15:05:55.354] Filósofo 3 está comendo.
+[15:05:55.376] Filósofo 2 está com fome.
+[15:05:55.376] Filósofo 2 pegou o hashi 2.
+[15:05:55.432] Filósofo 3 terminou de comer.
+[15:05:55.432] Filósofo 3 devolveu o hashi 3.
+[15:05:55.432] Filósofo 3 devolveu o hashi 4.
+[15:05:55.432] Filósofo 3 voltou a pensar.
+[15:05:55.432] Filósofo 2 pegou o hashi 3.
+[15:05:55.432] Filósofo 3 está pensando.
+[15:05:55.432] Filósofo 2 está comendo.
+[15:05:55.445] Filósofo 1 está com fome.
+[15:05:55.508] Filósofo 2 terminou de comer.
+[15:05:55.508] Filósofo 2 devolveu o hashi 3.
+[15:05:55.508] Filósofo 2 devolveu o hashi 2.
+[15:05:55.508] Filósofo 2 voltou a pensar.
+[15:05:55.508] Filósofo 1 pegou o hashi 2.
+[15:05:55.508] Filósofo 2 está pensando.
+[15:05:55.536] Filósofo 5 terminou de comer.
+[15:05:55.536] Filósofo 5 devolveu o hashi 5.
+[15:05:55.536] Filósofo 5 devolveu o hashi 1.
+[15:05:55.536] Filósofo 5 voltou a pensar.
+[15:05:55.536] Filósofo 1 pegou o hashi 1.
+[15:05:55.536] Filósofo 5 está pensando.
+[15:05:55.536] Filósofo 1 está comendo.
+[15:05:55.701] Filósofo 1 terminou de comer.
+[15:05:55.701] Filósofo 1 devolveu o hashi 1.
+[15:05:55.701] Filósofo 1 devolveu o hashi 2.
+[15:05:55.701] Filósofo 1 voltou a pensar.
+[15:05:55.701] Filósofo 1 está pensando.
+[15:05:55.811] Filósofo 1 está com fome.
+[15:05:55.811] Filósofo 1 pegou o hashi 2.
+[15:05:55.811] Filósofo 1 pegou o hashi 1.
+[15:05:55.811] Filósofo 1 está comendo.
+[15:05:55.904] Filósofo 5 está com fome.
+[15:05:55.932] Filósofo 4 está com fome.
+[15:05:55.932] Filósofo 4 pegou o hashi 4.
+[15:05:55.932] Filósofo 4 pegou o hashi 5.
+[15:05:55.932] Filósofo 4 está comendo.
+[15:05:55.971] Filósofo 3 está com fome.
+[15:05:56.043] Filósofo 1 terminou de comer.
+[15:05:56.043] Filósofo 1 devolveu o hashi 1.
+[15:05:56.043] Filósofo 1 devolveu o hashi 2.
+[15:05:56.043] Filósofo 1 voltou a pensar.
+[15:05:56.043] Filósofo 1 está pensando.
+[15:05:56.043] Filósofo 5 pegou o hashi 1.
+[15:05:56.332] Filósofo 4 terminou de comer.
+[15:05:56.332] Filósofo 4 devolveu o hashi 5.
+[15:05:56.332] Filósofo 5 pegou o hashi 5.
+[15:05:56.332] Filósofo 5 está comendo.
+[15:05:56.332] Filósofo 3 pegou o hashi 4.
+[15:05:56.332] Filósofo 3 pegou o hashi 3.
+[15:05:56.332] Filósofo 3 está comendo.
+[15:05:56.332] Filósofo 4 devolveu o hashi 4.
+[15:05:56.332] Filósofo 4 voltou a pensar.
+[15:05:56.332] Filósofo 4 está pensando.
+[15:05:56.446] Filósofo 2 está com fome.
+[15:05:56.446] Filósofo 2 pegou o hashi 2.
+[15:05:56.537] Filósofo 3 terminou de comer.
+[15:05:56.537] Filósofo 3 devolveu o hashi 3.
+[15:05:56.537] Filósofo 3 devolveu o hashi 4.
+[15:05:56.537] Filósofo 2 pegou o hashi 3.
+[15:05:56.537] Filósofo 2 está comendo.
+[15:05:56.537] Filósofo 3 voltou a pensar.
+[15:05:56.537] Filósofo 3 está pensando.
+[15:05:56.779] Filósofo 5 terminou de comer.
+[15:05:56.779] Filósofo 5 devolveu o hashi 5.
+[15:05:56.779] Filósofo 5 devolveu o hashi 1.
+[15:05:56.779] Filósofo 5 voltou a pensar.
+[15:05:56.779] Filósofo 5 está pensando.
+[15:05:56.876] Filósofo 4 está com fome.
+[15:05:56.876] Filósofo 4 pegou o hashi 4.
+[15:05:56.876] Filósofo 4 pegou o hashi 5.
+[15:05:56.876] Filósofo 4 está comendo.
+[15:05:57.009] Filósofo 1 está com fome.
+[15:05:57.031] Filósofo 5 está com fome.
+[15:05:57.031] Filósofo 5 pegou o hashi 1.
+[15:05:57.038] Filósofo 2 terminou de comer.
+[15:05:57.038] Filósofo 2 devolveu o hashi 3.
+[15:05:57.038] Filósofo 2 devolveu o hashi 2.
+[15:05:57.038] Filósofo 2 voltou a pensar.
+[15:05:57.038] Filósofo 1 pegou o hashi 2.
+[15:05:57.038] Filósofo 2 está pensando.
+[15:05:57.111] Filósofo 4 terminou de comer.
+[15:05:57.111] Filósofo 4 devolveu o hashi 5.
+[15:05:57.111] Filósofo 4 devolveu o hashi 4.
+[15:05:57.111] Filósofo 4 voltou a pensar.
+[15:05:57.111] Filósofo 4 está pensando.
+[15:05:57.111] Filósofo 5 pegou o hashi 5.
+[15:05:57.111] Filósofo 5 está comendo.
+[15:05:57.320] Filósofo 3 está com fome.
+[15:05:57.320] Filósofo 3 pegou o hashi 4.
+[15:05:57.320] Filósofo 3 pegou o hashi 3.
+[15:05:57.320] Filósofo 3 está comendo.
+[15:05:57.455] Filósofo 5 terminou de comer.
+[15:05:57.455] Filósofo 5 devolveu o hashi 5.
+[15:05:57.455] Filósofo 5 devolveu o hashi 1.
+[15:05:57.455] Filósofo 5 voltou a pensar.
+[15:05:57.455] Filósofo 5 está pensando.
+[15:05:57.455] Filósofo 1 pegou o hashi 1.
+[15:05:57.455] Filósofo 1 está comendo.
+[15:05:57.485] Filósofo 5 está com fome.
+[15:05:57.505] Filósofo 3 terminou de comer.
+[15:05:57.505] Filósofo 3 devolveu o hashi 3.
+[15:05:57.505] Filósofo 3 devolveu o hashi 4.
+[15:05:57.505] Filósofo 3 voltou a pensar.
+[15:05:57.505] Filósofo 3 está pensando.
+[15:05:57.652] Filósofo 2 está com fome.
+[15:05:57.735] Filósofo 1 terminou de comer.
+[15:05:57.735] Filósofo 1 devolveu o hashi 1.
+[15:05:57.735] Filósofo 5 pegou o hashi 1.
+[15:05:57.735] Filósofo 2 pegou o hashi 2.
+[15:05:57.735] Filósofo 1 devolveu o hashi 2.
+[15:05:57.735] Filósofo 1 voltou a pensar.
+[15:05:57.735] Filósofo 2 pegou o hashi 3.
+[15:05:57.735] Filósofo 2 está comendo.
+[15:05:57.735] Filósofo 5 pegou o hashi 5.
+[15:05:57.735] Filósofo 5 está comendo.
+[15:05:57.735] Filósofo 1 está pensando.
+[15:05:57.787] Filósofo 4 está com fome.
+[15:05:57.787] Filósofo 4 pegou o hashi 4.
+[15:05:57.824] Filósofo 2 terminou de comer.
+[15:05:57.824] Filósofo 2 devolveu o hashi 3.
+[15:05:57.824] Filósofo 2 devolveu o hashi 2.
+[15:05:57.824] Filósofo 2 voltou a pensar.
+[15:05:57.824] Filósofo 2 está pensando.
+[15:05:58.152] Filósofo 1 está com fome.
+[15:05:58.152] Filósofo 1 pegou o hashi 2.
+[15:05:58.165] Filósofo 5 terminou de comer.
+[15:05:58.165] Filósofo 5 devolveu o hashi 5.
+[15:05:58.165] Filósofo 4 pegou o hashi 5.
+[15:05:58.165] Filósofo 4 está comendo.
+[15:05:58.165] Filósofo 1 pegou o hashi 1.
+[15:05:58.165] Filósofo 1 está comendo.
+[15:05:58.165] Filósofo 5 devolveu o hashi 1.
+[15:05:58.165] Filósofo 5 voltou a pensar.
+[15:05:58.165] Filósofo 5 está pensando.
+[15:05:58.177] Filósofo 3 está com fome.
+[15:05:58.216] Filósofo 2 está com fome.
+[15:05:58.264] Filósofo 4 terminou de comer.
+[15:05:58.264] Filósofo 4 devolveu o hashi 5.
+[15:05:58.264] Filósofo 4 devolveu o hashi 4.
+[15:05:58.264] Filósofo 4 voltou a pensar.
+[15:05:58.264] Filósofo 3 pegou o hashi 4.
+[15:05:58.264] Filósofo 4 está pensando.
+[15:05:58.264] Filósofo 3 pegou o hashi 3.
+[15:05:58.264] Filósofo 3 está comendo.
+[15:05:58.310] Filósofo 3 terminou de comer.
+[15:05:58.310] Filósofo 3 devolveu o hashi 3.
+[15:05:58.310] Filósofo 3 devolveu o hashi 4.
+[15:05:58.310] Filósofo 3 voltou a pensar.
+[15:05:58.310] Filósofo 3 está pensando.
+[15:05:58.588] Filósofo 1 terminou de comer.
+[15:05:58.588] Filósofo 1 devolveu o hashi 1.
+[15:05:58.588] Filósofo 1 devolveu o hashi 2.
+[15:05:58.588] Filósofo 1 voltou a pensar.
+[15:05:58.588] Filósofo 2 pegou o hashi 2.
+[15:05:58.588] Filósofo 2 pegou o hashi 3.
+[15:05:58.588] Filósofo 2 está comendo.
+[15:05:58.588] Filósofo 1 está pensando.
+[15:05:58.634] Filósofo 3 está com fome.
+[15:05:58.634] Filósofo 3 pegou o hashi 4.
+[15:05:58.726] Filósofo 2 terminou de comer.
+[15:05:58.726] Filósofo 2 devolveu o hashi 3.
+[15:05:58.726] Filósofo 3 pegou o hashi 3.
+[15:05:58.726] Filósofo 3 está comendo.
+[15:05:58.726] Filósofo 2 devolveu o hashi 2.
+[15:05:58.726] Filósofo 2 voltou a pensar.
+[15:05:58.726] Filósofo 2 está pensando.
+[15:05:58.758] Filósofo 1 está com fome.
+[15:05:58.758] Filósofo 1 pegou o hashi 2.
+[15:05:58.758] Filósofo 1 pegou o hashi 1.
+[15:05:58.758] Filósofo 1 está comendo.
+[15:05:58.838] Filósofo 4 está com fome.
+[15:05:58.886] Filósofo 2 está com fome.
+[15:05:58.971] Filósofo 3 terminou de comer.
+[15:05:58.971] Filósofo 3 devolveu o hashi 3.
+[15:05:58.971] Filósofo 3 devolveu o hashi 4.
+[15:05:58.971] Filósofo 3 voltou a pensar.
+[15:05:58.971] Filósofo 3 está pensando.
+[15:05:58.971] Filósofo 4 pegou o hashi 4.
+[15:05:58.971] Filósofo 4 pegou o hashi 5.
+[15:05:58.971] Filósofo 4 está comendo.
+[15:05:59.096] Filósofo 4 terminou de comer.
+[15:05:59.096] Filósofo 4 devolveu o hashi 5.
+[15:05:59.096] Filósofo 4 devolveu o hashi 4.
+[15:05:59.096] Filósofo 4 voltou a pensar.
+[15:05:59.131] Filósofo 5 está com fome.
+[15:05:59.175] Filósofo 1 terminou de comer.
+[15:05:59.175] Filósofo 1 devolveu o hashi 1.
+[15:05:59.175] Filósofo 1 devolveu o hashi 2.
+[15:05:59.175] Filósofo 1 voltou a pensar.
+[15:05:59.175] Filósofo 5 pegou o hashi 1.
+[15:05:59.175] Filósofo 2 pegou o hashi 2.
+[15:05:59.175] Filósofo 5 pegou o hashi 5.
+[15:05:59.175] Filósofo 5 está comendo.
+[15:05:59.175] Filósofo 2 pegou o hashi 3.
+[15:05:59.175] Filósofo 2 está comendo.
+[15:05:59.263] Filósofo 2 terminou de comer.
+[15:05:59.263] Filósofo 2 devolveu o hashi 3.
+[15:05:59.263] Filósofo 2 devolveu o hashi 2.
+[15:05:59.263] Filósofo 2 voltou a pensar.
+[15:05:59.400] Filósofo 5 terminou de comer.
+[15:05:59.400] Filósofo 5 devolveu o hashi 5.
+[15:05:59.400] Filósofo 5 devolveu o hashi 1.
+[15:05:59.400] Filósofo 5 voltou a pensar.
+[15:05:59.507] Filósofo 3 está com fome.
+[15:05:59.507] Filósofo 3 pegou o hashi 4.
+[15:05:59.507] Filósofo 3 pegou o hashi 3.
+[15:05:59.507] Filósofo 3 está comendo.
+[15:05:59.922] Filósofo 3 terminou de comer.
+[15:05:59.922] Filósofo 3 devolveu o hashi 3.
+[15:05:59.922] Filósofo 3 devolveu o hashi 4.
+[15:05:59.922] Filósofo 3 voltou a pensar.
+[15:05:59.922] Fim da simulação.
