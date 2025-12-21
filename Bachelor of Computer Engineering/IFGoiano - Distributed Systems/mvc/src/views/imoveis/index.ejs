@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="/css/style.css" rel="stylesheet" type="text/css">
+  <title>MVC</title>
+</head>
+
+<body>
+  <div class="main">
+    <div>
+      <h2>Pesquisar Imóveis</h2>
+      <form method="get" action="/imoveis/search">
+        <input type="text" name="tipo" placeholder="Tipo de imóvel" />
+        <button type="submit">Pesquisar</button>
+      </form>
+    </div>
+    <div>
+      <h2>Pesquisar Imóveis utilizando POST</h2>
+      <form method="post" action="/imoveis/search">
+        <input type="text" name="tipo" placeholder="Tipo de imóvel" />
+        <button type="submit">Pesquisar</button>
+      </form>
+    </div>
+    <% if (imoveis.length > 0) { %>
+    <div>
+      <h2>Últimos Imóveis</h2>
+      <div>
+        <table>
+          <thead>
+            <tr>
+              <th>Rua</th>
+              <th>Cidade</th>
+              <th>Estado</th>
+              <th>Número</th>
+              <th>Tipo</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% imoveis.forEach(function (imovel) { %>
+            <tr>
+              <td><%= imovel.rua %></td>
+              <td><%= imovel.cidade %></td>
+              <td><%= imovel.estado %></td>
+              <td><%= imovel.numero %></td>
+              <td><%= imovel.tipo %></td>
+            </tr>
+            <% }) %>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <% } %>
+  </div>
+</body>
+
+</html>

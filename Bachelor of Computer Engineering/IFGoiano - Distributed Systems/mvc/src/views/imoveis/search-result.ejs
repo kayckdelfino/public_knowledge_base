@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="/css/style.css" rel="stylesheet" type="text/css">
+  <title>MVC</title>
+</head>
+
+<body>
+  <div class="main">
+    <h2>Resultado</h2>
+    <% if (imoveis.length > 0) { %>
+    <div>
+      <table>
+        <thead>
+          <tr>
+            <th>Rua</th>
+            <th>Cidade</th>
+            <th>Estado</th>
+            <th>Número</th>
+            <th>Tipo</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% imoveis.forEach(function (imovel) { %>
+          <tr>
+            <td><%= imovel.rua %></td>
+            <td><%= imovel.cidade %></td>
+            <td><%= imovel.estado %></td>
+            <td><%= imovel.numero %></td>
+            <td><%= imovel.tipo %></td>
+          </tr>
+          <% }) %>
+        </tbody>
+      </table>
+    </div>
+    <% } %>
+    <div>
+      <a href="/">Voltar</a>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="/css/tarefas-style.css" rel="stylesheet" type="text/css">
+  <title>Tarefas</title>
+</head>
+
+<body>
+  <div class="main">
+    <div class="form">
+      <form method="post" action="/tarefas">
+        <input type="text" name="titulo" placeholder="Título da tarefa" />
+        <button type="submit">Adicionar</button>
+      </form>
+    </div>
+    <div class="lista-tarefas">
+      <h2>Lista de Tarefas</h2>
+      <div>
+        <table>
+          <tbody>
+            <% tarefas.forEach(function (tarefa) { %>
+              <tr>
+                <td>
+                  <% 
+                    const linkAlternarStatus = `/tarefas/${tarefa.id}/alternar-status` 
+                    const linkExcluir = `/tarefas/${tarefa.id}/excluir` 
+                    const lineThrough = (tarefa.concluida) ? 'line-through' : 'decoration-none'
+                    const tarefaConcluida = tarefa.concluida ? 'checked' : ''
+                  %>
+
+                  <input
+                    type="checkbox"
+                    disabled
+                    <%= tarefaConcluida %>
+                  />
+                  <a 
+                    href="<%= linkAlternarStatus %>" 
+                    class="<%= lineThrough %>"
+                  >
+                    <%= tarefa.titulo %>
+                  </a>
+                </td>
+                <td>
+                  <a href="<%= linkExcluir %>">
+                    <img src="/img/trash.svg" width="16" height="16" />
+                  </a>
+                </td>
+              </tr>
+            <% }) %>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
