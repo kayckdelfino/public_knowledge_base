@@ -1,0 +1,817 @@
+{
+  "imoveis": [
+    {
+      "rua": "Vincenza Street",
+      "cidade": "Weberview",
+      "estado": "MN",
+      "numero": "10279-9643",
+      "tipo": "casa",
+      "id": 1,
+      "proprietarios": [1]
+    },
+    {
+      "rua": "Bogisich Mountain",
+      "cidade": "Miami Beach",
+      "estado": "MI",
+      "numero": "25771",
+      "tipo": "casa",
+      "id": 2,
+      "proprietarios": [1]
+    },
+    {
+      "rua": "Thiel Dam",
+      "cidade": "Reecemouth",
+      "estado": "MO",
+      "numero": "01139-4940",
+      "tipo": "casa",
+      "id": 3,
+      "proprietarios": [1]
+    },
+    {
+      "rua": "Keebler Way",
+      "cidade": "Lewisville",
+      "estado": "DE",
+      "numero": "32721-9334",
+      "tipo": "apartamento",
+      "id": 4,
+      "proprietarios": [2]
+    },
+    {
+      "rua": "Rowan Drive",
+      "cidade": "Alicemouth",
+      "estado": "CO",
+      "numero": "27865",
+      "tipo": "casa",
+      "id": 5
+    },
+    {
+      "rua": "Swift Lock",
+      "cidade": "Kendraville",
+      "estado": "HI",
+      "numero": "41497",
+      "tipo": "comercial",
+      "id": 6
+    },
+    {
+      "rua": "Klein Square",
+      "cidade": "Hoegermouth",
+      "estado": "IA",
+      "numero": "87974",
+      "tipo": "apartamento",
+      "id": 7
+    },
+    {
+      "rua": "Edgardo Gardens",
+      "cidade": "Emeliaview",
+      "estado": "TX",
+      "numero": "44194",
+      "tipo": "casa",
+      "id": 8
+    },
+    {
+      "rua": "Idell Cliffs",
+      "cidade": "Kylemouth",
+      "estado": "OH",
+      "numero": "86533",
+      "tipo": "apartamento",
+      "id": 9
+    },
+    {
+      "rua": "Russel Stream",
+      "cidade": "New Raulmouth",
+      "estado": "LA",
+      "numero": "53875-5271",
+      "tipo": "casa",
+      "id": 10
+    },
+    {
+      "rua": "Jed Tunnel",
+      "cidade": "East Xandershire",
+      "estado": "UT",
+      "numero": "92039-4724",
+      "tipo": "comercial",
+      "id": 11
+    },
+    {
+      "rua": "Myrna Mountains",
+      "cidade": "Brockton",
+      "estado": "WA",
+      "numero": "12269-0734",
+      "tipo": "comercial",
+      "id": 12
+    },
+    {
+      "rua": "Nolan Tunnel",
+      "cidade": "North Vernland",
+      "estado": "MN",
+      "numero": "53307",
+      "tipo": "casa",
+      "id": 13
+    },
+    {
+      "rua": "Keebler Divide",
+      "cidade": "Avaville",
+      "estado": "VA",
+      "numero": "59987",
+      "tipo": "apartamento",
+      "id": 14
+    },
+    {
+      "rua": "Lemke Lodge",
+      "cidade": "South Andyburgh",
+      "estado": "MN",
+      "numero": "23716-4979",
+      "tipo": "casa",
+      "id": 15
+    },
+    {
+      "rua": "Owen Branch",
+      "cidade": "Hendersonville",
+      "estado": "IN",
+      "numero": "73294",
+      "tipo": "apartamento",
+      "id": 16
+    },
+    {
+      "rua": "Jenkins Extension",
+      "cidade": "East Laurianeland",
+      "estado": "NE",
+      "numero": "67913",
+      "tipo": "apartamento",
+      "id": 17
+    },
+    {
+      "rua": "Howell Fort",
+      "cidade": "Calebburgh",
+      "estado": "VA",
+      "numero": "08490-1729",
+      "tipo": "comercial",
+      "id": 18
+    },
+    {
+      "rua": "Goyette Mount",
+      "cidade": "Carolfort",
+      "estado": "MN",
+      "numero": "41575-6172",
+      "tipo": "comercial",
+      "id": 19
+    },
+    {
+      "rua": "Nitzsche Street",
+      "cidade": "Burbank",
+      "estado": "RI",
+      "numero": "86276",
+      "tipo": "comercial",
+      "id": 20
+    },
+    {
+      "rua": "Nienow Plains",
+      "cidade": "New Omarifort",
+      "estado": "NH",
+      "numero": "77169-9720",
+      "tipo": "apartamento",
+      "id": 21
+    },
+    {
+      "rua": "Cole Springs",
+      "cidade": "North Chrisville",
+      "estado": "IA",
+      "numero": "16526-2575",
+      "tipo": "comercial",
+      "id": 22
+    },
+    {
+      "rua": "Wolff Divide",
+      "cidade": "Kuphalburgh",
+      "estado": "MN",
+      "numero": "90748",
+      "tipo": "casa",
+      "id": 23
+    },
+    {
+      "rua": "Elissa Via",
+      "cidade": "Bethesda",
+      "estado": "OK",
+      "numero": "34503-9481",
+      "tipo": "apartamento",
+      "id": 24
+    },
+    {
+      "rua": "Kuhlman Meadows",
+      "cidade": "Oriefurt",
+      "estado": "PA",
+      "numero": "19709-9149",
+      "tipo": "casa",
+      "id": 25
+    },
+    {
+      "rua": "Strosin Trail",
+      "cidade": "Longmont",
+      "estado": "NJ",
+      "numero": "49223-5794",
+      "tipo": "comercial",
+      "id": 26
+    },
+    {
+      "rua": "Nienow Plains",
+      "cidade": "Bergestad",
+      "estado": "GA",
+      "numero": "01976-1873",
+      "tipo": "apartamento",
+      "id": 27
+    },
+    {
+      "rua": "Kub Groves",
+      "cidade": "Glen Burnie",
+      "estado": "FL",
+      "numero": "38971-4382",
+      "tipo": "casa",
+      "id": 28
+    },
+    {
+      "rua": "Wolff Station",
+      "cidade": "New Salma",
+      "estado": "FL",
+      "numero": "67328",
+      "tipo": "apartamento",
+      "id": 29
+    },
+    {
+      "rua": "Kathryn Crescent",
+      "cidade": "Lake Kadin",
+      "estado": "RI",
+      "numero": "21085-9769",
+      "tipo": "comercial",
+      "id": 30
+    },
+    {
+      "rua": "Otha Mountains",
+      "cidade": "East Declan",
+      "estado": "KY",
+      "numero": "72855",
+      "tipo": "apartamento",
+      "id": 31
+    },
+    {
+      "rua": "Gilberto Roads",
+      "cidade": "Josefaland",
+      "estado": "NV",
+      "numero": "79417-6115",
+      "tipo": "comercial",
+      "id": 32
+    },
+    {
+      "rua": "Osbaldo Radial",
+      "cidade": "Lake Clarabellestad",
+      "estado": "MA",
+      "numero": "80215-3619",
+      "tipo": "comercial",
+      "id": 33
+    },
+    {
+      "rua": "Josephine Centers",
+      "cidade": "San Angelo",
+      "estado": "KS",
+      "numero": "73514-1783",
+      "tipo": "apartamento",
+      "id": 34
+    },
+    {
+      "rua": "Orpha Forks",
+      "cidade": "Mertztown",
+      "estado": "KY",
+      "numero": "11515-8212",
+      "tipo": "apartamento",
+      "id": 35
+    },
+    {
+      "rua": "Casper Greens",
+      "cidade": "Amiraport",
+      "estado": "NV",
+      "numero": "22688",
+      "tipo": "casa",
+      "id": 36
+    },
+    {
+      "rua": "Helga Trail",
+      "cidade": "Lake Pinkfort",
+      "estado": "NV",
+      "numero": "87405-2980",
+      "tipo": "casa",
+      "id": 37
+    },
+    {
+      "rua": "Aliza Harbor",
+      "cidade": "Casas Adobes",
+      "estado": "UT",
+      "numero": "77348-2718",
+      "tipo": "casa",
+      "id": 38
+    },
+    {
+      "rua": "Dustin Forges",
+      "cidade": "Port Jena",
+      "estado": "VT",
+      "numero": "63578-3571",
+      "tipo": "comercial",
+      "id": 39
+    },
+    {
+      "rua": "Cordell Centers",
+      "cidade": "Lake Aiyanaton",
+      "estado": "WI",
+      "numero": "78678",
+      "tipo": "apartamento",
+      "id": 40
+    },
+    {
+      "rua": "Romaguera Roads",
+      "cidade": "West Kendraburgh",
+      "estado": "MO",
+      "numero": "52137",
+      "tipo": "comercial",
+      "id": 41
+    },
+    {
+      "rua": "Johnson Divide",
+      "cidade": "Valentineburgh",
+      "estado": "MN",
+      "numero": "83108-4534",
+      "tipo": "apartamento",
+      "id": 42
+    },
+    {
+      "rua": "Doyle Shore",
+      "cidade": "South Marina",
+      "estado": "ND",
+      "numero": "78560",
+      "tipo": "casa",
+      "id": 43
+    },
+    {
+      "rua": "Funk Wells",
+      "cidade": "New Crystal",
+      "estado": "FL",
+      "numero": "94034-1579",
+      "tipo": "comercial",
+      "id": 44
+    },
+    {
+      "rua": "Alexzander Stravenue",
+      "cidade": "Medford",
+      "estado": "IA",
+      "numero": "46623-8701",
+      "tipo": "apartamento",
+      "id": 45
+    },
+    {
+      "rua": "Enrico Way",
+      "cidade": "East Destany",
+      "estado": "KS",
+      "numero": "98636-1092",
+      "tipo": "casa",
+      "id": 46
+    },
+    {
+      "rua": "Myrtice Gateway",
+      "cidade": "South Julianland",
+      "estado": "UT",
+      "numero": "38260-2165",
+      "tipo": "apartamento",
+      "id": 47
+    },
+    {
+      "rua": "Madge Knolls",
+      "cidade": "Nitzscheport",
+      "estado": "CT",
+      "numero": "94199-8395",
+      "tipo": "apartamento",
+      "id": 48
+    },
+    {
+      "rua": "Brendon Crest",
+      "cidade": "Meaganmouth",
+      "estado": "NJ",
+      "numero": "95784",
+      "tipo": "comercial",
+      "id": 49
+    },
+    {
+      "rua": "Russel Mountain",
+      "cidade": "Brendonland",
+      "estado": "GA",
+      "numero": "40454",
+      "tipo": "casa",
+      "id": 50
+    },
+    {
+      "rua": "Altenwerth Walk",
+      "cidade": "New Herta",
+      "estado": "WY",
+      "numero": "31510-7313",
+      "tipo": "apartamento",
+      "id": 51
+    },
+    {
+      "rua": "Jamarcus Valley",
+      "cidade": "Lake Rene",
+      "estado": "NY",
+      "numero": "20151",
+      "tipo": "comercial",
+      "id": 52
+    },
+    {
+      "rua": "Magali Prairie",
+      "cidade": "Lindgrenshire",
+      "estado": "WA",
+      "numero": "56641",
+      "tipo": "comercial",
+      "id": 53
+    },
+    {
+      "rua": "Bergstrom Avenue",
+      "cidade": "Wellington",
+      "estado": "SD",
+      "numero": "23333",
+      "tipo": "apartamento",
+      "id": 54
+    },
+    {
+      "rua": "Turner Extension",
+      "cidade": "Port Hertashire",
+      "estado": "NE",
+      "numero": "71455-6507",
+      "tipo": "apartamento",
+      "id": 55
+    },
+    {
+      "rua": "Kunze Spring",
+      "cidade": "Rutherfordmouth",
+      "estado": "TN",
+      "numero": "48534",
+      "tipo": "casa",
+      "id": 56
+    },
+    {
+      "rua": "Mueller Ville",
+      "cidade": "Muhammadview",
+      "estado": "NJ",
+      "numero": "40694",
+      "tipo": "comercial",
+      "id": 57
+    },
+    {
+      "rua": "Lucas Mills",
+      "cidade": "Melanyshire",
+      "estado": "OH",
+      "numero": "43888-9896",
+      "tipo": "apartamento",
+      "id": 58
+    },
+    {
+      "rua": "Daniel Fort",
+      "cidade": "Russelmouth",
+      "estado": "VA",
+      "numero": "65999-3749",
+      "tipo": "comercial",
+      "id": 59
+    },
+    {
+      "rua": "Dalton Road",
+      "cidade": "North Cesarfort",
+      "estado": "TX",
+      "numero": "85033",
+      "tipo": "casa",
+      "id": 60
+    },
+    {
+      "rua": "Vivienne Loaf",
+      "cidade": "Gusikowskitown",
+      "estado": "CA",
+      "numero": "56386",
+      "tipo": "apartamento",
+      "id": 61
+    },
+    {
+      "rua": "Aubree Spur",
+      "cidade": "West Wainomouth",
+      "estado": "AK",
+      "numero": "03848",
+      "tipo": "comercial",
+      "id": 62
+    },
+    {
+      "rua": "Audrey Highway",
+      "cidade": "Lake Aricburgh",
+      "estado": "NJ",
+      "numero": "31911",
+      "tipo": "apartamento",
+      "id": 63
+    },
+    {
+      "rua": "Brant Plains",
+      "cidade": "Port Seanburgh",
+      "estado": "MO",
+      "numero": "69629",
+      "tipo": "apartamento",
+      "id": 64
+    },
+    {
+      "rua": "Jessy Bridge",
+      "cidade": "Juanafurt",
+      "estado": "CA",
+      "numero": "36914-1968",
+      "tipo": "apartamento",
+      "id": 65
+    },
+    {
+      "rua": "Sipes Manors",
+      "cidade": "East Ivaville",
+      "estado": "NM",
+      "numero": "10666-0501",
+      "tipo": "comercial",
+      "id": 66
+    },
+    {
+      "rua": "Dach Ridges",
+      "cidade": "South Thaliachester",
+      "estado": "FL",
+      "numero": "68294",
+      "tipo": "comercial",
+      "id": 67
+    },
+    {
+      "rua": "Krajcik Parks",
+      "cidade": "Salt Lake City",
+      "estado": "NY",
+      "numero": "19796",
+      "tipo": "apartamento",
+      "id": 68
+    },
+    {
+      "rua": "Jazmyne Drive",
+      "cidade": "West Palm Beach",
+      "estado": "OH",
+      "numero": "41716",
+      "tipo": "comercial",
+      "id": 69
+    },
+    {
+      "rua": "Block Branch",
+      "cidade": "West Creola",
+      "estado": "WA",
+      "numero": "06263",
+      "tipo": "apartamento",
+      "id": 70
+    },
+    {
+      "rua": "Meta Keys",
+      "cidade": "Wichita Falls",
+      "estado": "AR",
+      "numero": "82837-1928",
+      "tipo": "apartamento",
+      "id": 71
+    },
+    {
+      "rua": "Marks River",
+      "cidade": "Hettingerside",
+      "estado": "AK",
+      "numero": "78221-3541",
+      "tipo": "comercial",
+      "id": 72
+    },
+    {
+      "rua": "Strosin Vista",
+      "cidade": "East Amarimouth",
+      "estado": "KY",
+      "numero": "36083",
+      "tipo": "comercial",
+      "id": 73
+    },
+    {
+      "rua": "Little Stream",
+      "cidade": "Lake Cornellfort",
+      "estado": "UT",
+      "numero": "31053-1432",
+      "tipo": "comercial",
+      "id": 74
+    },
+    {
+      "rua": "Purdy Plains",
+      "cidade": "South Lonview",
+      "estado": "KY",
+      "numero": "71764-9341",
+      "tipo": "casa",
+      "id": 75
+    },
+    {
+      "rua": "Haylie Summit",
+      "cidade": "Gutmannville",
+      "estado": "FL",
+      "numero": "36087-7696",
+      "tipo": "comercial",
+      "id": 76
+    },
+    {
+      "rua": "Mozelle Gateway",
+      "cidade": "West Arvidton",
+      "estado": "NE",
+      "numero": "24884-2428",
+      "tipo": "apartamento",
+      "id": 77
+    },
+    {
+      "rua": "Nigel Shoals",
+      "cidade": "West Agustinafurt",
+      "estado": "MT",
+      "numero": "53002-7399",
+      "tipo": "apartamento",
+      "id": 78
+    },
+    {
+      "rua": "Stroman Land",
+      "cidade": "New Allanberg",
+      "estado": "TX",
+      "numero": "94178",
+      "tipo": "apartamento",
+      "id": 79
+    },
+    {
+      "rua": "Ellsworth Trail",
+      "cidade": "Layton",
+      "estado": "PA",
+      "numero": "16902-3443",
+      "tipo": "apartamento",
+      "id": 80
+    },
+    {
+      "rua": "Franecki Terrace",
+      "cidade": "Colehaven",
+      "estado": "NM",
+      "numero": "11272-1096",
+      "tipo": "comercial",
+      "id": 81
+    },
+    {
+      "rua": "Moriah River",
+      "cidade": "Lorain",
+      "estado": "CO",
+      "numero": "95166",
+      "tipo": "comercial",
+      "id": 82
+    },
+    {
+      "rua": "Bailee Vista",
+      "cidade": "New Orleans",
+      "estado": "NC",
+      "numero": "24143",
+      "tipo": "apartamento",
+      "id": 83
+    },
+    {
+      "rua": "Isadore Place",
+      "cidade": "Grahamtown",
+      "estado": "MO",
+      "numero": "91580",
+      "tipo": "comercial",
+      "id": 84
+    },
+    {
+      "rua": "Robb Orchard",
+      "cidade": "Rio Rancho",
+      "estado": "VT",
+      "numero": "39940",
+      "tipo": "casa",
+      "id": 85
+    },
+    {
+      "rua": "Giovani Cliff",
+      "cidade": "Jeraldchester",
+      "estado": "IA",
+      "numero": "08564-7800",
+      "tipo": "comercial",
+      "id": 86
+    },
+    {
+      "rua": "Boyer Circle",
+      "cidade": "Lake Serenaview",
+      "estado": "MO",
+      "numero": "10194",
+      "tipo": "casa",
+      "id": 87
+    },
+    {
+      "rua": "Koelpin Curve",
+      "cidade": "Harrisburg",
+      "estado": "WI",
+      "numero": "80706-1707",
+      "tipo": "comercial",
+      "id": 88
+    },
+    {
+      "rua": "Haley Ville",
+      "cidade": "Josephchester",
+      "estado": "GA",
+      "numero": "80105",
+      "tipo": "comercial",
+      "id": 89
+    },
+    {
+      "rua": "Ora Lodge",
+      "cidade": "New Queenie",
+      "estado": "NH",
+      "numero": "73433",
+      "tipo": "apartamento",
+      "id": 90
+    },
+    {
+      "rua": "Yasmine Burg",
+      "cidade": "South Jedstad",
+      "estado": "IN",
+      "numero": "83335",
+      "tipo": "comercial",
+      "id": 91
+    },
+    {
+      "rua": "Kozey Lakes",
+      "cidade": "Port Rosamond",
+      "estado": "PA",
+      "numero": "63988",
+      "tipo": "casa",
+      "id": 92
+    },
+    {
+      "rua": "Bartell Junction",
+      "cidade": "Wunschview",
+      "estado": "GA",
+      "numero": "17413",
+      "tipo": "casa",
+      "id": 93
+    },
+    {
+      "rua": "Schneider Gardens",
+      "cidade": "New Rustyland",
+      "estado": "DE",
+      "numero": "85196",
+      "tipo": "apartamento",
+      "id": 94
+    },
+    {
+      "rua": "Schroeder Circles",
+      "cidade": "Morgantown",
+      "estado": "TN",
+      "numero": "38470-9351",
+      "tipo": "comercial",
+      "id": 95
+    },
+    {
+      "rua": "Burdette Harbors",
+      "cidade": "New Elwin",
+      "estado": "SD",
+      "numero": "12394",
+      "tipo": "apartamento",
+      "id": 96
+    },
+    {
+      "rua": "Emmet Estate",
+      "cidade": "Lake Madelynn",
+      "estado": "NC",
+      "numero": "39583",
+      "tipo": "comercial",
+      "id": 97
+    },
+    {
+      "rua": "Aiden Square",
+      "cidade": "Tommieborough",
+      "estado": "MN",
+      "numero": "41175",
+      "tipo": "comercial",
+      "id": 98
+    },
+    {
+      "rua": "Stehr Spurs",
+      "cidade": "Zemlakside",
+      "estado": "SD",
+      "numero": "15642-6054",
+      "tipo": "apartamento",
+      "id": 99
+    },
+    {
+      "rua": "Mayer Square",
+      "cidade": "Port Samanthabury",
+      "estado": "DE",
+      "numero": "79506",
+      "tipo": "casa",
+      "id": 100
+    },
+    {
+      "rua": "rua teste",
+      "cidade": "cidade teste",
+      "estado": "estado teste",
+      "numero": "numero teste",
+      "tipo": "tipo teste",
+      "id": 101,
+      "proprietarios": [51]
+    }
+  ]
+}

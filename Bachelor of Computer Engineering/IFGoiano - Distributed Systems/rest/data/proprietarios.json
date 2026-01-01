@@ -1,0 +1,313 @@
+{
+  "proprietarios": [
+    {
+      "id": 1,
+      "nome": "João da Silva",
+      "cpf": "123.456.789-00",
+      "email": "joao1@email.com",
+      "imoveis": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "nome": "Maria Oliveira",
+      "cpf": "234.567.890-11",
+      "email": "maria2@email.com",
+      "imoveis": [4]
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Souza",
+      "cpf": "345.678.901-22",
+      "email": "carlos3@email.com"
+    },
+    {
+      "id": 4,
+      "nome": "Ana Paula",
+      "cpf": "456.789.012-33",
+      "email": "ana4@email.com"
+    },
+    {
+      "id": 5,
+      "nome": "Pedro Santos",
+      "cpf": "567.890.123-44",
+      "email": "pedro5@email.com"
+    },
+    {
+      "id": 6,
+      "nome": "Juliana Lima",
+      "cpf": "678.901.234-55",
+      "email": "juliana6@email.com"
+    },
+    {
+      "id": 7,
+      "nome": "Rafael Costa",
+      "cpf": "789.012.345-66",
+      "email": "rafael7@email.com"
+    },
+    {
+      "id": 8,
+      "nome": "Fernanda Rocha",
+      "cpf": "890.123.456-77",
+      "email": "fernanda8@email.com"
+    },
+    {
+      "id": 9,
+      "nome": "Lucas Almeida",
+      "cpf": "901.234.567-88",
+      "email": "lucas9@email.com"
+    },
+    {
+      "id": 10,
+      "nome": "Patricia Mendes",
+      "cpf": "012.345.678-99",
+      "email": "patricia10@email.com"
+    },
+    {
+      "id": 11,
+      "nome": "Bruno Martins",
+      "cpf": "111.222.333-44",
+      "email": "bruno11@email.com"
+    },
+    {
+      "id": 12,
+      "nome": "Camila Ribeiro",
+      "cpf": "222.333.444-55",
+      "email": "camila12@email.com"
+    },
+    {
+      "id": 13,
+      "nome": "Rodrigo Pires",
+      "cpf": "333.444.555-66",
+      "email": "rodrigo13@email.com"
+    },
+    {
+      "id": 14,
+      "nome": "Aline Teixeira",
+      "cpf": "444.555.666-77",
+      "email": "aline14@email.com"
+    },
+    {
+      "id": 15,
+      "nome": "Eduardo Nunes",
+      "cpf": "555.666.777-88",
+      "email": "eduardo15@email.com"
+    },
+    {
+      "id": 16,
+      "nome": "Larissa Barros",
+      "cpf": "666.777.888-99",
+      "email": "larissa16@email.com"
+    },
+    {
+      "id": 17,
+      "nome": "Felipe Gomes",
+      "cpf": "777.888.999-00",
+      "email": "felipe17@email.com"
+    },
+    {
+      "id": 18,
+      "nome": "Vanessa Dias",
+      "cpf": "888.999.000-11",
+      "email": "vanessa18@email.com"
+    },
+    {
+      "id": 19,
+      "nome": "Thiago Freitas",
+      "cpf": "999.000.111-22",
+      "email": "thiago19@email.com"
+    },
+    {
+      "id": 20,
+      "nome": "Mariana Faria",
+      "cpf": "000.111.222-33",
+      "email": "mariana20@email.com"
+    },
+    {
+      "id": 21,
+      "nome": "Gustavo Pinto",
+      "cpf": "101.202.303-44",
+      "email": "gustavo21@email.com"
+    },
+    {
+      "id": 22,
+      "nome": "Renata Cardoso",
+      "cpf": "202.303.404-55",
+      "email": "renata22@email.com"
+    },
+    {
+      "id": 23,
+      "nome": "Diego Lopes",
+      "cpf": "303.404.505-66",
+      "email": "diego23@email.com"
+    },
+    {
+      "id": 24,
+      "nome": "Tatiane Araujo",
+      "cpf": "404.505.606-77",
+      "email": "tatiane24@email.com"
+    },
+    {
+      "id": 25,
+      "nome": "Leandro Cunha",
+      "cpf": "505.606.707-88",
+      "email": "leandro25@email.com"
+    },
+    {
+      "id": 26,
+      "nome": "Priscila Castro",
+      "cpf": "606.707.808-99",
+      "email": "priscila26@email.com"
+    },
+    {
+      "id": 27,
+      "nome": "Alexandre Rezende",
+      "cpf": "707.808.909-00",
+      "email": "alexandre27@email.com"
+    },
+    {
+      "id": 28,
+      "nome": "Simone Tavares",
+      "cpf": "808.909.010-11",
+      "email": "simone28@email.com"
+    },
+    {
+      "id": 29,
+      "nome": "Ricardo Moreira",
+      "cpf": "909.010.121-22",
+      "email": "ricardo29@email.com"
+    },
+    {
+      "id": 30,
+      "nome": "Sabrina Silveira",
+      "cpf": "010.121.232-33",
+      "email": "sabrina30@email.com"
+    },
+    {
+      "id": 31,
+      "nome": "Fábio Vieira",
+      "cpf": "121.232.343-44",
+      "email": "fabio31@email.com"
+    },
+    {
+      "id": 32,
+      "nome": "Helena Guimarães",
+      "cpf": "232.343.454-55",
+      "email": "helena32@email.com"
+    },
+    {
+      "id": 33,
+      "nome": "André Matos",
+      "cpf": "343.454.565-66",
+      "email": "andre33@email.com"
+    },
+    {
+      "id": 34,
+      "nome": "Patrícia Fernandes",
+      "cpf": "454.565.676-77",
+      "email": "patricia34@email.com"
+    },
+    {
+      "id": 35,
+      "nome": "Marcelo Peixoto",
+      "cpf": "565.676.787-88",
+      "email": "marcelo35@email.com"
+    },
+    {
+      "id": 36,
+      "nome": "Cristina Prado",
+      "cpf": "676.787.898-99",
+      "email": "cristina36@email.com"
+    },
+    {
+      "id": 37,
+      "nome": "Vitor Siqueira",
+      "cpf": "787.898.909-00",
+      "email": "vitor37@email.com"
+    },
+    {
+      "id": 38,
+      "nome": "Elaine Furtado",
+      "cpf": "898.909.020-11",
+      "email": "elaine38@email.com"
+    },
+    {
+      "id": 39,
+      "nome": "Otávio Brito",
+      "cpf": "909.020.131-22",
+      "email": "otavio39@email.com"
+    },
+    {
+      "id": 40,
+      "nome": "Marta Sales",
+      "cpf": "020.131.242-33",
+      "email": "marta40@email.com"
+    },
+    {
+      "id": 41,
+      "nome": "Bruna Xavier",
+      "cpf": "131.242.353-44",
+      "email": "bruna41@email.com"
+    },
+    {
+      "id": 42,
+      "nome": "Paulo Barreto",
+      "cpf": "242.353.464-55",
+      "email": "paulo42@email.com"
+    },
+    {
+      "id": 43,
+      "nome": "Isabela Diniz",
+      "cpf": "353.464.575-66",
+      "email": "isabela43@email.com"
+    },
+    {
+      "id": 44,
+      "nome": "Murilo Queiroz",
+      "cpf": "464.575.686-77",
+      "email": "murilo44@email.com"
+    },
+    {
+      "id": 45,
+      "nome": "Natália Assis",
+      "cpf": "575.686.797-88",
+      "email": "natalia45@email.com"
+    },
+    {
+      "id": 46,
+      "nome": "Danilo Borges",
+      "cpf": "686.797.808-99",
+      "email": "danilo46@email.com"
+    },
+    {
+      "id": 47,
+      "nome": "Letícia Macedo",
+      "cpf": "797.808.919-00",
+      "email": "leticia47@email.com"
+    },
+    {
+      "id": 48,
+      "nome": "Gabriel Antunes",
+      "cpf": "808.919.030-11",
+      "email": "gabriel48@email.com"
+    },
+    {
+      "id": 49,
+      "nome": "Tatiana Souza",
+      "cpf": "919.030.141-22",
+      "email": "tatiana49@email.com"
+    },
+    {
+      "id": 50,
+      "nome": "Henrique Melo",
+      "cpf": "030.141.252-33",
+      "email": "henrique50@email.com"
+    },
+    {
+      "nome": "nome teste",
+      "cpf": "cpf teste",
+      "email": "email teste",
+      "id": 51,
+      "imoveis": [101]
+    }
+  ]
+}
