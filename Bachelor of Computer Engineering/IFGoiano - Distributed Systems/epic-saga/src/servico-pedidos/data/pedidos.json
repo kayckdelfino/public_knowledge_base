@@ -1,0 +1,146 @@
+[
+  {
+    "pedidoId": "cde21262-c465-4420-9a6b-5ba319ea323e",
+    "clienteId": "cliente-123",
+    "produtoId": "produto-abc",
+    "quantidade": 2,
+    "valor": 150.0,
+    "status": "CONFIRMADO"
+  },
+  {
+    "pedidoId": "7d4a8aa0-a7aa-4cfa-822b-ef414d70141e",
+    "clienteId": "cliente-erro-pgto",
+    "produtoId": "produto-abc",
+    "quantidade": 1,
+    "valor": 1500.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "f6ab1ae9-26d8-4365-bc6d-b430aec54453",
+    "clienteId": "cliente-erro-estoque",
+    "produtoId": "produto-abc",
+    "quantidade": 500,
+    "valor": 50.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "732aa643-d5ce-4056-8bb5-dcced9231ec3",
+    "clienteId": "cliente-123",
+    "produtoId": "produto-abc",
+    "quantidade": 10,
+    "valor": 150.0,
+    "status": "CONFIRMADO"
+  },
+  {
+    "pedidoId": "7a77dc6f-3900-4c9c-8528-6021314b7bf3",
+    "clienteId": "cliente-123",
+    "produtoId": "produto-abc",
+    "quantidade": 3,
+    "valor": 450.0,
+    "status": "CONFIRMADO"
+  },
+  {
+    "pedidoId": "32cf37bd-87cc-47a6-afe3-d004838c365b",
+    "clienteId": "c1",
+    "produtoId": "produto-abc",
+    "quantidade": 1,
+    "valor": 150.0,
+    "status": "CONFIRMADO"
+  },
+  {
+    "pedidoId": "0dc8e5b6-b0ac-4af3-987d-c3d1c2ed4f81",
+    "clienteId": "c1",
+    "produtoId": "produto-abc",
+    "quantidade": 1,
+    "valor": 1000.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "090f99c3-5d0c-4a79-a73b-f4c5b2fde317",
+    "clienteId": "c1",
+    "produtoId": "produto-abc",
+    "quantidade": 500,
+    "valor": 150.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "c8676840-8916-47ff-99d7-5e78fb4cb5bc",
+    "clienteId": "c1",
+    "produtoId": "produto-abc",
+    "quantidade": 1,
+    "valor": 1500.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "36e6ecb0-132a-4278-9b03-5d1eaa2f2932",
+    "clienteId": "c1",
+    "produtoId": "produto-abc",
+    "quantidade": 500,
+    "valor": 500.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "c4de9242-78fa-4fe6-b777-7e5e85d09997",
+    "clienteId": "c1",
+    "produtoId": "produto-abc",
+    "quantidade": 5,
+    "valor": 500.0,
+    "status": "CONFIRMADO"
+  },
+  {
+    "pedidoId": "dc2a04fc-f568-4cbf-a803-1d43633d234b",
+    "clienteId": "c1",
+    "produtoId": "produto-abcd",
+    "quantidade": 5,
+    "valor": 500.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "fdb433dc-a947-4a7b-8314-a95c58836cbd",
+    "clienteId": "c1",
+    "produtoId": "produto-abc",
+    "quantidade": 5,
+    "valor": 1500.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "b9929fbc-828a-4f33-b3e3-8542243909db",
+    "clienteId": "c1",
+    "produtoId": "produto-abc",
+    "quantidade": 500,
+    "valor": 500.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "27d9433b-0e8c-4862-9fd9-da95394f46ac",
+    "clienteId": "c123",
+    "produtoId": "produto-abc",
+    "quantidade": 10,
+    "valor": 500.0,
+    "status": "CONFIRMADO"
+  },
+  {
+    "pedidoId": "ed6765df-7f1e-4684-9bc9-4c035db83184",
+    "clienteId": "c123",
+    "produtoId": "produto-abc",
+    "quantidade": 10,
+    "valor": 1500.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "62216c41-8d91-44eb-a732-cae44af3fff3",
+    "clienteId": "c123",
+    "produtoId": "produto-abc",
+    "quantidade": 1000,
+    "valor": 500.0,
+    "status": "CANCELADO"
+  },
+  {
+    "pedidoId": "9ed06dd6-db9b-4a00-af66-ec47bb2df3ea",
+    "clienteId": "c123",
+    "produtoId": "produto-abc",
+    "quantidade": 10,
+    "valor": 1500.0,
+    "status": "CANCELADO"
+  }
+]

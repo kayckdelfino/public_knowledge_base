@@ -1,0 +1,195 @@
+{
+  "sagas": [
+    {
+      "timestamp": "2025-11-14T02:33:35.707247",
+      "status": "PEDIDO_CONFIRMADO",
+      "pedidoId": "cde21262-c465-4420-9a6b-5ba319ea323e",
+      "pagamentoId": "e19cd1df-6c5b-4ee8-9bdc-eceb33b54b1d",
+      "clienteId": "cliente-123",
+      "produtoId": "produto-abc",
+      "quantidade": 2
+    },
+    {
+      "timestamp": "2025-11-14T02:34:06.628265",
+      "status": "FALHA_PAGAMENTO",
+      "pedidoId": "7d4a8aa0-a7aa-4cfa-822b-ef414d70141e",
+      "motivo": {
+        "detail": "Pagamento recusado (simulação: valor >= 1000)"
+      }
+    },
+    {
+      "timestamp": "2025-11-14T02:34:21.644722",
+      "status": "FALHA_CRIAR_PEDIDO",
+      "motivo": {
+        "detail": "Simulação de falha no serviço de pedidos (produtoId == 0)"
+      }
+    },
+    {
+      "timestamp": "2025-11-14T02:34:53.217855",
+      "status": "FALHA_ESTOQUE",
+      "pedidoId": "f6ab1ae9-26d8-4365-bc6d-b430aec54453",
+      "pagamentoId": "9f747d20-92cc-4763-af0b-b97c74135c3a",
+      "motivo": {
+        "detail": "Falha no estoque (simulação: quantidade >= 500)"
+      }
+    },
+    {
+      "timestamp": "2025-11-14T02:36:17.324536",
+      "status": "PEDIDO_CONFIRMADO",
+      "pedidoId": "732aa643-d5ce-4056-8bb5-dcced9231ec3",
+      "pagamentoId": "d10c890f-5edb-424a-8a4d-ce5f79d61c87",
+      "clienteId": "cliente-123",
+      "produtoId": "produto-abc",
+      "quantidade": 10
+    },
+    {
+      "timestamp": "2025-11-16T18:12:17.317713",
+      "status": "PEDIDO_CONFIRMADO",
+      "pedidoId": "7a77dc6f-3900-4c9c-8528-6021314b7bf3",
+      "pagamentoId": "9789afb4-67e8-4d85-aeb9-077fec51c941",
+      "clienteId": "cliente-123",
+      "produtoId": "produto-abc",
+      "quantidade": 3
+    },
+    {
+      "timestamp": "2025-11-16T18:41:46.418366",
+      "status": "PEDIDO_CONFIRMADO",
+      "pedidoId": "32cf37bd-87cc-47a6-afe3-d004838c365b",
+      "pagamentoId": "ed30faee-e356-4b60-b62d-ece2f3a05833",
+      "clienteId": "c1",
+      "produtoId": "produto-abc",
+      "quantidade": 1
+    },
+    {
+      "timestamp": "2025-11-16T18:42:10.833232",
+      "status": "FALHA_PAGAMENTO",
+      "pedidoId": "0dc8e5b6-b0ac-4af3-987d-c3d1c2ed4f81",
+      "motivo": {
+        "detail": "Pagamento recusado (simulação: valor >= 1000)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T18:42:35.256632",
+      "status": "FALHA_ESTOQUE",
+      "pedidoId": "090f99c3-5d0c-4a79-a73b-f4c5b2fde317",
+      "pagamentoId": "d4e099a3-3ba6-4320-bae3-48bdb04bf9d1",
+      "motivo": {
+        "detail": "Falha no estoque (simulação: quantidade >= 500)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T18:43:34.476078",
+      "status": "FALHA_CRIAR_PEDIDO",
+      "motivo": {
+        "detail": "Simulação de falha no serviço de pedidos (produtoId == 0)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T18:44:55.922863",
+      "status": "FALHA_PAGAMENTO",
+      "pedidoId": "c8676840-8916-47ff-99d7-5e78fb4cb5bc",
+      "motivo": {
+        "detail": "Pagamento recusado (simulação: valor >= 1000)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T18:46:00.962395",
+      "status": "FALHA_ESTOQUE",
+      "pedidoId": "36e6ecb0-132a-4278-9b03-5d1eaa2f2932",
+      "pagamentoId": "6a742c92-5cdf-430d-8f95-5830262ddf2b",
+      "motivo": {
+        "detail": "Falha no estoque (simulação: quantidade >= 500)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T18:47:20.249878",
+      "status": "FALHA_CRIAR_PEDIDO",
+      "motivo": {
+        "detail": "Simulação de falha no serviço de pedidos (produtoId == 0)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T18:59:48.498333",
+      "status": "PEDIDO_CONFIRMADO",
+      "pedidoId": "c4de9242-78fa-4fe6-b777-7e5e85d09997",
+      "pagamentoId": "8d9b2792-3b5c-4c20-bfe9-6a28a7588450",
+      "clienteId": "c1",
+      "produtoId": "produto-abc",
+      "quantidade": 5
+    },
+    {
+      "timestamp": "2025-11-16T19:00:02.926400",
+      "status": "FALHA_ESTOQUE",
+      "pedidoId": "dc2a04fc-f568-4cbf-a803-1d43633d234b",
+      "pagamentoId": "3cd3a354-2fd9-45c6-9f13-08209356d302",
+      "motivo": {
+        "detail": "Estoque insuficiente"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T19:01:10.227938",
+      "status": "FALHA_CRIAR_PEDIDO",
+      "motivo": {
+        "detail": "Simulação de falha no serviço de pedidos (produtoId == 0)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T19:01:41.829754",
+      "status": "FALHA_PAGAMENTO",
+      "pedidoId": "fdb433dc-a947-4a7b-8314-a95c58836cbd",
+      "motivo": {
+        "detail": "Pagamento recusado (simulação: valor >= 1000)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T19:02:02.985322",
+      "status": "FALHA_ESTOQUE",
+      "pedidoId": "b9929fbc-828a-4f33-b3e3-8542243909db",
+      "pagamentoId": "df16eeca-697b-45be-9c62-436216b2d76b",
+      "motivo": {
+        "detail": "Falha no estoque (simulação: quantidade >= 500)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T20:07:53.241384",
+      "status": "PEDIDO_CONFIRMADO",
+      "pedidoId": "27d9433b-0e8c-4862-9fd9-da95394f46ac",
+      "pagamentoId": "78b789e1-1b4e-4a1c-9eb2-87f2829e977b",
+      "clienteId": "c123",
+      "produtoId": "produto-abc",
+      "quantidade": 10
+    },
+    {
+      "timestamp": "2025-11-16T20:12:59.601415",
+      "status": "FALHA_CRIAR_PEDIDO",
+      "motivo": {
+        "detail": "Simulação de falha no serviço de pedidos (produtoId == 0)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T20:15:25.239537",
+      "status": "FALHA_PAGAMENTO",
+      "pedidoId": "ed6765df-7f1e-4684-9bc9-4c035db83184",
+      "motivo": {
+        "detail": "Pagamento recusado (simulação: valor >= 1000)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T20:34:06.601365",
+      "status": "FALHA_ESTOQUE",
+      "pedidoId": "62216c41-8d91-44eb-a732-cae44af3fff3",
+      "pagamentoId": "1883f016-bc8c-4daf-8590-d187971c4666",
+      "motivo": {
+        "detail": "Falha no estoque (simulação: quantidade >= 500)"
+      }
+    },
+    {
+      "timestamp": "2025-11-16T22:18:46.379855",
+      "status": "FALHA_PAGAMENTO",
+      "pedidoId": "9ed06dd6-db9b-4a00-af66-ec47bb2df3ea",
+      "motivo": {
+        "detail": "Pagamento recusado (simulação: valor >= 1000)"
+      }
+    }
+  ]
+}

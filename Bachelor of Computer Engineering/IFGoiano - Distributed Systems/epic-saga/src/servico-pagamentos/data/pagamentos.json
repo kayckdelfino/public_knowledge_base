@@ -1,0 +1,86 @@
+[
+  {
+    "pagamentoId": "e19cd1df-6c5b-4ee8-9bdc-eceb33b54b1d",
+    "pedidoId": "cde21262-c465-4420-9a6b-5ba319ea323e",
+    "produtoId": "produto-abc",
+    "valor": 150.0,
+    "status": "APROVADO"
+  },
+  {
+    "pagamentoId": "9f747d20-92cc-4763-af0b-b97c74135c3a",
+    "pedidoId": "f6ab1ae9-26d8-4365-bc6d-b430aec54453",
+    "produtoId": "produto-abc",
+    "valor": 50.0,
+    "status": "REEMBOLSADO"
+  },
+  {
+    "pagamentoId": "d10c890f-5edb-424a-8a4d-ce5f79d61c87",
+    "pedidoId": "732aa643-d5ce-4056-8bb5-dcced9231ec3",
+    "produtoId": "produto-abc",
+    "valor": 150.0,
+    "status": "APROVADO"
+  },
+  {
+    "pagamentoId": "9789afb4-67e8-4d85-aeb9-077fec51c941",
+    "pedidoId": "7a77dc6f-3900-4c9c-8528-6021314b7bf3",
+    "produtoId": "produto-abc",
+    "valor": 450.0,
+    "status": "APROVADO"
+  },
+  {
+    "pagamentoId": "ed30faee-e356-4b60-b62d-ece2f3a05833",
+    "pedidoId": "32cf37bd-87cc-47a6-afe3-d004838c365b",
+    "produtoId": "produto-abc",
+    "valor": 150.0,
+    "status": "APROVADO"
+  },
+  {
+    "pagamentoId": "d4e099a3-3ba6-4320-bae3-48bdb04bf9d1",
+    "pedidoId": "090f99c3-5d0c-4a79-a73b-f4c5b2fde317",
+    "produtoId": "produto-abc",
+    "valor": 150.0,
+    "status": "REEMBOLSADO"
+  },
+  {
+    "pagamentoId": "6a742c92-5cdf-430d-8f95-5830262ddf2b",
+    "pedidoId": "36e6ecb0-132a-4278-9b03-5d1eaa2f2932",
+    "produtoId": "produto-abc",
+    "valor": 500.0,
+    "status": "REEMBOLSADO"
+  },
+  {
+    "pagamentoId": "8d9b2792-3b5c-4c20-bfe9-6a28a7588450",
+    "pedidoId": "c4de9242-78fa-4fe6-b777-7e5e85d09997",
+    "produtoId": "produto-abc",
+    "valor": 500.0,
+    "status": "APROVADO"
+  },
+  {
+    "pagamentoId": "3cd3a354-2fd9-45c6-9f13-08209356d302",
+    "pedidoId": "dc2a04fc-f568-4cbf-a803-1d43633d234b",
+    "produtoId": "produto-abcd",
+    "valor": 500.0,
+    "status": "REEMBOLSADO"
+  },
+  {
+    "pagamentoId": "df16eeca-697b-45be-9c62-436216b2d76b",
+    "pedidoId": "b9929fbc-828a-4f33-b3e3-8542243909db",
+    "produtoId": "produto-abc",
+    "valor": 500.0,
+    "status": "REEMBOLSADO"
+  },
+  {
+    "pagamentoId": "78b789e1-1b4e-4a1c-9eb2-87f2829e977b",
+    "pedidoId": "27d9433b-0e8c-4862-9fd9-da95394f46ac",
+    "produtoId": "produto-abc",
+    "valor": 500.0,
+    "status": "APROVADO"
+  },
+  {
+    "pagamentoId": "1883f016-bc8c-4daf-8590-d187971c4666",
+    "pedidoId": "62216c41-8d91-44eb-a732-cae44af3fff3",
+    "produtoId": "produto-abc",
+    "valor": 500.0,
+    "status": "REEMBOLSADO"
+  }
+]
