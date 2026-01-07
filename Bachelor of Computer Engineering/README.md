@@ -20,6 +20,10 @@ This section encompasses materials from the 'Data Structure I' course at IFGoian
 
 This section encompasses materials from the 'Data Structure II' course at IFGoiano, covering more fundamental data structures and algorithms.
 
+### [IFGoiano - Distributed Systems](./IFGoiano%20-%20Distributed%20Systems/)
+
+This section contains projects from the 'Distributed Systems' course at IFGoiano, covering concepts such as communication, synchronization, and distributed application development.
+
 ### [IFGoiano - Formal Languages and Automata](./IFGoiano%20-%20Formal%20Languages%20and%20Automata/)
 
 This section contains materials from the 'Formal Languages and Automata' course at IFGoiano, focusing on theoretical computer science concepts.
