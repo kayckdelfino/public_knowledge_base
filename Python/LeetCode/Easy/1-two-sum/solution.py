@@ -43,3 +43,38 @@ class Solution:
                 return [index_by_value[needed], i]
 
             index_by_value[value] = i
+
+        return []
+
+
+if __name__ == "__main__":
+    solution = Solution()
+
+    # Test case 1
+    nums = [2, 7, 11, 15]
+    target = 9
+    result = solution.twoSum(nums, target)
+
+    print("Input:", nums, "| Target:", target)
+    print("Output:", result)
+    assert result == [0, 1]
+
+    # Test case 2
+    nums = [3, 2, 4]
+    target = 6
+    result = solution.twoSum(nums, target)
+
+    print("Input:", nums, "| Target:", target)
+    print("Output:", result)
+    assert result == [1, 2]
+
+    # Test case 3
+    nums = [3, 3]
+    target = 6
+    result = solution.twoSum(nums, target)
+
+    print("Input:", nums, "| Target:", target)
+    print("Output:", result)
+    assert result == [0, 1]
+
+    print("All tests passed successfully.")
